@@ -1,0 +1,74 @@
+<document name="Genesis 1:2" category="Bible">
+  <comments>This xml file contains Verse 2 of Genesis Chapter 1</comments>
+  <component name="Cl">
+    <component name="Cl">
+      <component name="Adp" concept="after" sense="A" />
+      <component name="NP">
+        <component name="N" concept="God" sense="A" />
+      </component>
+      <component name="VP">
+        <component name="V" concept="create" sense="A" />
+      </component>
+      <component name="NP">
+        <component name="N" concept="earth" sense="A" />
+      </component>
+    </component>
+    <component name="NP">
+      <component name="N" concept="thing" sense="A" />
+    </component>
+    <component name="VP">
+      <component name="V" concept="exist" sense="A" />
+    </component>
+    <component name="NP">
+      <component name="Adp" concept="on" sense="C" />
+      <component name="N" concept="earth" sense="A" />
+    </component>
+  </component>
+  <component name="Cl">
+    <component name="NP">
+      <component name="N" concept="water" sense="A" />
+    </component>
+    <component name="VP">
+      <component name="V" concept="cover" sense="C" />
+    </component>
+    <component name="NP">
+      <component name="N" concept="earth" sense="A" />
+    </component>
+  </component>
+  <component name="Cl">
+    <component name="Conj" concept="and" sense="A" />
+    <component name="NP">
+      <component name="N" concept="sky" sense="A" />
+    </component>
+    <component name="VP">
+      <component name="V" concept="be" sense="O" />
+    </component>
+    <component name="AdjP">
+      <component name="Adj" concept="dark" sense="A" />
+    </component>
+    <component name="NP">
+      <component name="Adp" concept="in" sense="C" />
+      <component name="AdjP">
+        <component name="Adj" concept="all" sense="A" />
+        <component name="N" concept="place" sense="A" />
+      </component>
+    </component>
+  </component>
+  <component name="Cl">
+    <component name="Conj" concept="then" sense="A" />
+    <component name="NP">
+      <component name="N" concept="Holy Spirit" sense="A" />
+      <component name="NP">
+        <component name="Adp" concept="Generic Genitive" sense="A" />
+        <component name="N" concept="God" sense="A" />
+      </component>
+    </component>
+    <component name="VP">
+      <component name="V" concept="move" sense="D" />
+    </component>
+    <component name="NP">
+      <component name="Adp" concept="over" sense="A" />
+      <component name="N" concept="water" sense="A" />
+    </component>
+  </component>
+</document>

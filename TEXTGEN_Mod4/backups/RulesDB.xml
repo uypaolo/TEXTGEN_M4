@@ -1,0 +1,215 @@
+<group name="Rules">
+  <group name="Group 1">
+    <group name="Subgroup1">
+      <group name="nouns">
+        <rule name="structural1" type="structural" status="false">
+          <lhs>
+            <component name="cl">
+              <component name="np">
+                <component name="n" concept="Melissa" sense="A" lexicon="Melissa" />
+              </component>
+              <component name="vp">
+                <component name="v" concept="be" sense="A" />
+              </component>
+            </component>
+          </lhs>
+          <output>
+            <component name="cl">
+              <component name="np">
+                <component name="n" concept="Melissa" sense="A" lexicon="Melissa" />
+              </component>
+              <component name="vp">
+                <features>
+                  <feature name="Sequence" value="First Coordinate" />
+                </features>
+                <component name="v" concept="be" sense="A" />
+              </component>
+            </component>
+          </output>
+          <rhs>
+            <action type="edit feature" description="Set vp feature: Sequence to First Coordinate.">
+              <editFeature target="-1">
+                <feature name="Sequence" value="First Coordinate" />
+              </editFeature>
+            </action>
+            <action type="edit feature" description="Set n: Melissa-A feature: Participant Tracking to First Mention.">
+              <editFeature target="-1">
+                <feature name="Participant Tracking" value="First Mention" />
+              </editFeature>
+            </action>
+            <action type="edit feature" description="Set n: Melissa-A feature: Person to First.">
+              <editFeature target="-1">
+                <feature name="Person" value="First" />
+              </editFeature>
+            </action>
+            <action type="edit feature" description="Set n: Melissa-A feature: Number to Singular.">
+              <editFeature target="-1">
+                <feature name="Number" value="Singular" />
+              </editFeature>
+            </action>
+          </rhs>
+          <description />
+        </rule>
+        <rule name="spellout1" type="simple spellout" status="false">
+          <lhs>
+            <component name="n" concept="John" sense="A" />
+          </lhs>
+          <rhs type="simple spellout" subWord="jumo" form="base" />
+          <description>etcccccccefrferg</description>
+        </rule>
+        <rule name="formselection1" type="form selection" status="false">
+          <lhs>
+            <component name="N" concept="John" sense="A" />
+          </lhs>
+          <form name="plural" />
+          <description>hjkref</description>
+        </rule>
+      </group>
+      <group name="verbs">
+        <rule name="morpho1" type="morphophonemic" status="false">
+          <lhs>
+            <component name="morpho1" />
+          </lhs>
+          <rhs morphemeType="prefix" changeType="end" oldValue="s" newValue="es" />
+          <stem stemType="doesn't change" beginOrEnd="y" />
+          <description>hjkref</description>
+        </rule>
+        <rule name="morpho2" type="morphophonemic" status="false">
+          <lhs>
+            <component name="morpho2" />
+          </lhs>
+          <rhs morphemeType="suffix" changeType="beginning" oldValue="s" newValue="es" />
+          <stem stemType="changes" beginOrEnd="y" newBeginOrEnd="i" />
+          <description>hjkref</description>
+        </rule>
+        <rule name="morpho3" type="morphophonemic" status="false">
+          <lhs>
+            <component name="morpho3" />
+          </lhs>
+          <rhs morphemeType="prefix" changeType="doesn't change" oldValue="s" />
+          <stem stemType="changes" beginOrEnd="y" newBeginOrEnd="i" />
+          <description>hjkref</description>
+        </rule>
+        <rule name="morpho4" type="morphophonemic" status="false">
+          <lhs>
+            <component name="CL">
+              <component name="np">
+                <component name="N" concept="" sense="" />
+              </component>
+            </component>
+          </lhs>
+          <rhs morphemeType="suffix" changeType="part changes" oldValue="in" newValue="ingan" />
+          <stem stemType="doesn't change" beginOrEnd="kain" />
+          <description>Hello</description>
+        </rule>
+      </group>
+      <rule name="Hahahaha" type="form selection" status="false">
+        <lhs>
+          <component name="Adj" concept="" sense="" />
+        </lhs>
+        <form name="Superlative" />
+        <description>hjkref</description>
+      </rule>
+    </group>
+    <group name="Test" />
+    <rule name="Adjective - Superlative" type="form selection" status="false">
+      <lhs>
+        <component name="CL">
+          <component name="adjp">
+            <component name="Adj" concept="" sense="">
+              <features>
+                <feature name="Degree" value="Superlative" />
+              </features>
+            </component>
+          </component>
+        </component>
+      </lhs>
+      <form name="Superlative" />
+      <description />
+    </rule>
+    <rule name="sldhfwj" type="simple spellout" status="false">
+      <lhs>
+        <component name="CL">
+          <component name="np">
+            <component name="N" concept="" sense="" lexicon="Melissa">
+              <features>
+                <feature name="Participant Tracking" value="Routine" />
+                <feature name="Participant Tracking" value="Frame Inferable" />
+                <feature name="Proximity" value="Temporarily Near" />
+              </features>
+            </component>
+          </component>
+        </component>
+      </lhs>
+      <rhs type="newtranslation" subWord="Hello" form="base" />
+      <description>lskdj</description>
+    </rule>
+  </group>
+  <rule name="Morphophonemic1" type="morphophonemic" status="false">
+    <lhs>
+      <component name="CL">
+        <component name="np">
+          <component name="N" concept="" sense="" />
+        </component>
+      </component>
+    </lhs>
+    <rhs morphemeType="prefix" changeType="doesn't change" oldValue="haha" />
+    <stem stemType="doesn't change" beginOrEnd="hahaa" />
+    <description>Noun</description>
+  </rule>
+  <rule name="Structural Test" type="structural" status="false">
+    <lhs>
+      <component name="Cl" tag="1">
+        <component name="NP" tag="2">
+          <component name="N" tag="3" concept="" sense="" />
+        </component>
+      </component>
+    </lhs>
+    <output>
+      <component name="Cl" tag="1">
+        <component name="NP" tag="2">
+          <component name="N" tag="3" concept="" sense="" />
+        </component>
+      </component>
+    </output>
+    <rhs>
+      <action type="edit feature" description="Set 3-N: - feature: Number to Dual.">
+        <editFeature target="3">
+          <feature name="Number" value="Dual" />
+        </editFeature>
+      </action>
+    </rhs>
+    <description />
+  </rule>
+  <rule name="Adjective - Superlative" type="form selection" status="false">
+    <lhs>
+      <component name="CL">
+        <component name="adjp">
+          <component name="Adj" concept="" sense="">
+            <features>
+              <feature name="Degree" value="Superlative" />
+            </features>
+          </component>
+        </component>
+      </component>
+    </lhs>
+    <form name="Superlative" />
+    <description />
+  </rule>
+  <rule name="Simple Spellout 1" type="simple spellout" status="false">
+    <lhs>
+      <component name="CL">
+        <component name="np">
+          <component name="N" concept="" sense="" lexicon="Melissa">
+            <features>
+              <feature name="Number" value="Dual" />
+              <feature name="Number" value="Trial" />
+            </features>
+          </component>
+        </component>
+      </component>
+    </lhs>
+    <rhs type="suffix" subWord="Ha" form="base" />
+    <description />
+  </rule>
+</group>

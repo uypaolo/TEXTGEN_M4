@@ -1,0 +1,9 @@
+<db name = "pos">
+	<pos name = "adj" description = "Adjective" />
+	<pos name = "adv" description = "Adverb" />
+	<pos name = "conj" description = "Conjuction" />
+	<pos name = "n" description = "Noun" />
+	<pos name = "par" description = "Particle" />
+	<pos name = "adp" description = "Adposition" />
+	<pos name = "v" description = "Verb" />
+</db>

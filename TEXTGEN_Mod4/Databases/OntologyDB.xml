@@ -1,0 +1,20 @@
+<db name = "ontology">
+	 <pos name = "adj">
+		<stem name = "big" sense = "A" >
+			<definition>huge</definition>
+		</stem>
+		<stem name = "little" sense = "A" >
+			<definition>small</definition>
+		</stem>
+	 </pos>
+	 <pos name = "noun">
+		<stem name = "chicken" sense = "A">
+			<definition>kind of poultry</definition>
+		</stem>
+	 </pos>
+	 <pos name = "verb">
+		<stem name = "fly" sense = "A">
+			<definition>fly</definition>
+		</stem>
+	 </pos>
+ </db>

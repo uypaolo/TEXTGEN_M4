@@ -1,0 +1,14 @@
+<db>
+	<component name = "NP" description = "Noun Phrase" type = "phrase" />
+	<component name = "VP" description = "Verb Phrase" type = "phrase" />
+	<component name = "AdjP" description = "Adjective Phrase" type = "phrase" />
+	<component name = "N" description = "Noun" type = "leaf" />
+	<component name = "V" description = "Verb" type = "leaf" />
+	<component name = "Adj" description = "Adjective" type = "leaf" />
+	<component name = "Adp" description = "Adposition" type = "leaf" />
+	<component name = "Cl" description = "Clause" type = "phrase" />
+	<component name = "AdvP" description = "Adverbial Phrase" type = "phrase" />
+	<component name = "Conj" description = "Conjuction" type = "leaf" />
+	<component name = "Par" description = "Particle" type = "leaf" />
+	<component name = "Adv" description = "Adverb" type = "leaf" />
+</db>

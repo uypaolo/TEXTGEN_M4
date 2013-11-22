@@ -1,0 +1,48 @@
+<document name="Infected Eye 1:2" category="Community Documents">
+  <component name="Cl">
+    <component name="Conj" concept="but" sense="A" />
+    <component name="NP">
+      <features>
+        <feature name="Sequence" value="First Coordinate" />
+        <feature name="Semantic Role" value="Source" />
+      </features>
+      <component name="N" concept="Melissa" sense="A" />
+      <component name="Cl">
+        <component name="AdjP">
+          <component name="N" concept="Test" sense="Test">
+            <features>
+              <feature name="Polarity" value="Negative" />
+            </features>
+          </component>
+        </component>
+      </component>
+    </component>
+    <component name="VP">
+      <component name="V" concept="be" sense="D" />
+    </component>
+    <component name="AdjP">
+      <component name="Adj" concept="happy" sense="A" />
+    </component>
+    <component name="Cl">
+      <component name="Adp" concept="because" sense="A" />
+      <component name="NP">
+        <component name="N" concept="eye" sense="A" />
+        <component name="NP">
+          <component name="Adp" concept="Bodypart" sense="A" />
+          <component name="N" concept="Melissa" sense="A" />
+        </component>
+      </component>
+      <component name="VP">
+        <component name="V" concept="be" sense="D">
+          <features>
+            <feature name="Time" value="Yesterday" />
+            <feature name="Mood" value="Must Obligation" />
+          </features>
+        </component>
+      </component>
+      <component name="AdjP">
+        <component name="Adj" concept="sore" sense="A" />
+      </component>
+    </component>
+  </component>
+</document>

@@ -1,0 +1,11 @@
+<pos name="par">
+  <features />
+  <forms />
+  <stems>
+    <stem name="asdasd" gloss="asdasd">
+      <comments>sample sentence</comments>
+      <sentence />
+      <forms />
+    </stem>
+  </stems>
+</pos>

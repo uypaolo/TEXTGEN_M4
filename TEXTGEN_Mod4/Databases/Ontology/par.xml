@@ -1,0 +1,71 @@
+<pos name="par">
+  <stem name="Alternate" sense="A">
+    <definition>marks an alternative analysis; this particle is inserted into a proposition whenever one or more Alternative Analyses are included.</definition>
+  </stem>
+  <stem name="CommentBegin" sense="A">
+    <definition>marks the beginning of a parenthetical comment</definition>
+  </stem>
+  <stem name="CommentEnd" sense="A">
+    <definition>marks the end of a parenthetical comment</definition>
+  </stem>
+  <stem name="QuoteBegin" sense="A">
+    <definition>beginning quote</definition>
+  </stem>
+  <stem name="QuoteEnd" sense="A">
+    <definition>ending quote</definition>
+  </stem>
+  <stem name="ReferenceMarker" sense="A">
+    <definition>marks a chapter and verse in a reference (Psalms 23 Reference Marker 1)</definition>
+  </stem>
+  <stem name="1)" sense="A">
+    <definition>First in a list of items</definition>
+  </stem>
+  <stem name="10)" sense="A">
+    <definition>Tenth in a list of items</definition>
+  </stem>
+  <stem name="11)" sense="A">
+    <definition>Eleventh item in a list of items</definition>
+  </stem>
+  <stem name="12)" sense="A">
+    <definition>Twelfth item in a list of items</definition>
+  </stem>
+  <stem name="2)" sense="A">
+    <definition>Second in a list of items</definition>
+  </stem>
+  <stem name="3)" sense="A">
+    <definition>Third in a list of items</definition>
+  </stem>
+  <stem name="4)" sense="A">
+    <definition>Fourth in a list of items</definition>
+  </stem>
+  <stem name="5)" sense="A">
+    <definition>Fifth in a list of items</definition>
+  </stem>
+  <stem name="6)" sense="A">
+    <definition>Sixth in a list of items</definition>
+  </stem>
+  <stem name="7)" sense="A">
+    <definition>Seventh in a list of items</definition>
+  </stem>
+  <stem name="8)" sense="A">
+    <definition>Eighth in a list of items</definition>
+  </stem>
+  <stem name="9)" sense="A">
+    <definition>Ninth in a list of items</definition>
+  </stem>
+  <stem name="exclamation" sense="A">
+    <definition>marker for end of an exclamation</definition>
+  </stem>
+  <stem name="no" sense="A">
+    <definition>negative response</definition>
+  </stem>
+  <stem name="ok" sense="A">
+    <definition>signals that the speaker has changed his mind and now agrees with the listener</definition>
+  </stem>
+  <stem name="please" sense="A">
+    <definition>particle of polite request, mitigates an imperative</definition>
+  </stem>
+  <stem name="yes" sense="A">
+    <definition>affirmative response</definition>
+  </stem>
+</pos>

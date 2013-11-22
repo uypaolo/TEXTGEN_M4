@@ -1,0 +1,38 @@
+<pos name="n">
+  <features />
+  <forms />
+  <stems>
+    <stem name="Melissa" gloss="Melissa">
+      <comments />
+      <sentence />
+      <forms />
+      <mappings>
+        <mapping concept="Melissa" sense="A" pos="n" />
+      </mappings>
+    </stem>
+    <stem name="babae" gloss="girl">
+      <comments />
+      <sentence />
+      <forms />
+      <mappings>
+        <mapping concept="Girl" sense="A" pos="n" />
+      </mappings>
+    </stem>
+    <stem name="bahay" gloss="house">
+      <comments />
+      <sentence />
+      <forms />
+      <mappings>
+        <mapping concept="house" sense="A" pos="n" />
+      </mappings>
+    </stem>
+    <stem name="mata" gloss="eye">
+      <comments />
+      <sentence />
+      <forms />
+      <mappings>
+        <mapping concept="eye" sense="A" pos="n" />
+      </mappings>
+    </stem>
+  </stems>
+</pos>

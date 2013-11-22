@@ -1,0 +1,56 @@
+<pos name="conj">
+  <stem name="and" sense="A">
+    <definition>joins two or more propositions</definition>
+  </stem>
+  <stem name="and" sense="B">
+    <definition>joins two or more noun phrases</definition>
+  </stem>
+  <stem name="and" sense="C">
+    <definition>joins two or more adjective phrases</definition>
+  </stem>
+  <stem name="and" sense="D">
+    <definition>joins two or more adverb phrases</definition>
+  </stem>
+  <stem name="and" sense="E">
+    <definition>joins simultaneous events (The people rejoiced.  And the people celebrated.)</definition>
+  </stem>
+  <stem name="at-that-time" sense="A">
+    <definition>at that time</definition>
+  </stem>
+  <stem name="but" sense="A">
+    <definition>contrast</definition>
+  </stem>
+  <stem name="likewise" sense="A">
+    <definition />
+  </stem>
+  <stem name="on-the-contrary" sense="A">
+    <definition />
+  </stem>
+  <stem name="or" sense="A">
+    <definition>disjunction of two propositions</definition>
+  </stem>
+  <stem name="or" sense="B">
+    <definition>disjunction of two noun phrases</definition>
+  </stem>
+  <stem name="so" sense="A">
+    <definition />
+  </stem>
+  <stem name="then" sense="A">
+    <definition>temporal succession</definition>
+  </stem>
+  <stem name="then" sense="B">
+    <definition>logical conclusion</definition>
+  </stem>
+  <stem name="then" sense="C">
+    <definition>immediate temporal succession</definition>
+  </stem>
+  <stem name="then" sense="D">
+    <definition>consequence</definition>
+  </stem>
+  <stem name="therefore" sense="A">
+    <definition>it logically follows that</definition>
+  </stem>
+  <stem name="thus" sense="A">
+    <definition>in this way</definition>
+  </stem>
+</pos>

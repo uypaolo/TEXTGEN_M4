@@ -1,0 +1,54 @@
+<pos name="adp">
+  <features />
+  <forms />
+  <stems>
+    <stem name="bahagi ng katawan" gloss="body part">
+      <comments />
+      <sentence />
+      <forms />
+      <mappings>
+        <mapping concept="Bodypart" sense="A" pos="adp" />
+      </mappings>
+    </stem>
+    <stem name="dahil" gloss="because">
+      <comments />
+      <sentence />
+      <forms />
+      <mappings>
+        <mapping concept="because" sense="A" pos="adp" />
+      </mappings>
+    </stem>
+    <stem name="isang araw" gloss="one day (begin scene)">
+      <comments />
+      <sentence />
+      <forms />
+      <mappings>
+        <mapping concept="Begin Scene" sense="A" pos="adp" />
+      </mappings>
+    </stem>
+    <stem name="may-ari" gloss="owner">
+      <comments />
+      <sentence />
+      <forms />
+      <mappings>
+        <mapping concept="Owner" sense="A" pos="adp" />
+      </mappings>
+    </stem>
+    <stem name="pangalan" gloss="name">
+      <comments />
+      <sentence />
+      <forms />
+      <mappings>
+        <mapping concept="Name" sense="A" pos="adp" />
+      </mappings>
+    </stem>
+    <stem name="sa labas" gloss="outside">
+      <comments />
+      <sentence />
+      <forms />
+      <mappings>
+        <mapping concept="outside" sense="A" pos="adp" />
+      </mappings>
+    </stem>
+  </stems>
+</pos>

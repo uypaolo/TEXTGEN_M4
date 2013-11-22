@@ -1,0 +1,331 @@
+<pos name="adp">
+  <stem name="Begin Episode" sense="A">
+    <definition>marks the beginning of a new episode</definition>
+  </stem>
+  <stem name="Begin Scene" sense="A">
+    <definition>marks the beginning of a new scene (e.g., One day ...)</definition>
+  </stem>
+  <stem name="Bodypart" sense="A">
+    <definition>marks bodyparts (hand of Mary)</definition>
+  </stem>
+  <stem name="Composed of" sense="A">
+    <definition>one thing is composed of something (lake of fire, streets of gold, river of fire)</definition>
+  </stem>
+  <stem name="Generic Genitive" sense="A" />
+  <stem name="Group" sense="A">
+    <definition>marks a group of something (herd of sheep, flock of geese, crowd of people, etc.)</definition>
+  </stem>
+  <stem name="Iteration" sense="A">
+    <definition>marks iteration (Mary read the book Iteration 3/many.)</definition>
+  </stem>
+  <stem name="Kinship" sense="A">
+    <definition>marks blood relationships (brother, mother, etc.) and legal relationships (wife, mother-in-law, etc.)</definition>
+  </stem>
+  <stem name="Made of" sense="A">
+    <definition>one thing is made of another thing (house of bricks, table of wood, etc.)</definition>
+  </stem>
+  <stem name="Name" sense="A" />
+  <stem name="Nationality" sense="A">
+    <definition>a Hebrew man</definition>
+  </stem>
+  <stem name="Owner" sense="A">
+    <definition>marks a possessor (book of John)</definition>
+  </stem>
+  <stem name="Part-Whole" sense="A">
+    <definition>the front of the boat</definition>
+  </stem>
+  <stem name="Quantity" sense="A">
+    <definition>marks quantity (tea Quantity cup)</definition>
+  </stem>
+  <stem name="Region of Authority" sense="A">
+    <definition>marks the region that someone governs (king of Israel, governor of Tiberius, etc.)</definition>
+  </stem>
+  <stem name="Subgroup" sense="A" />
+  <stem name="Title" sense="A" />
+  <stem name="about" sense="A">
+    <definition>concerning (told him about ...)</definition>
+  </stem>
+  <stem name="above" sense="A">
+    <definition>on top of something, but not touching</definition>
+  </stem>
+  <stem name="across" sense="A">
+    <definition>location on the other side of</definition>
+  </stem>
+  <stem name="after" sense="A">
+    <definition>the time following</definition>
+  </stem>
+  <stem name="after" sense="B">
+    <definition>the time following (used only in NPs)</definition>
+  </stem>
+  <stem name="against" sense="A">
+    <definition>one thing is next to and touching something else (John leaned against the wall.)</definition>
+  </stem>
+  <stem name="ago" sense="A">
+    <definition>used in oblique NPs (Many years ago ...)</definition>
+  </stem>
+  <stem name="along" sense="A">
+    <definition>location along a path</definition>
+  </stem>
+  <stem name="although" sense="A">
+    <definition>although X happens, Y will happen</definition>
+  </stem>
+  <stem name="among" sense="A">
+    <definition>in the midst of</definition>
+  </stem>
+  <stem name="around" sense="A">
+    <definition>the area around something</definition>
+  </stem>
+  <stem name="at" sense="A">
+    <definition>at the location</definition>
+  </stem>
+  <stem name="at" sense="B">
+    <definition>time at (at midnight)</definition>
+  </stem>
+  <stem name="because" sense="A">
+    <definition>the following event is the reason for the preceeding event (John walked to school because his car was at the shop.)</definition>
+  </stem>
+  <stem name="because" sense="B">
+    <definition>the following object is the reason for the event</definition>
+  </stem>
+  <stem name="before" sense="A">
+    <definition>time before an event</definition>
+  </stem>
+  <stem name="before" sense="B">
+    <definition>time before an event (used only in NPs)</definition>
+  </stem>
+  <stem name="behind" sense="A">
+    <definition>location behind someone</definition>
+  </stem>
+  <stem name="below" sense="A" />
+  <stem name="beside" sense="A">
+    <definition>next to, spacially</definition>
+  </stem>
+  <stem name="between" sense="A">
+    <definition>involving a and b (agreement between a and b)</definition>
+  </stem>
+  <stem name="between" sense="B">
+    <definition>location in the middle of a and b</definition>
+  </stem>
+  <stem name="by" sense="A">
+    <definition>to accomplish something by doing something else (John won the game by hitting a home run.)</definition>
+  </stem>
+  <stem name="by" sense="B">
+    <definition>nearby something</definition>
+  </stem>
+  <stem name="close" sense="A">
+    <definition>to be close to something (AP)</definition>
+  </stem>
+  <stem name="down" sense="A">
+    <definition>down - used only in the Analyzer</definition>
+  </stem>
+  <stem name="during" sense="A">
+    <definition>time is during the stated event</definition>
+  </stem>
+  <stem name="even-if" sense="A">
+    <definition>the preceeding will happen even if the following happens</definition>
+  </stem>
+  <stem name="even-though" sense="A">
+    <definition>contrary to fact, even-though A, B still happened</definition>
+  </stem>
+  <stem name="except" sense="A">
+    <definition>the following event or thing is an exception (follow no gods except me)</definition>
+  </stem>
+  <stem name="far-away-from" sense="A">
+    <definition>far in distance from something else</definition>
+  </stem>
+  <stem name="for" sense="A">
+    <definition>for a duration of time (for 3 days)</definition>
+  </stem>
+  <stem name="for" sense="B">
+    <definition>because of (I will pay you for your work)</definition>
+  </stem>
+  <stem name="for" sense="C">
+    <definition>beneficiary topic marker (For each kind of animal, bring a male and a female into the ark.)</definition>
+  </stem>
+  <stem name="from" sense="A">
+    <definition>from the time specified</definition>
+  </stem>
+  <stem name="if" sense="A">
+    <definition>if (conditional)  (If you go to the party, you might see Mary.)</definition>
+  </stem>
+  <stem name="if" sense="B">
+    <definition>if (hypothetical)  (If you were to go to the party, you would see Mary.)</definition>
+  </stem>
+  <stem name="if" sense="C">
+    <definition>if (counterfactual) (If you had gone to the party, you would have seen Mary.)</definition>
+  </stem>
+  <stem name="in" sense="A">
+    <definition>located inside something, literally (like a basket, or a house)</definition>
+  </stem>
+  <stem name="in" sense="B">
+    <definition>located within  the boundaries of an area (in the city)</definition>
+  </stem>
+  <stem name="in" sense="C">
+    <definition>generic location</definition>
+  </stem>
+  <stem name="in" sense="D">
+    <definition>in a group (John is in the army.)</definition>
+  </stem>
+  <stem name="in" sense="E">
+    <definition>at the time (in the morning)</definition>
+  </stem>
+  <stem name="in" sense="F">
+    <definition>in a liquid, sand, dirt, etc.</definition>
+  </stem>
+  <stem name="in" sense="G">
+    <definition>to be or put in a written or other medium (write in a book, in the history)</definition>
+  </stem>
+  <stem name="in" sense="H">
+    <definition>abstract directed towards someone (faith in God)</definition>
+  </stem>
+  <stem name="in" sense="I">
+    <definition>in a vision or dream (God spoke to Abram in a vision.)</definition>
+  </stem>
+  <stem name="in-front-of" sense="A">
+    <definition>location in front of something</definition>
+  </stem>
+  <stem name="in-order-to" sense="A">
+    <definition>the preceeding was done to accomplish the following</definition>
+  </stem>
+  <stem name="inside" sense="A">
+    <definition>within an object</definition>
+  </stem>
+  <stem name="instead" sense="A">
+    <definition>X did A instead of doing B (John read this book instead of watching a movie.) (always same agent as matrix)</definition>
+  </stem>
+  <stem name="instead" sense="B">
+    <definition>X did Y instead of A doing B  (Esther 9:1 The Jews killed their enemies instead of their enemies killing them.) (always different agent than the matrix)</definition>
+  </stem>
+  <stem name="instead" sense="C">
+    <definition>used with NPs like "He went [to X [instead-of Y]]" or "He hit [X [instead-of Y]]"</definition>
+  </stem>
+  <stem name="into" sense="A">
+    <definition>location towards somewhere</definition>
+  </stem>
+  <stem name="into" sense="B">
+    <definition>into a container or enclosed area</definition>
+  </stem>
+  <stem name="just-like" sense="A">
+    <definition>to do something in the same way as some other action</definition>
+  </stem>
+  <stem name="later" sense="A">
+    <definition>amount of time after an event</definition>
+  </stem>
+  <stem name="more-than" sense="A">
+    <definition>(I like this more-than I like that)</definition>
+  </stem>
+  <stem name="near" sense="A">
+    <definition>location close to something</definition>
+  </stem>
+  <stem name="of-possession" sense="A">
+    <definition>possession - used only in the Analyzer</definition>
+  </stem>
+  <stem name="off" sense="A">
+    <definition>off - used only in the Analyzer</definition>
+  </stem>
+  <stem name="on" sense="A">
+    <definition>on top (highest part) of something</definition>
+  </stem>
+  <stem name="on" sense="B">
+    <definition>on the surface of something (not necessarily the top)</definition>
+  </stem>
+  <stem name="on" sense="C">
+    <definition>generic location (on the left side)</definition>
+  </stem>
+  <stem name="on" sense="D">
+    <definition>along (walk on the path)</definition>
+  </stem>
+  <stem name="on" sense="E">
+    <definition>at the time of (on that day)</definition>
+  </stem>
+  <stem name="on" sense="F">
+    <definition>connected to (apple on the tree)</definition>
+  </stem>
+  <stem name="onto" sense="A">
+    <definition>motion on to something</definition>
+  </stem>
+  <stem name="out" sense="A">
+    <definition>out - used only in the Analyzer</definition>
+  </stem>
+  <stem name="outside" sense="A">
+    <definition>outside an object</definition>
+  </stem>
+  <stem name="over" sense="A">
+    <definition>on top of</definition>
+  </stem>
+  <stem name="past" sense="A">
+    <definition>movement past a location (Mary walked past the house.)</definition>
+  </stem>
+  <stem name="since" sense="A">
+    <definition>since the time</definition>
+  </stem>
+  <stem name="so" sense="A">
+    <definition>the preceeding was done so that the following can/could be done (John studied so that he could pass the test.)</definition>
+  </stem>
+  <stem name="so" sense="B">
+    <definition>result, with no intent (He lost his money so he had to leave)</definition>
+  </stem>
+  <stem name="so" sense="C">
+    <definition>the preceeding was or should be done resulting in the following being done (John covered his face so that he would not catch a cold.)</definition>
+  </stem>
+  <stem name="than" sense="A">
+    <definition>than - used only in the Analyzer</definition>
+  </stem>
+  <stem name="through" sense="A">
+    <definition>path through someplace</definition>
+  </stem>
+  <stem name="through" sense="B">
+    <definition>by means of (God predicted through a prophet ...)</definition>
+  </stem>
+  <stem name="throughout" sense="A">
+    <definition>located everywhere within some place</definition>
+  </stem>
+  <stem name="to" sense="A">
+    <definition>to - used only in the Analyzer</definition>
+  </stem>
+  <stem name="toward" sense="A">
+    <definition>path toward someplace</definition>
+  </stem>
+  <stem name="toward" sense="B">
+    <definition>movement is toward an object or place</definition>
+  </stem>
+  <stem name="under" sense="A">
+    <definition>location under something</definition>
+  </stem>
+  <stem name="unless" sense="A">
+    <definition>the previous would not happen unless the following does</definition>
+  </stem>
+  <stem name="until" sense="A">
+    <definition>time until</definition>
+  </stem>
+  <stem name="until" sense="B">
+    <definition>time until (used on in NPs)</definition>
+  </stem>
+  <stem name="up" sense="A">
+    <definition>used only in the Analyzer</definition>
+  </stem>
+  <stem name="when" sense="A">
+    <definition>when + event specifies the time of the main event</definition>
+  </stem>
+  <stem name="when" sense="B">
+    <definition>when-because + event specifies the time and reason for the main event</definition>
+  </stem>
+  <stem name="whenever" sense="A">
+    <definition>one event is done whenever another event is done (I see Mary whenever I go to the library.)</definition>
+  </stem>
+  <stem name="while" sense="A">
+    <definition>time during the following event</definition>
+  </stem>
+  <stem name="with" sense="A">
+    <definition>accompaniment (John went with Frank)</definition>
+  </stem>
+  <stem name="with" sense="B">
+    <definition>possessing things (John went to California with many things.)</definition>
+  </stem>
+  <stem name="without" sense="A">
+    <definition>to do something without using something</definition>
+  </stem>
+  <stem name="without" sense="B">
+    <definition>to do something without someone accompanying</definition>
+  </stem>
+</pos>

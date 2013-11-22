@@ -1,0 +1,45 @@
+<document name="Infected Eye 1:2 Sentences 3-4" category="Community Documents">
+  <component name="Cl">
+    <component name="NP">
+      <component name="N" concept="Melissa" sense="A" />
+    </component>
+    <component name="VP">
+      <component name="V" concept="think" sense="C" />
+    </component>
+    <component name="Cl">
+      <component name="NP">
+        <component name="AdjP">
+          <component name="Adj" concept="some" sense="A" />
+        </component>
+        <component name="N" concept="sand" sense="A" />
+      </component>
+      <component name="VP">
+        <component name="V" concept="be" sense="F" />
+      </component>
+      <component name="NP">
+        <component name="Adp" concept="on" sense="B" />
+        <component name="N" concept="eye" sense="A" />
+        <component name="NP">
+          <component name="Adp" concept="Bodypart" sense="A" />
+          <component name="N" concept="Melissa" sense="A" />
+        </component>
+      </component>
+    </component>
+  </component>
+  <component name="Cl">
+    <component name="Conj" concept="so" sense="A" />
+    <component name="NP">
+      <component name="N" concept="Melissa" sense="A" />
+    </component>
+    <component name="VP">
+      <component name="V" concept="call" sense="A" />
+    </component>
+    <component name="NP">
+      <component name="N" concept="friend" sense="A" />
+      <component name="NP">
+        <component name="Adp" concept="named" sense="A" />
+        <component name="N" concept="Janet" sense="A" />
+      </component>
+    </component>
+  </component>
+</document>

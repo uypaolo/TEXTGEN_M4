@@ -1,0 +1,14 @@
+<pos name="conj">
+  <features />
+  <forms />
+  <stems>
+    <stem name="pero" gloss="but">
+      <comments />
+      <sentence />
+      <forms />
+      <mappings>
+        <mapping concept="but" sense="A" pos="conj" />
+      </mappings>
+    </stem>
+  </stems>
+</pos>

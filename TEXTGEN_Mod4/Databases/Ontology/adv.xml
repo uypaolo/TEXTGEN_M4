@@ -1,0 +1,241 @@
+<pos name="adv">
+  <stem name="aa" sense="A" />
+  <stem name="actually" sense="A">
+    <definition>in reality, the following is true</definition>
+  </stem>
+  <stem name="again" sense="A">
+    <definition>the event occurred again</definition>
+  </stem>
+  <stem name="almost" sense="A">
+    <definition>to almost do something (almost died)</definition>
+  </stem>
+  <stem name="alone" sense="A">
+    <definition>to do something alone</definition>
+  </stem>
+  <stem name="already" sense="A">
+    <definition>action or state completed before speaker-time</definition>
+  </stem>
+  <stem name="also" sense="A">
+    <definition>to do something in addition to what was already stated</definition>
+  </stem>
+  <stem name="also" sense="B">
+    <definition>an attribute applies here as well (he is also tall)</definition>
+  </stem>
+  <stem name="also" sense="C">
+    <definition>to do something that somebody else did (I also did it.) (modifies nouns)</definition>
+  </stem>
+  <stem name="always" sense="A">
+    <definition>the state will always be true</definition>
+  </stem>
+  <stem name="badly" sense="A">
+    <definition>to do something in a bad or incorrect manner</definition>
+  </stem>
+  <stem name="boldly" sense="A">
+    <definition>to do something boldly</definition>
+  </stem>
+  <stem name="bravely" sense="A">
+    <definition>to do something that is dangerous or difficult with courage and confidence, without fear (John climbed the tall tree bravely.)</definition>
+  </stem>
+  <stem name="carefully" sense="A">
+    <definition>done with care, caution</definition>
+  </stem>
+  <stem name="completely" sense="A">
+    <definition>the attribute is true completely</definition>
+  </stem>
+  <stem name="completely" sense="B">
+    <definition>the event must be done completely</definition>
+  </stem>
+  <stem name="correctly" sense="A">
+    <definition>to do something correctly</definition>
+  </stem>
+  <stem name="cruelly" sense="A">
+    <definition>in a way that causes emotional or physical pain</definition>
+  </stem>
+  <stem name="eagerly" sense="A">
+    <definition>to really want to do something, to do it with excitement (John eagerly read the report.)</definition>
+  </stem>
+  <stem name="earlier" sense="A">
+    <definition>event happened earlier</definition>
+  </stem>
+  <stem name="early" sense="A">
+    <definition>time, early</definition>
+  </stem>
+  <stem name="easily" sense="A">
+    <definition>to do something easily</definition>
+  </stem>
+  <stem name="even" sense="A">
+    <definition>emphasizes that even the event did/should or did/should not occur</definition>
+  </stem>
+  <stem name="fairly" sense="A">
+    <definition>to do something fairly</definition>
+  </stem>
+  <stem name="faithfully" sense="A">
+    <definition>to do something faithfully</definition>
+  </stem>
+  <stem name="far" sense="A">
+    <definition>a long distance  (He traveled far)</definition>
+  </stem>
+  <stem name="finally" sense="A">
+    <definition>the event was done last in a series of events</definition>
+  </stem>
+  <stem name="first" sense="A">
+    <definition>the event done first (he first went to the store)</definition>
+  </stem>
+  <stem name="forever" sense="A">
+    <definition>for all time</definition>
+  </stem>
+  <stem name="gently" sense="A">
+    <definition>to do something carefully in order to not hurt someone</definition>
+  </stem>
+  <stem name="greatly" sense="A">
+    <definition>the event is done to the extreme</definition>
+  </stem>
+  <stem name="happily" sense="A">
+    <definition>to do something with happiness, joy</definition>
+  </stem>
+  <stem name="hard" sense="A">
+    <definition>strenuously (e.g., to work hard)</definition>
+  </stem>
+  <stem name="how" sense="A">
+    <definition>a question word - (how did you do something)</definition>
+  </stem>
+  <stem name="how-long" sense="A">
+    <definition>question word asking for length of time</definition>
+  </stem>
+  <stem name="immediately" sense="A">
+    <definition>to do something right away</definition>
+  </stem>
+  <stem name="joyfully" sense="A">
+    <definition>the event was done with joy</definition>
+  </stem>
+  <stem name="kindly" sense="A">
+    <definition>to do something with kindness</definition>
+  </stem>
+  <stem name="later" sense="A">
+    <definition>time after last event</definition>
+  </stem>
+  <stem name="little" sense="A">
+    <definition>to do something only a small amount, or to a small degree</definition>
+  </stem>
+  <stem name="long" sense="A">
+    <definition>the duration of an event is long  (he worked long)</definition>
+  </stem>
+  <stem name="loudly" sense="A">
+    <definition>with high volume</definition>
+  </stem>
+  <stem name="more" sense="A">
+    <definition>the event is done to a greater degree (you will believe more)</definition>
+  </stem>
+  <stem name="most" sense="A">
+    <definition>to do this event more than any other event</definition>
+  </stem>
+  <stem name="much" sense="A">
+    <definition>an event is done often or to a great degree</definition>
+  </stem>
+  <stem name="never" sense="A">
+    <definition>the event will never happen</definition>
+  </stem>
+  <stem name="now" sense="A">
+    <definition>at the present time</definition>
+  </stem>
+  <stem name="often" sense="A">
+    <definition>to do something often</definition>
+  </stem>
+  <stem name="peacefully" sense="A">
+    <definition>to do something peacefully, without fighting</definition>
+  </stem>
+  <stem name="perfectly" sense="A">
+    <definition>to do something perfectly</definition>
+  </stem>
+  <stem name="perhaps" sense="A">
+    <definition>maybe, possibly (Perhaps Mary read that book.)</definition>
+  </stem>
+  <stem name="previously" sense="A">
+    <definition>a while ago, earlier</definition>
+  </stem>
+  <stem name="quickly" sense="A">
+    <definition>to do something quickly</definition>
+  </stem>
+  <stem name="quietly" sense="A">
+    <definition>with very little noise</definition>
+  </stem>
+  <stem name="recently" sense="A">
+    <definition>in the recent past, a little while ago</definition>
+  </stem>
+  <stem name="repeatedly" sense="A">
+    <definition>an action is performed many times</definition>
+  </stem>
+  <stem name="respectfully" sense="A">
+    <definition>with respect</definition>
+  </stem>
+  <stem name="safely" sense="A">
+    <definition>to do something safely</definition>
+  </stem>
+  <stem name="secretly" sense="A" />
+  <stem name="sensibly" sense="A">
+    <definition>to act/think/behave in a manner that shows good judgment</definition>
+  </stem>
+  <stem name="sincerely" sense="A">
+    <definition>to do something sincerely, from the heart</definition>
+  </stem>
+  <stem name="skillfully" sense="A">
+    <definition>to do something with skill</definition>
+  </stem>
+  <stem name="slowly" sense="A">
+    <definition>to do something slowly</definition>
+  </stem>
+  <stem name="sometimes" sense="A">
+    <definition>occasionally</definition>
+  </stem>
+  <stem name="soon" sense="A">
+    <definition>time very close to present</definition>
+  </stem>
+  <stem name="still" sense="A">
+    <definition>to still be doing something</definition>
+  </stem>
+  <stem name="still" sense="B">
+    <definition>to not move (to stand still)</definition>
+  </stem>
+  <stem name="successfully" sense="A">
+    <definition>to do something that you tried to do (The doctor successfully treated the patient.)</definition>
+  </stem>
+  <stem name="suddenly" sense="A">
+    <definition>the event happened qickly and with little warning</definition>
+  </stem>
+  <stem name="thoroughly" sense="A">
+    <definition>to do something completely, thoroughly</definition>
+  </stem>
+  <stem name="today" sense="A">
+    <definition>time is today</definition>
+  </stem>
+  <stem name="tomorrow" sense="A">
+    <definition>time at tomorrow</definition>
+  </stem>
+  <stem name="tonight" sense="A">
+    <definition>time = tonight</definition>
+  </stem>
+  <stem name="truly" sense="A">
+    <definition>to really do something, as opposed to faking or lying about it</definition>
+  </stem>
+  <stem name="usually" sense="A">
+    <definition>the event usually occurs</definition>
+  </stem>
+  <stem name="well" sense="A">
+    <definition>to do something well</definition>
+  </stem>
+  <stem name="when" sense="A">
+    <definition>temporal question word</definition>
+  </stem>
+  <stem name="where" sense="A">
+    <definition>locative question word</definition>
+  </stem>
+  <stem name="why" sense="A">
+    <definition>question word</definition>
+  </stem>
+  <stem name="wisely" sense="A">
+    <definition>with wisdom</definition>
+  </stem>
+  <stem name="yesterday" sense="A">
+    <definition>time was yesterday</definition>
+  </stem>
+</pos>

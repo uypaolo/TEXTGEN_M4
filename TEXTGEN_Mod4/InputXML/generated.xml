@@ -1,0 +1,70 @@
+<document name="Community Documents" category="Infected Eye 1:2">
+  <component name="Cl">
+    <component name="Adp" concept="Begin Episode" sense="A" />
+    <component name="Adp" concept="Begin Scene" sense="A" lexicon="isang araw" />
+    <component name="NP">
+      <features>
+        <feature name="Sequence" value="First Coordinate" />
+        <feature name="Semantic Role" value="Source" />
+      </features>
+      <component name="Pre-nominal" />
+      <component name="N" concept="girl" sense="A" lexicon="babae" />
+      <component name="NP">
+        <component name="Adp" concept="Name" sense="A" lexicon="pangalan" />
+        <component name="N" concept="Melissa" sense="A" lexicon="Melissa" />
+      </component>
+    </component>
+    <component name="VP">
+      <component name="Pre-Verbal" />
+      <component name="V" concept="sit" sense="A" lexicon="upo" />
+    </component>
+    <component name="NP">
+      <component name="Adp" concept="outside" sense="A" lexicon="sa labas" />
+      <component name="NP">
+        <component name="Adp" concept="owner" sense="A" lexicon="may-ari" />
+        <component name="N" concept="Melissa" sense="A" lexicon="Melissa" />
+      </component>
+      <component name="N" concept="house" sense="A" lexicon="bahay" />
+    </component>
+    <component name="Period" />
+  </component>
+  <component name="Cl">
+    <component name="Conj" concept="but" sense="A" lexicon="pero" />
+    <component name="NP">
+      <features>
+        <feature name="Sequence" value="First Coordinate" />
+        <feature name="Semantic Role" value="Source" />
+      </features>
+      <component name="N" concept="Melissa" sense="A" lexicon="Melissa" />
+    </component>
+    <component name="VP">
+      <component name="V" concept="be" sense="D" lexicon="ay" />
+      <component name="Post-Verbal" />
+    </component>
+    <component name="AdjP">
+      <component name="Adj" concept="happy" sense="A" lexicon="masaya" />
+    </component>
+    <component name="Cl">
+      <component name="Adp" concept="because" sense="A" lexicon="dahil" />
+      <component name="NP">
+        <component name="NP">
+          <component name="Adp" concept="Bodypart" sense="A" lexicon="bahagi ng katawan" />
+          <component name="N" concept="Melissa" sense="A" lexicon="Melissa" />
+        </component>
+        <component name="N" concept="eye" sense="A" lexicon="mata" />
+      </component>
+      <component name="VP">
+        <component name="V" concept="be" sense="D" lexicon="ay">
+          <features>
+            <feature name="Time" value="Yesterday" />
+            <feature name="Mood" value="Must Obligation" />
+          </features>
+        </component>
+      </component>
+      <component name="AdjP">
+        <component name="Adj" concept="sore" sense="A" lexicon="mapula" />
+      </component>
+    </component>
+    <component name="Period" />
+  </component>
+</document>

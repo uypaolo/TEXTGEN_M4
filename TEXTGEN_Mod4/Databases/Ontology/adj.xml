@@ -1,0 +1,1118 @@
+<pos name="adj">
+  <stem name="0" sense="A">
+    <definition />
+  </stem>
+  <stem name="1" sense="A">
+    <definition>number</definition>
+  </stem>
+  <stem name=".1" sense="A">
+    <definition>the number, one tenth</definition>
+  </stem>
+  <stem name="10" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="100" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="1000" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="10000" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="105" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="10.5" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="109" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="11" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="110" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="119" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="12" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="120" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="127" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="1290" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="13" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="130" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="133" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="1335" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="137" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="14" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="140" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="147" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="15" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="1.5" sense="A">
+    <definition>the number, one and a half</definition>
+  </stem>
+  <stem name="150" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="16" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="1600" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="162" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="17" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="175" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="17th" sense="A">
+    <definition>17th in a series</definition>
+  </stem>
+  <stem name="18" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="180" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="182" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="187" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="2" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name=".2" sense="A">
+    <definition>two tenths</definition>
+  </stem>
+  <stem name="20" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="200" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="2000" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="20000" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="205" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="207" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="209" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="21" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="220" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="225" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="23" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="2300" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="24th" sense="A">
+    <definition>24th in a series</definition>
+  </stem>
+  <stem name="25" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="27th" sense="A">
+    <definition>27th in a series</definition>
+  </stem>
+  <stem name="29" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="3" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="318" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="32" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="3200" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="32000" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="33" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="34" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="3.5" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="30" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="300" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="35" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="350" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="365" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="4" sense="A">
+    <definition>number</definition>
+  </stem>
+  <stem name="40" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="400" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="4000" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="40000" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="403" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="430" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="434" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="45" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="49" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="490" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="5" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name=".5" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="50" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="500" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="5000" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="595" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="6" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="60" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="600" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="600000" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="601" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="62" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="65" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="66" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="69" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="7" sense="A">
+    <definition>number</definition>
+  </stem>
+  <stem name="70" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="72" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="75" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="75000" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="77" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="777" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="782" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="8" sense="A">
+    <definition>number</definition>
+  </stem>
+  <stem name=".8" sense="A">
+    <definition>eight tenths</definition>
+  </stem>
+  <stem name="80" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="800" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="807" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="815" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="83" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="830" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="84" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="840" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="86" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="895" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="9" sense="A">
+    <definition>number</definition>
+  </stem>
+  <stem name="90" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="905" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="910" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="912" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="930" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="950" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="962" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="969" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="98" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="99" sense="A">
+    <definition>the number</definition>
+  </stem>
+  <stem name="able" sense="A">
+    <definition>ability to do something</definition>
+  </stem>
+  <stem name="about" sense="A">
+    <definition>approximately</definition>
+  </stem>
+  <stem name="afraid" sense="A">
+    <definition>to be scared of something</definition>
+  </stem>
+  <stem name="alive" sense="A">
+    <definition>living, not dead (e.g., John is alive.)</definition>
+  </stem>
+  <stem name="all" sense="A">
+    <definition>quantifier</definition>
+  </stem>
+  <stem name="alone" sense="A">
+    <definition>to be alone</definition>
+  </stem>
+  <stem name="amazed" sense="A">
+    <definition>to be amazed by something (see also</definition>
+  </stem>
+  <stem name="angry" sense="A">
+    <definition>to be mad at someone</definition>
+  </stem>
+  <stem name="another" sense="A">
+    <definition>a different thing than in the previous context</definition>
+  </stem>
+  <stem name="any" sense="A">
+    <definition>quantifier</definition>
+  </stem>
+  <stem name="ashamed" sense="A">
+    <definition>to be ashamed</definition>
+  </stem>
+  <stem name="bad" sense="A">
+    <definition>badness attribute</definition>
+  </stem>
+  <stem name="beautiful" sense="A">
+    <definition>pleasant to look at</definition>
+  </stem>
+  <stem name="big" sense="A">
+    <definition>large</definition>
+  </stem>
+  <stem name="bitter" sense="A">
+    <definition>bitter attribute</definition>
+  </stem>
+  <stem name="black" sense="A">
+    <definition>the color</definition>
+  </stem>
+  <stem name="blind" sense="A">
+    <definition>complex - unable to see</definition>
+  </stem>
+  <stem name="blue" sense="A">
+    <definition>the color</definition>
+  </stem>
+  <stem name="both" sense="A">
+    <definition>both of two alternatives</definition>
+  </stem>
+  <stem name="brave" sense="A">
+    <definition>dealing with danger, pain, or difficult situations with courage and confidence</definition>
+  </stem>
+  <stem name="bright" sense="A">
+    <definition>brightness attribute</definition>
+  </stem>
+  <stem name="calm" sense="A">
+    <definition>emotionally calm, not afraid, not nervous, but at peace</definition>
+  </stem>
+  <stem name="careful" sense="A">
+    <definition>to be careful</definition>
+  </stem>
+  <stem name="certain" sense="A">
+    <definition>a certain man</definition>
+  </stem>
+  <stem name="chief" sense="A">
+    <definition>most important</definition>
+  </stem>
+  <stem name="clean" sense="A">
+    <definition>to be clean</definition>
+  </stem>
+  <stem name="clever" sense="A">
+    <definition>to be clever</definition>
+  </stem>
+  <stem name="close" sense="A">
+    <definition>used only with relatives (e.g., Boaz is our close relative.)</definition>
+  </stem>
+  <stem name="close" sense="B">
+    <definition>physical distance is small (e.g., My house is close to the school.)</definition>
+  </stem>
+  <stem name="cold" sense="A">
+    <definition>coldness attribute</definition>
+  </stem>
+  <stem name="comfortable" sense="A">
+    <definition>to be in a favorable circumstance, pleasing</definition>
+  </stem>
+  <stem name="confused" sense="A">
+    <definition>to be confused, not thinking correctly</definition>
+  </stem>
+  <stem name="conscious" sense="A">
+    <definition>to be alert and able to understand the things that are happening</definition>
+  </stem>
+  <stem name="content" sense="A">
+    <definition>satisfied, moderately happy</definition>
+  </stem>
+  <stem name="cool" sense="A">
+    <definition>cool, pleasing temperature</definition>
+  </stem>
+  <stem name="correct" sense="A">
+    <definition>to be correct about something</definition>
+  </stem>
+  <stem name="crazy" sense="A">
+    <definition>acting very strangely, "out of his mind"</definition>
+  </stem>
+  <stem name="cruel" sense="A">
+    <definition>mean</definition>
+  </stem>
+  <stem name="dangerous" sense="A">
+    <definition>not safe, causing harm to one</definition>
+  </stem>
+  <stem name="dark" sense="A">
+    <definition>darkness</definition>
+  </stem>
+  <stem name="dead" sense="A">
+    <definition>to be dead</definition>
+  </stem>
+  <stem name="deaf" sense="A">
+    <definition>complex - unable to hear</definition>
+  </stem>
+  <stem name="deep" sense="A">
+    <definition>something is deep (a hole or body of water)</definition>
+  </stem>
+  <stem name="different" sense="A">
+    <definition>different than something else</definition>
+  </stem>
+  <stem name="dirty" sense="A">
+    <definition>not clean</definition>
+  </stem>
+  <stem name="drunk" sense="A">
+    <definition>drunk, intoxicated</definition>
+  </stem>
+  <stem name="dry" sense="A">
+    <definition>lacking moisture, needs water</definition>
+  </stem>
+  <stem name="dumb" sense="A">
+    <definition>complex - not able to speak</definition>
+  </stem>
+  <stem name="each" sense="A">
+    <definition>every single one of a group</definition>
+  </stem>
+  <stem name="early" sense="A">
+    <definition>early during the specified time</definition>
+  </stem>
+  <stem name="eastern" sense="A">
+    <definition>indicates the eastern region</definition>
+  </stem>
+  <stem name="easy" sense="A">
+    <definition>not difficult</definition>
+  </stem>
+  <stem name="Egyptian" sense="A">
+    <definition>from Egypt</definition>
+  </stem>
+  <stem name="empty" sense="A">
+    <definition>to be empty</definition>
+  </stem>
+  <stem name="enough" sense="A">
+    <definition>enough quantity to satisfy</definition>
+  </stem>
+  <stem name="evil" sense="A">
+    <definition>evil attribute</definition>
+  </stem>
+  <stem name="exactly" sense="A">
+    <definition>emphasizes the state or time is exactly as said</definition>
+  </stem>
+  <stem name="except" sense="A">
+    <definition>everyone in the context except the following (everyone except John)</definition>
+  </stem>
+  <stem name="excited" sense="A">
+    <definition>to be excited about something</definition>
+  </stem>
+  <stem name="expensive" sense="A">
+    <definition>to be expensive</definition>
+  </stem>
+  <stem name="extra" sense="A">
+    <definition>additional, for use later in case the current supply runs out or cannot be used</definition>
+  </stem>
+  <stem name="extraordinary" sense="A">
+    <definition>non-ordinary, unusual in a spectacular way</definition>
+  </stem>
+  <stem name="fair" sense="A">
+    <definition>reasonable and acceptable</definition>
+  </stem>
+  <stem name="faithful" sense="A">
+    <definition>loyal, reliable, dependable</definition>
+  </stem>
+  <stem name="false" sense="A">
+    <definition>not true (false teaching)</definition>
+  </stem>
+  <stem name="false" sense="B">
+    <definition>counterfeit  (false prophets)</definition>
+  </stem>
+  <stem name="famous" sense="A">
+    <definition>well known by many people</definition>
+  </stem>
+  <stem name="far" sense="A">
+    <definition>to be far away from something</definition>
+  </stem>
+  <stem name="fast" sense="A">
+    <definition>quick</definition>
+  </stem>
+  <stem name="fat" sense="A">
+    <definition>a person or animal that weighs too much</definition>
+  </stem>
+  <stem name="female" sense="A">
+    <definition>female attribute</definition>
+  </stem>
+  <stem name="fertile" sense="A">
+    <definition>fields that produce many plants</definition>
+  </stem>
+  <stem name="few" sense="A">
+    <definition>a small quantity (I can</definition>
+  </stem>
+  <stem name="fifth" sense="A">
+    <definition>5th in a series</definition>
+  </stem>
+  <stem name="fine" sense="A">
+    <definition>high in quality (a fine pearl)</definition>
+  </stem>
+  <stem name="first" sense="A">
+    <definition>1st in a series</definition>
+  </stem>
+  <stem name="firstborn" sense="A">
+    <definition>the firstborn child of a parent</definition>
+  </stem>
+  <stem name="flat" sense="A">
+    <definition>not hilly</definition>
+  </stem>
+  <stem name="following" sense="A">
+    <definition>(teach the people the following laws)</definition>
+  </stem>
+  <stem name="foolish" sense="A">
+    <definition>foolishness attribute</definition>
+  </stem>
+  <stem name="fourth" sense="A">
+    <definition>4th in a series</definition>
+  </stem>
+  <stem name="free" sense="A">
+    <definition>the opposite of slave</definition>
+  </stem>
+  <stem name="fresh" sense="A">
+    <definition>freshly killed or picked food, not canned</definition>
+  </stem>
+  <stem name="full" sense="A">
+    <definition>to be full to the top with something</definition>
+  </stem>
+  <stem name="generous" sense="A">
+    <definition>willing to give to other people</definition>
+  </stem>
+  <stem name="gentle" sense="A">
+    <definition>gentleness attribute</definition>
+  </stem>
+  <stem name="glorious" sense="A">
+    <definition>bright, beautiful, and impressive</definition>
+  </stem>
+  <stem name="gold" sense="A">
+    <definition>the color gold</definition>
+  </stem>
+  <stem name="good" sense="A">
+    <definition>positive evaluation attribute</definition>
+  </stem>
+  <stem name="good" sense="B">
+    <definition>morally good - used in explication of</definition>
+  </stem>
+  <stem name="great" sense="A">
+    <definition>to be great, wonderful</definition>
+  </stem>
+  <stem name="green" sense="A">
+    <definition>the color</definition>
+  </stem>
+  <stem name="guilty" sense="A">
+    <definition>guilty of a crime</definition>
+  </stem>
+  <stem name="handsome" sense="A">
+    <definition>good looking, attractive - used only for men</definition>
+  </stem>
+  <stem name="happy" sense="A">
+    <definition>happiness attribute</definition>
+  </stem>
+  <stem name="hard" sense="A">
+    <definition>very solid to the touch</definition>
+  </stem>
+  <stem name="hard" sense="B">
+    <definition>difficult or complex</definition>
+  </stem>
+  <stem name="healthy" sense="A">
+    <definition>having good health</definition>
+  </stem>
+  <stem name="heavy" sense="A">
+    <definition>to be heavy</definition>
+  </stem>
+  <stem name="high" sense="A">
+    <definition>high altitude</definition>
+  </stem>
+  <stem name="holy" sense="A">
+    <definition>the attribute of God or things associated with God</definition>
+  </stem>
+  <stem name="honest" sense="A">
+    <definition>to be honest</definition>
+  </stem>
+  <stem name="hot" sense="A">
+    <definition>to be hot (weather)</definition>
+  </stem>
+  <stem name="how-much" sense="A">
+    <definition>question word</definition>
+  </stem>
+  <stem name="humble" sense="A">
+    <definition>humble attribute</definition>
+  </stem>
+  <stem name="hungry" sense="A">
+    <definition>to be hungry</definition>
+  </stem>
+  <stem name="important" sense="A">
+    <definition>important attribute</definition>
+  </stem>
+  <stem name="infectious" sense="A">
+    <definition>an infectious disease is passed from one person to another person</definition>
+  </stem>
+  <stem name="inner" sense="A">
+    <definition>on the inside or close to the center of something</definition>
+  </stem>
+  <stem name="innocent" sense="A">
+    <definition>not guilty</definition>
+  </stem>
+  <stem name="interested" sense="A">
+    <definition>to be interested in something</definition>
+  </stem>
+  <stem name="interesting" sense="A">
+    <definition>arouses curiosity, engages one</definition>
+  </stem>
+  <stem name="jealous" sense="A">
+    <definition>to be jealous, not want to share (God is jealous)</definition>
+  </stem>
+  <stem name="Jewish" sense="A">
+    <definition>associated with Jews</definition>
+  </stem>
+  <stem name="just" sense="A">
+    <definition>complex - to be just, fair</definition>
+  </stem>
+  <stem name="kind" sense="A">
+    <definition>to act kindly</definition>
+  </stem>
+  <stem name="lame" sense="A">
+    <definition>complex - unable to walk</definition>
+  </stem>
+  <stem name="last" sense="A">
+    <definition>last in a series</definition>
+  </stem>
+  <stem name="late" sense="A">
+    <definition>to be late, not on time</definition>
+  </stem>
+  <stem name="lazy" sense="A">
+    <definition>not liking work</definition>
+  </stem>
+  <stem name="left" sense="A">
+    <definition>left side</definition>
+  </stem>
+  <stem name="less" sense="A">
+    <definition>fewer, a smaller amount (less workers, less land)</definition>
+  </stem>
+  <stem name="little" sense="A">
+    <definition>a small amount of something, the opposite of</definition>
+  </stem>
+  <stem name="long" sense="A">
+    <definition>the length of something is long</definition>
+  </stem>
+  <stem name="long" sense="B">
+    <definition>a long period of time</definition>
+  </stem>
+  <stem name="long" sense="C">
+    <definition>as in "20 meters long"</definition>
+  </stem>
+  <stem name="lost" sense="A">
+    <definition>to be lost</definition>
+  </stem>
+  <stem name="loud" sense="A">
+    <definition>the sound is loud</definition>
+  </stem>
+  <stem name="low" sense="A">
+    <definition>low height (opposite of</definition>
+  </stem>
+  <stem name="lucky" sense="A">
+    <definition>to have something good happen, fortunate</definition>
+  </stem>
+  <stem name="male" sense="A">
+    <definition>male attribute</definition>
+  </stem>
+  <stem name="merciful" sense="A">
+    <definition>having mercy</definition>
+  </stem>
+  <stem name="more" sense="A">
+    <definition>additional (more workers)</definition>
+  </stem>
+  <stem name="more" sense="B">
+    <definition>comparative more (John has more books than Peter.)</definition>
+  </stem>
+  <stem name="most" sense="A">
+    <definition>most of the set is involved (Most people eat bread every day.)</definition>
+  </stem>
+  <stem name="much-many" sense="A">
+    <definition>a lot of something</definition>
+  </stem>
+  <stem name="naked" sense="A">
+    <definition>to not be wearing any clothes</definition>
+  </stem>
+  <stem name="narrow" sense="A">
+    <definition>narrow, not wide</definition>
+  </stem>
+  <stem name="new" sense="A">
+    <definition>object</definition>
+  </stem>
+  <stem name="new" sense="B">
+    <definition>object is new in age</definition>
+  </stem>
+  <stem name="next" sense="A">
+    <definition>the next in a series (next day)</definition>
+  </stem>
+  <stem name="noble" sense="A">
+    <definition>of good character</definition>
+  </stem>
+  <stem name="northern" sense="A">
+    <definition>indicates the northern region</definition>
+  </stem>
+  <stem name="northwest" sense="A">
+    <definition>indicates the northwest region</definition>
+  </stem>
+  <stem name="old" sense="A">
+    <definition>oldness attribute</definition>
+  </stem>
+  <stem name="old" sense="B">
+    <definition>as in (10 years old)</definition>
+  </stem>
+  <stem name="one" sense="A">
+    <definition>indefinite marker, (one day, one month)</definition>
+  </stem>
+  <stem name="one" sense="B">
+    <definition>one member of a group (e.g., one of the angels said, ...)</definition>
+  </stem>
+  <stem name="one" sense="C">
+    <definition>one X as opposed to another X (e.g., One angel was here, the other angel was there.)</definition>
+  </stem>
+  <stem name="only" sense="A">
+    <definition>identity (The only person that can solve this problem ...)</definition>
+  </stem>
+  <stem name="only" sense="B">
+    <definition>exclusivity (Only the people who know John can come to this party.)</definition>
+  </stem>
+  <stem name="only" sense="C">
+    <definition>the thing is not highly esteemed "He is only a carpenter."</definition>
+  </stem>
+  <stem name="other" sense="A">
+    <definition>someone or thing other than what is in the context</definition>
+  </stem>
+  <stem name="paralyzed" sense="A">
+    <definition>complex - to be paralyzed, unable to move one</definition>
+  </stem>
+  <stem name="patient" sense="A">
+    <definition>to be patient, not get angry quickly</definition>
+  </stem>
+  <stem name="peaceful" sense="A">
+    <definition>quiet and calm, without worry</definition>
+  </stem>
+  <stem name="perfect" sense="A">
+    <definition>perfect, without fault</definition>
+  </stem>
+  <stem name="pleased" sense="A">
+    <definition>to be pleased with something (God was pleased with the nurses)</definition>
+  </stem>
+  <stem name="poisonous" sense="A">
+    <definition>to be poisonous, like a poisonous snake</definition>
+  </stem>
+  <stem name="poor" sense="A">
+    <definition>having a little money</definition>
+  </stem>
+  <stem name="possible" sense="A">
+    <definition>How is it possible that John read this book?</definition>
+  </stem>
+  <stem name="powerful" sense="A">
+    <definition>having physical power</definition>
+  </stem>
+  <stem name="powerful" sense="B">
+    <definition>having political or similar power</definition>
+  </stem>
+  <stem name="pregnant" sense="A">
+    <definition>to be pregnant</definition>
+  </stem>
+  <stem name="prosperous" sense="A">
+    <definition>financially successful, having sufficient wealth</definition>
+  </stem>
+  <stem name="proud" sense="A">
+    <definition>to be proud</definition>
+  </stem>
+  <stem name="pure" sense="A">
+    <definition>to be pure, without impurities</definition>
+  </stem>
+  <stem name="purple" sense="A">
+    <definition>the color</definition>
+  </stem>
+  <stem name="quiet" sense="A">
+    <definition>low volume</definition>
+  </stem>
+  <stem name="raw" sense="A">
+    <definition>uncooked</definition>
+  </stem>
+  <stem name="ready" sense="A">
+    <definition>to be ready for something to happen</definition>
+  </stem>
+  <stem name="red" sense="A">
+    <definition>the color</definition>
+  </stem>
+  <stem name="responsible" sense="A">
+    <definition>to be responsible for the actions of someone</definition>
+  </stem>
+  <stem name="rich" sense="A">
+    <definition>complex - to have a lot of money</definition>
+  </stem>
+  <stem name="right" sense="A">
+    <definition>to be correct</definition>
+  </stem>
+  <stem name="right" sense="B">
+    <definition>the right-hand side</definition>
+  </stem>
+  <stem name="righteous" sense="A">
+    <definition>righteousness attribute</definition>
+  </stem>
+  <stem name="ripe" sense="A">
+    <definition>fruit is ripe, ready to be harvested and eaten</definition>
+  </stem>
+  <stem name="Roman" sense="A">
+    <definition>of Roman origins or working for the Romans</definition>
+  </stem>
+  <stem name="royal" sense="A">
+    <definition>having to do with royalty</definition>
+  </stem>
+  <stem name="sad" sense="A">
+    <definition>not happy</definition>
+  </stem>
+  <stem name="safe" sense="A">
+    <definition>to be safe</definition>
+  </stem>
+  <stem name="same" sense="A">
+    <definition>the same thing as previously mentioned</definition>
+  </stem>
+  <stem name="satisfied" sense="A">
+    <definition>to be satisfied</definition>
+  </stem>
+  <stem name="scarlet" sense="A">
+    <definition>complex - bright red</definition>
+  </stem>
+  <stem name="second" sense="A">
+    <definition>2nd in a series</definition>
+  </stem>
+  <stem name="selfish" sense="A">
+    <definition>selfishness atrribute</definition>
+  </stem>
+  <stem name="seventh" sense="A">
+    <definition>7th in a series</definition>
+  </stem>
+  <stem name="several" sense="A">
+    <definition>a small indeterminate number, more than</definition>
+  </stem>
+  <stem name="shiny" sense="A">
+    <definition>refers to metal that is smooth, polished, bright, and reflective</definition>
+  </stem>
+  <stem name="short" sense="A">
+    <definition>short in height or length</definition>
+  </stem>
+  <stem name="short" sense="B">
+    <definition>short time period</definition>
+  </stem>
+  <stem name="sick" sense="A">
+    <definition>to be ill</definition>
+  </stem>
+  <stem name="silver" sense="A">
+    <definition>the color silver</definition>
+  </stem>
+  <stem name="similar" sense="A">
+    <definition>similar to somethng else</definition>
+  </stem>
+  <stem name="sixth" sense="A">
+    <definition>6th in a series</definition>
+  </stem>
+  <stem name="sleepy" sense="A">
+    <definition>wanting to sleep, tired</definition>
+  </stem>
+  <stem name="small" sense="A">
+    <definition>small in size</definition>
+  </stem>
+  <stem name="smooth" sense="A">
+    <definition>smoothness attribute</definition>
+  </stem>
+  <stem name="solid" sense="A">
+    <definition>solidness attribute</definition>
+  </stem>
+  <stem name="some" sense="A">
+    <definition>quantity</definition>
+  </stem>
+  <stem name="sore" sense="A">
+    <definition>to be sore, hurting</definition>
+  </stem>
+  <stem name="sorry" sense="A">
+    <definition>to be sorry that the person did something (A P(cl))</definition>
+  </stem>
+  <stem name="southern" sense="A">
+    <definition>indicates the southern region</definition>
+  </stem>
+  <stem name="special" sense="A">
+    <definition>special, different in a good way</definition>
+  </stem>
+  <stem name="steep" sense="A">
+    <definition>something like a hill or wall has a steep angle (That hill is steep.)</definition>
+  </stem>
+  <stem name="straight" sense="A">
+    <definition>not crooked</definition>
+  </stem>
+  <stem name="strange" sense="A">
+    <definition>wierd, out of the ordinary</definition>
+  </stem>
+  <stem name="strict" sense="A">
+    <definition>expecting people to do the things that you tell them to do</definition>
+  </stem>
+  <stem name="strong" sense="A">
+    <definition>having much strength</definition>
+  </stem>
+  <stem name="stupid" sense="A">
+    <definition>showing a lack of good sense or good judgement</definition>
+  </stem>
+  <stem name="surprised" sense="A">
+    <definition>to be surprised about something</definition>
+  </stem>
+  <stem name="surprised" sense="B">
+    <definition>to be surprised that something happened</definition>
+  </stem>
+  <stem name="tall" sense="A">
+    <definition>height of someone or something is high</definition>
+  </stem>
+  <stem name="terrible" sense="A">
+    <definition>to be terrible, horrible</definition>
+  </stem>
+  <stem name="thin" sense="A">
+    <definition>thinness attribute</definition>
+  </stem>
+  <stem name="third" sense="A">
+    <definition>3rd in a series</definition>
+  </stem>
+  <stem name="thirsty" sense="A">
+    <definition>to be thirsty</definition>
+  </stem>
+  <stem name="thorny" sense="A">
+    <definition>something having thorns</definition>
+  </stem>
+  <stem name="thousands" sense="A">
+    <definition>an expression indicating thousands of something, not a precise number</definition>
+  </stem>
+  <stem name="tired" sense="A">
+    <definition>to be tired, sleepy</definition>
+  </stem>
+  <stem name="traditional" sense="A">
+    <definition>a law or practice is done as it has been done in the past</definition>
+  </stem>
+  <stem name="troubled" sense="A">
+    <definition>to be troubled, disturbed</definition>
+  </stem>
+  <stem name="true" sense="A">
+    <definition>true, not false, fake or unreal</definition>
+  </stem>
+  <stem name="ugly" sense="A">
+    <definition>unattractive, not pretty</definition>
+  </stem>
+  <stem name="unclean" sense="A">
+    <definition>ceremonially unclean</definition>
+  </stem>
+  <stem name="upset" sense="A">
+    <definition>to be annoyed, worried, unhappy (John was upset.)</definition>
+  </stem>
+  <stem name="valuable" sense="A">
+    <definition>to be worth much</definition>
+  </stem>
+  <stem name="violent" sense="A">
+    <definition>to be violent</definition>
+  </stem>
+  <stem name="warm" sense="A">
+    <definition>something is warm, not hot</definition>
+  </stem>
+  <stem name="weak" sense="A">
+    <definition>not strong</definition>
+  </stem>
+  <stem name="well" sense="A">
+    <definition>healthy, good</definition>
+  </stem>
+  <stem name="western" sense="A">
+    <definition>indicates the western region</definition>
+  </stem>
+  <stem name="white" sense="A">
+    <definition>the color white</definition>
+  </stem>
+  <stem name="whole" sense="A">
+    <definition>the entire thing</definition>
+  </stem>
+  <stem name="wicked" sense="A">
+    <definition>wicked, evil</definition>
+  </stem>
+  <stem name="wide" sense="A">
+    <definition>wide, not narrow</definition>
+  </stem>
+  <stem name="wide" sense="B">
+    <definition>as in "20 meters wide"</definition>
+  </stem>
+  <stem name="wild" sense="A">
+    <definition>from the wild, not tamed or cultivated</definition>
+  </stem>
+  <stem name="willing" sense="A">
+    <definition>to be willing to do something</definition>
+  </stem>
+  <stem name="wise" sense="A">
+    <definition>wise attribute</definition>
+  </stem>
+  <stem name="wonderful" sense="A">
+    <definition>someone or something that causes people to be awed, in a good sense</definition>
+  </stem>
+  <stem name="worthless" sense="A">
+    <definition>to be worthless</definition>
+  </stem>
+  <stem name="wrong" sense="A">
+    <definition>to be incorrect</definition>
+  </stem>
+  <stem name="yellow" sense="A">
+    <definition>the color yellow</definition>
+  </stem>
+  <stem name="young" sense="A">
+    <definition>young in age</definition>
+  </stem>
+</pos>

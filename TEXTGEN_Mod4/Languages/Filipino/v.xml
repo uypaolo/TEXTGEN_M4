@@ -1,0 +1,22 @@
+<pos name="v">
+  <features />
+  <forms />
+  <stems>
+    <stem name="ay" gloss="be">
+      <comments />
+      <sentence />
+      <forms />
+      <mappings>
+        <mapping concept="be" sense="D" pos="v" />
+      </mappings>
+    </stem>
+    <stem name="upo" gloss="sit">
+      <comments />
+      <sentence />
+      <forms />
+      <mappings>
+        <mapping concept="sit" sense="A" pos="v" />
+      </mappings>
+    </stem>
+  </stems>
+</pos>

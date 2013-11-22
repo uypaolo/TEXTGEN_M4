@@ -1,0 +1,4356 @@
+<pos name="n">
+  <stem name="2PM" sense="A">
+    <definition>the time</definition>
+  </stem>
+  <stem name="3PM" sense="A">
+    <definition>the time</definition>
+  </stem>
+  <stem name="4PM" sense="A">
+    <definition>the time</definition>
+  </stem>
+  <stem name="5PM" sense="A">
+    <definition>the time</definition>
+  </stem>
+  <stem name="9AM" sense="A">
+    <definition>the time</definition>
+  </stem>
+  <stem name="Aaron" sense="A">
+    <definition>Moses</definition>
+  </stem>
+  <stem name="Abagtha" sense="A">
+    <definition>in Esther</definition>
+  </stem>
+  <stem name="Abednego" sense="A">
+    <definition>Azariah</definition>
+  </stem>
+  <stem name="Abel" sense="A">
+    <definition>brother of Cain</definition>
+  </stem>
+  <stem name="Abida" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Abihail" sense="A">
+    <definition>father of Esther</definition>
+  </stem>
+  <stem name="Abijah" sense="A">
+    <definition>son of Rehoboam, descendant of David; also the name of a group of priests in Luke 1:5.</definition>
+  </stem>
+  <stem name="Abilene" sense="A">
+    <definition>the place (Luke 3:1)</definition>
+  </stem>
+  <stem name="Abimael" sense="A">
+    <definition>man in Gen 11</definition>
+  </stem>
+  <stem name="Abimelech" sense="A">
+    <definition>man in Gen 20</definition>
+  </stem>
+  <stem name="Abraham" sense="A">
+    <definition>person, also called Abram</definition>
+  </stem>
+  <stem name="Abram" sense="A">
+    <definition>Abraham</definition>
+  </stem>
+  <stem name="Acbor" sense="A">
+    <definition>man in Gen. 36:38</definition>
+  </stem>
+  <stem name="Girl" sense="A" />
+  <stem name="action" sense="A">
+    <definition>the action of a person</definition>
+  </stem>
+  <stem name="Adah" sense="A">
+    <definition>woman in Gen. 4:19</definition>
+  </stem>
+  <stem name="Adalia" sense="A">
+    <definition>Esther 9:7-9</definition>
+  </stem>
+  <stem name="Adam" sense="A">
+    <definition>the first man</definition>
+  </stem>
+  <stem name="Adbeel" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Addi" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Admah" sense="A">
+    <definition>the city</definition>
+  </stem>
+  <stem name="Admatha" sense="A">
+    <definition>in Esther</definition>
+  </stem>
+  <stem name="Adullam" sense="A">
+    <definition>town in Gen. 38:1</definition>
+  </stem>
+  <stem name="Agagite" sense="A">
+    <definition>a group of people to whom Mordecai belonged, in Esther</definition>
+  </stem>
+  <stem name="age" sense="A">
+    <definition>the number of years someone or thing has been alive</definition>
+  </stem>
+  <stem name="agreement" sense="A">
+    <definition>an arrangement or promise to do something, made by two or more people or organizations</definition>
+  </stem>
+  <stem name="Agus" sense="A">
+    <definition>man</definition>
+  </stem>
+  <stem name="Ahuzzath" sense="A">
+    <definition>the person in Gen 26</definition>
+  </stem>
+  <stem name="Ai" sense="A">
+    <definition>the place in Gen 12</definition>
+  </stem>
+  <stem name="Aiah" sense="A">
+    <definition>man in Gen. 36:24</definition>
+  </stem>
+  <stem name="AIDS" sense="A">
+    <definition>the disease</definition>
+  </stem>
+  <stem name="air" sense="A">
+    <definition>what we breathe</definition>
+  </stem>
+  <stem name="air" sense="B">
+    <definition>the space above the ground</definition>
+  </stem>
+  <stem name="Ajani" sense="A">
+    <definition>name of a boy who was Kande</definition>
+  </stem>
+  <stem name="Akan" sense="A">
+    <definition>man in Gen. 36:26</definition>
+  </stem>
+  <stem name="Akeldama" sense="A">
+    <definition>the name of Judas</definition>
+  </stem>
+  <stem name="Akkad" sense="A">
+    <definition>the city</definition>
+  </stem>
+  <stem name="alcohol" sense="A">
+    <definition>a substance that people drink and it causes them to become drunk</definition>
+  </stem>
+  <stem name="Alex" sense="A">
+    <definition>a name of a person</definition>
+  </stem>
+  <stem name="Almodad" sense="A">
+    <definition>man in Gen 11</definition>
+  </stem>
+  <stem name="almond" sense="A">
+    <definition>the fruit of the almond tree</definition>
+  </stem>
+  <stem name="Alphaeus" sense="A">
+    <definition>the father of James, the disciple</definition>
+  </stem>
+  <stem name="altar" sense="A">
+    <definition>an altar for worship</definition>
+  </stem>
+  <stem name="Alvah" sense="A">
+    <definition>man in Gen. 36:40</definition>
+  </stem>
+  <stem name="Alvan" sense="A">
+    <definition>man in Gen. 36:23</definition>
+  </stem>
+  <stem name="Amalek" sense="A">
+    <definition>man in Gen. 36:12</definition>
+  </stem>
+  <stem name="Amalekite" sense="A">
+    <definition>a person of the Amalekites</definition>
+  </stem>
+  <stem name="Amminadab" sense="A">
+    <definition>father-in-law of Aaron</definition>
+  </stem>
+  <stem name="Ammon" sense="A">
+    <definition>a country mentioned in Daniel 11:41</definition>
+  </stem>
+  <stem name="Ammonite" sense="A">
+    <definition>a person of the Ammonites</definition>
+  </stem>
+  <stem name="Amorite" sense="A">
+    <definition>an Amorite person</definition>
+  </stem>
+  <stem name="Amos" sense="A">
+    <definition>son of Manasseh, descendant of David</definition>
+  </stem>
+  <stem name="amount" sense="A">
+    <definition>a quantity of something such as time, money, food, etc.</definition>
+  </stem>
+  <stem name="Amraphel" sense="A">
+    <definition>man in Gen 14</definition>
+  </stem>
+  <stem name="Anah" sense="A">
+    <definition>woman in Gen. 36:2</definition>
+  </stem>
+  <stem name="Anah" sense="B">
+    <definition>man in Gen. 36:24</definition>
+  </stem>
+  <stem name="Anamim" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="ancestor" sense="A">
+    <definition>older relatives related by blood</definition>
+  </stem>
+  <stem name="Ancient-of-Days" sense="A">
+    <definition>a title used for God the Father and also for Jesus Christ in Daniel 7 and other passages</definition>
+  </stem>
+  <stem name="Andrew" sense="A">
+    <definition>the disciple</definition>
+  </stem>
+  <stem name="Aner" sense="A">
+    <definition>the person in Gen 14</definition>
+  </stem>
+  <stem name="angel" sense="A">
+    <definition>heavenly being</definition>
+  </stem>
+  <stem name="animal" sense="A">
+    <definition>an animal</definition>
+  </stem>
+  <stem name="Anna" sense="A">
+    <definition>the prophetess  (Luke 2:36)</definition>
+  </stem>
+  <stem name="Annas" sense="A">
+    <definition>the high priest (Luke 3:2)</definition>
+  </stem>
+  <stem name="Anointed-One" sense="A">
+    <definition>name of special ruler in Daniel 9</definition>
+  </stem>
+  <stem name="apostle" sense="A">
+    <definition>the 12 apostles</definition>
+  </stem>
+  <stem name="April" sense="A">
+    <definition>the month</definition>
+  </stem>
+  <stem name="Aram" sense="A">
+    <definition>man in Gen 11</definition>
+  </stem>
+  <stem name="Aramaic" sense="A">
+    <definition>a northwest Semitic language</definition>
+  </stem>
+  <stem name="Aran" sense="A">
+    <definition>man in Gen. 36:28</definition>
+  </stem>
+  <stem name="Ararat" sense="A">
+    <definition>mountain in Gen. 8:4</definition>
+  </stem>
+  <stem name="Archippus" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Ard" sense="A">
+    <definition>man in Gen. 46:21</definition>
+  </stem>
+  <stem name="Areli" sense="A">
+    <definition>man in Gen. 46:16</definition>
+  </stem>
+  <stem name="Aridai" sense="A">
+    <definition>Esther 9:7-9</definition>
+  </stem>
+  <stem name="Aridatha" sense="A">
+    <definition>Esther 9:7-9</definition>
+  </stem>
+  <stem name="Arimathea" sense="A">
+    <definition>the place where Joseph, who buried Jesus, lived</definition>
+  </stem>
+  <stem name="Arioch" sense="A">
+    <definition>the captain of Nebuchadnezzar</definition>
+  </stem>
+  <stem name="Arisai" sense="A">
+    <definition>Esther 9:7-9</definition>
+  </stem>
+  <stem name="Aristarchus" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="ark" sense="A">
+    <definition>the large boat that Noah built to save his family and the animals</definition>
+  </stem>
+  <stem name="Arkite" sense="A">
+    <definition>an Arkite person</definition>
+  </stem>
+  <stem name="arm" sense="A">
+    <definition>the arm</definition>
+  </stem>
+  <stem name="army" sense="A">
+    <definition>the military of a country</definition>
+  </stem>
+  <stem name="Arni" sense="A">
+    <definition>the person (Luke 3:33) (Ram in NIV)</definition>
+  </stem>
+  <stem name="Arodi" sense="A">
+    <definition>man in Gen. 46:16</definition>
+  </stem>
+  <stem name="Arphaxad" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="arrow" sense="A">
+    <definition>an arrow</definition>
+  </stem>
+  <stem name="Arvadite" sense="A">
+    <definition>an Arvadite person</definition>
+  </stem>
+  <stem name="Asenath" sense="A">
+    <definition>Egyptian woman in Gen. 41:45</definition>
+  </stem>
+  <stem name="ash" sense="A">
+    <definition>ash, from a fire</definition>
+  </stem>
+  <stem name="Ashbel" sense="A">
+    <definition>man in Gen. 46:21</definition>
+  </stem>
+  <stem name="Asher" sense="A">
+    <definition>Jacob</definition>
+  </stem>
+  <stem name="Ashkenaz" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="Ashpenaz" sense="A">
+    <definition>Nebuchadnezzar</definition>
+  </stem>
+  <stem name="Ashteroth-Karnaim" sense="A">
+    <definition>place in Gen 14</definition>
+  </stem>
+  <stem name="Aspatha" sense="A">
+    <definition>Esther 9:7-9</definition>
+  </stem>
+  <stem name="Asshur" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="Assyria" sense="A">
+    <definition>the country</definition>
+  </stem>
+  <stem name="astrologer" sense="A">
+    <definition>someone who claims to interpret how the stars and planets influence human affairs</definition>
+  </stem>
+  <stem name="Atad" sense="A">
+    <definition>man in Gen. 49:10</definition>
+  </stem>
+  <stem name="Augustus" sense="A">
+    <definition>the emperor of Rome at the time of Jesus</definition>
+  </stem>
+  <stem name="authority" sense="A">
+    <definition>the abstract, authority</definition>
+  </stem>
+  <stem name="Avian-Influenza" sense="A">
+    <definition>name of disease that kills birds</definition>
+  </stem>
+  <stem name="Avith" sense="A">
+    <definition>city in Gen. 36:35</definition>
+  </stem>
+  <stem name="axe" sense="A">
+    <definition>an axe</definition>
+  </stem>
+  <stem name="Azariah" sense="A">
+    <definition>a friend of Daniel</definition>
+  </stem>
+  <stem name="Baal-Hanan" sense="A">
+    <definition>man in Gen. 36:38</definition>
+  </stem>
+  <stem name="Babel" sense="A">
+    <definition>city in Gen. 11</definition>
+  </stem>
+  <stem name="baby" sense="A">
+    <definition>an infant boy</definition>
+  </stem>
+  <stem name="baby" sense="B">
+    <definition>an infant girl</definition>
+  </stem>
+  <stem name="baby" sense="C">
+    <definition>a baby animal, as opposed to a baby human</definition>
+  </stem>
+  <stem name="Babylon" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Babylonia" sense="A">
+    <definition>the country/region</definition>
+  </stem>
+  <stem name="back" sense="A">
+    <definition>the back of a person or animal</definition>
+  </stem>
+  <stem name="back" sense="B">
+    <definition>the rear portion of something (back of the boat)</definition>
+  </stem>
+  <stem name="bag" sense="A">
+    <definition>a bag</definition>
+  </stem>
+  <stem name="bamboo" sense="A">
+    <definition>wood from a bamboo tree (The cage was made of bamboo.)</definition>
+  </stem>
+  <stem name="bandage" sense="A">
+    <definition>strip of cloth or other material meant to cover a wound to keep it clean</definition>
+  </stem>
+  <stem name="bank" sense="A">
+    <definition>edge of a body of water</definition>
+  </stem>
+  <stem name="bank" sense="B">
+    <definition>a place that stores money for people</definition>
+  </stem>
+  <stem name="Baptist" sense="A">
+    <definition>title of John the Baptist</definition>
+  </stem>
+  <stem name="Barabbas" sense="A">
+    <definition>the criminal freed instead of Jesus</definition>
+  </stem>
+  <stem name="bark" sense="A">
+    <definition>covering of a tree</definition>
+  </stem>
+  <stem name="barley" sense="A">
+    <definition>a type of crop</definition>
+  </stem>
+  <stem name="barley" sense="B">
+    <definition>the food</definition>
+  </stem>
+  <stem name="barn" sense="A">
+    <definition>a building for storing harvested crops</definition>
+  </stem>
+  <stem name="Barnabas" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Barsabbas" sense="A">
+    <definition>man</definition>
+  </stem>
+  <stem name="Bartholomew" sense="A">
+    <definition>the disciple</definition>
+  </stem>
+  <stem name="Bartimaeus" sense="A">
+    <definition>the blind beggar Jesus heales (Mark 10 46)</definition>
+  </stem>
+  <stem name="Basemath" sense="A">
+    <definition>the woman in Genesis 26</definition>
+  </stem>
+  <stem name="Bashan" sense="A">
+    <definition>place in Nahum 1:4</definition>
+  </stem>
+  <stem name="basket" sense="A">
+    <definition>a type of container</definition>
+  </stem>
+  <stem name="battle" sense="A">
+    <definition>a battle, as opposed to a war</definition>
+  </stem>
+  <stem name="bear" sense="A">
+    <definition>the animal</definition>
+  </stem>
+  <stem name="bed" sense="A">
+    <definition>a bed</definition>
+  </stem>
+  <stem name="Bedad" sense="A">
+    <definition>man in Gen. 36:35</definition>
+  </stem>
+  <stem name="Beelzebul" sense="A">
+    <definition>Beelzebul</definition>
+  </stem>
+  <stem name="Beer-Lahai-Roi" sense="A">
+    <definition>the well in Gen 16</definition>
+  </stem>
+  <stem name="Beeri" sense="A">
+    <definition>the man in Genesis 26</definition>
+  </stem>
+  <stem name="Beersheba" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Beker" sense="A">
+    <definition>man in Gen. 46:21</definition>
+  </stem>
+  <stem name="Bela" sense="A">
+    <definition>place in Gen 14</definition>
+  </stem>
+  <stem name="Bela" sense="B">
+    <definition>man in Gen. 36:32</definition>
+  </stem>
+  <stem name="believer" sense="A">
+    <definition>a Christian</definition>
+  </stem>
+  <stem name="Belshazzar" sense="A">
+    <definition>king of Babylon during Daniel</definition>
+  </stem>
+  <stem name="belt" sense="A">
+    <definition>a belt</definition>
+  </stem>
+  <stem name="Belteshazzar" sense="A">
+    <definition>Daniel</definition>
+  </stem>
+  <stem name="Ben-Ammi" sense="A">
+    <definition>person in Gen 19</definition>
+  </stem>
+  <stem name="Benjamin" sense="A">
+    <definition>Jacob</definition>
+  </stem>
+  <stem name="Beor" sense="A">
+    <definition>man in Gen. 36:32</definition>
+  </stem>
+  <stem name="Bera" sense="A">
+    <definition>man in Gen 14</definition>
+  </stem>
+  <stem name="Bered" sense="A">
+    <definition>place in Gen 16</definition>
+  </stem>
+  <stem name="Beriah" sense="A">
+    <definition>man in Gen. 46:17</definition>
+  </stem>
+  <stem name="Bethany" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Bethel" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Bethlehem" sense="A">
+    <definition>the city</definition>
+  </stem>
+  <stem name="Bethphage" sense="A">
+    <definition>the place, Matt 21:1</definition>
+  </stem>
+  <stem name="Bethsaida" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Bethuel" sense="A">
+    <definition>man in Gen 22</definition>
+  </stem>
+  <stem name="Bigtha" sense="A">
+    <definition>in Esther</definition>
+  </stem>
+  <stem name="Bigthana" sense="A">
+    <definition>guard in Esther 2:21</definition>
+  </stem>
+  <stem name="Bilhah" sense="A">
+    <definition>the woman in Gen 29</definition>
+  </stem>
+  <stem name="Bilhan" sense="A">
+    <definition>man in Gen. 36:27</definition>
+  </stem>
+  <stem name="bill" sense="A">
+    <definition>a written list showing how much money is owed for goods or services (John has a bill.)</definition>
+  </stem>
+  <stem name="bird" sense="A">
+    <definition>a bird</definition>
+  </stem>
+  <stem name="Birsha" sense="A">
+    <definition>man in Gen 14</definition>
+  </stem>
+  <stem name="birthday" sense="A">
+    <definition>anniversary of the day when someone was born</definition>
+  </stem>
+  <stem name="Biztha" sense="A">
+    <definition>in Esther</definition>
+  </stem>
+  <stem name="bleach" sense="A">
+    <definition>chemical that kills germs</definition>
+  </stem>
+  <stem name="blood" sense="A">
+    <definition>the blood of a human or animal</definition>
+  </stem>
+  <stem name="board" sense="A">
+    <definition>a cutting board used when cutting meat or food</definition>
+  </stem>
+  <stem name="boat" sense="A">
+    <definition>a boat</definition>
+  </stem>
+  <stem name="Boaz" sense="A">
+    <definition>husband of Rahab, husband of Ruth</definition>
+  </stem>
+  <stem name="body" sense="A">
+    <definition>the physical body of a person or animal</definition>
+  </stem>
+  <stem name="bone" sense="A">
+    <definition>a bone</definition>
+  </stem>
+  <stem name="book" sense="A">
+    <definition>a book to read</definition>
+  </stem>
+  <stem name="Book-of-Life" sense="A">
+    <definition>name of book in Philippians 4:3</definition>
+  </stem>
+  <stem name="Book-of-Truth" sense="A">
+    <definition>name of book in Daniel 10</definition>
+  </stem>
+  <stem name="border" sense="A">
+    <definition>the border between two geographies</definition>
+  </stem>
+  <stem name="boss" sense="A">
+    <definition>the boss of a group of workers</definition>
+  </stem>
+  <stem name="bottom" sense="A">
+    <definition>the bottom of a container</definition>
+  </stem>
+  <stem name="bottom" sense="B">
+    <definition>the lowest part of a structure (bottom of the mountain)</definition>
+  </stem>
+  <stem name="bow" sense="A">
+    <definition>the weapon used to shoot arrows</definition>
+  </stem>
+  <stem name="bowl" sense="A">
+    <definition>a bowl</definition>
+  </stem>
+  <stem name="box" sense="A">
+    <definition>a box</definition>
+  </stem>
+  <stem name="boy" sense="A">
+    <definition>young male human</definition>
+  </stem>
+  <stem name="Bozrah" sense="A">
+    <definition>city in Gen. 36:33</definition>
+  </stem>
+  <stem name="bracelet" sense="A">
+    <definition>jewelry that goes on a person</definition>
+  </stem>
+  <stem name="branch" sense="A">
+    <definition>a branch of a tree</definition>
+  </stem>
+  <stem name="bread" sense="A">
+    <definition>bread</definition>
+  </stem>
+  <stem name="breast" sense="A">
+    <definition>the part of a woman</definition>
+  </stem>
+  <stem name="breast-milk" sense="A">
+    <definition>milk from a mother</definition>
+  </stem>
+  <stem name="brick" sense="A">
+    <definition>a brick used for building</definition>
+  </stem>
+  <stem name="bridegroom" sense="A">
+    <definition>complex - a man that will marry a woman soon</definition>
+  </stem>
+  <stem name="bronze" sense="A">
+    <definition>an alloy of copper and tin</definition>
+  </stem>
+  <stem name="brother" sense="A">
+    <definition>older male sibling</definition>
+  </stem>
+  <stem name="brother" sense="B">
+    <definition>younger male sibling</definition>
+  </stem>
+  <stem name="brother" sense="C">
+    <definition>generic term that includes both older and younger brothers</definition>
+  </stem>
+  <stem name="brother" sense="D">
+    <definition>title used by Christians for men (Brother John, ...)</definition>
+  </stem>
+  <stem name="bucket" sense="A">
+    <definition>a bucket</definition>
+  </stem>
+  <stem name="building" sense="A">
+    <definition>generic term for a structure that people live or work in</definition>
+  </stem>
+  <stem name="bull" sense="A">
+    <definition>a male cow</definition>
+  </stem>
+  <stem name="bush" sense="A">
+    <definition>a small tree</definition>
+  </stem>
+  <stem name="Buz" sense="A">
+    <definition>man in Gen 22</definition>
+  </stem>
+  <stem name="Caesar" sense="A">
+    <definition>the person</definition>
+  </stem>
+  <stem name="Caesarea" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Caesarea-philippi" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="cage" sense="A">
+    <definition>an enclosure for confining birds or animals</definition>
+  </stem>
+  <stem name="Caiaphas" sense="A">
+    <definition>the high-priest at the time of Jesus</definition>
+  </stem>
+  <stem name="Cain" sense="A">
+    <definition>son of Adam and Eve</definition>
+  </stem>
+  <stem name="Cainan" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Calah" sense="A">
+    <definition>the city</definition>
+  </stem>
+  <stem name="calf" sense="A">
+    <definition>a baby cow</definition>
+  </stem>
+  <stem name="Calneh" sense="A">
+    <definition>the city</definition>
+  </stem>
+  <stem name="camel" sense="A">
+    <definition>a camel</definition>
+  </stem>
+  <stem name="camp" sense="A">
+    <definition>more-or-less temporary living place, usually with tents</definition>
+  </stem>
+  <stem name="Canaan" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Canaan" sense="B">
+    <definition>the man (Genesis 9:18)</definition>
+  </stem>
+  <stem name="Canaanite" sense="A">
+    <definition>a member of the Canaanite people</definition>
+  </stem>
+  <stem name="candle" sense="A">
+    <definition>a candle</definition>
+  </stem>
+  <stem name="Capernaum" sense="A">
+    <definition>the town</definition>
+  </stem>
+  <stem name="Caphtorim" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="captain" sense="A">
+    <definition>the leader of a group</definition>
+  </stem>
+  <stem name="Carcas" sense="A">
+    <definition>in Esther</definition>
+  </stem>
+  <stem name="Carmel" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Carmi" sense="A">
+    <definition>Reuben</definition>
+  </stem>
+  <stem name="carpenter" sense="A">
+    <definition>complex - a person who builds things from wood</definition>
+  </stem>
+  <stem name="Carshena" sense="A">
+    <definition>in Esther</definition>
+  </stem>
+  <stem name="Casluhim" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="cattle" sense="A">
+    <definition>multiple cows</definition>
+  </stem>
+  <stem name="cave" sense="A">
+    <definition>a cave</definition>
+  </stem>
+  <stem name="cemetery" sense="A">
+    <definition>complex - place where people bury other people that died</definition>
+  </stem>
+  <stem name="chaff" sense="A">
+    <definition>the outside covering of grain</definition>
+  </stem>
+  <stem name="chain" sense="A">
+    <definition>a chain, used to hold something</definition>
+  </stem>
+  <stem name="chair" sense="A">
+    <definition>something to sit on</definition>
+  </stem>
+  <stem name="characteristic" sense="A">
+    <definition>a trait, quality, or feature of someone</definition>
+  </stem>
+  <stem name="chariot" sense="A">
+    <definition>a chariot</definition>
+  </stem>
+  <stem name="cheek" sense="A">
+    <definition>part of a person</definition>
+  </stem>
+  <stem name="chest" sense="A">
+    <definition>the chest of a person</definition>
+  </stem>
+  <stem name="chicken" sense="A">
+    <definition>type of bird that people eat</definition>
+  </stem>
+  <stem name="chief" sense="A">
+    <definition>the leader of a village</definition>
+  </stem>
+  <stem name="child" sense="A">
+    <definition>son or daughter</definition>
+  </stem>
+  <stem name="Christ" sense="A">
+    <definition>Christ, Messiah</definition>
+  </stem>
+  <stem name="Christian" sense="A">
+    <definition>a person who has trusted in Christ to pay for his sins</definition>
+  </stem>
+  <stem name="church" sense="A">
+    <definition>the body of believers</definition>
+  </stem>
+  <stem name="church" sense="B">
+    <definition>the building where Christians worship</definition>
+  </stem>
+  <stem name="Chuza" sense="A">
+    <definition>the man (Luke 8:3)</definition>
+  </stem>
+  <stem name="city" sense="A">
+    <definition>a large town</definition>
+  </stem>
+  <stem name="clay" sense="A">
+    <definition>a type of dirt used to make bowls, bricks, etc.</definition>
+  </stem>
+  <stem name="Clement" sense="A">
+    <definition>the person (Phil 4:3)</definition>
+  </stem>
+  <stem name="Cleopas" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="clinic" sense="A">
+    <definition>a small medical facility, like a hospital but smaller</definition>
+  </stem>
+  <stem name="cloth" sense="A">
+    <definition>a piece of cloth</definition>
+  </stem>
+  <stem name="clothes" sense="A">
+    <definition>that which people wear</definition>
+  </stem>
+  <stem name="cloud" sense="A">
+    <definition>a cloud</definition>
+  </stem>
+  <stem name="coat" sense="A">
+    <definition>coat that is worn</definition>
+  </stem>
+  <stem name="coffin" sense="A">
+    <definition>a box used to carry a dead person</definition>
+  </stem>
+  <stem name="coin" sense="A">
+    <definition>a small object used as money</definition>
+  </stem>
+  <stem name="cold" sense="A">
+    <definition>the disease (e.g., I caught a cold.)</definition>
+  </stem>
+  <stem name="Colosse" sense="A">
+    <definition>the city mentioned in the book of Colossians</definition>
+  </stem>
+  <stem name="comb" sense="A">
+    <definition>the thing on top of a rooster</definition>
+  </stem>
+  <stem name="command" sense="A">
+    <definition>a command of someone</definition>
+  </stem>
+  <stem name="commandment" sense="A">
+    <definition>a commandment</definition>
+  </stem>
+  <stem name="concubine" sense="A">
+    <definition>complex - a woman that a king sleeps with regularly, but she is not the king</definition>
+  </stem>
+  <stem name="condom" sense="A">
+    <definition>used during intercourse to prevent the spread of AIDS</definition>
+  </stem>
+  <stem name="container" sense="A">
+    <definition>a container for holding liquid, a jar or bottle</definition>
+  </stem>
+  <stem name="copper" sense="A">
+    <definition>the substance copper (e.g., two copper coins)</definition>
+  </stem>
+  <stem name="corpse" sense="A">
+    <definition>complex - a dead body</definition>
+  </stem>
+  <stem name="Cosam" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="couch" sense="A">
+    <definition>a long seat for sitting or reclining</definition>
+  </stem>
+  <stem name="country" sense="A">
+    <definition>a country</definition>
+  </stem>
+  <stem name="courage" sense="A">
+    <definition>the abstract quality of being brave</definition>
+  </stem>
+  <stem name="court" sense="A">
+    <definition>a court with judges</definition>
+  </stem>
+  <stem name="courtyard" sense="A">
+    <definition>open space between buildings where people can sit or meet</definition>
+  </stem>
+  <stem name="cousin" sense="A">
+    <definition>child of your parent</definition>
+  </stem>
+  <stem name="covenant" sense="A">
+    <definition>a promise between God and his people; this concept is complex but not explicated.  It is always matched with</definition>
+  </stem>
+  <stem name="cover" sense="A">
+    <definition>the cover of something</definition>
+  </stem>
+  <stem name="cow" sense="A">
+    <definition>an animal</definition>
+  </stem>
+  <stem name="creature" sense="A">
+    <definition>any living thing (animal, fish, insect, person, angel, etc.), but not a plant</definition>
+  </stem>
+  <stem name="crop" sense="A">
+    <definition>plants that are grown and harvested for food</definition>
+  </stem>
+  <stem name="cross" sense="A">
+    <definition>a cross</definition>
+  </stem>
+  <stem name="crowd" sense="A">
+    <definition>a crowd of people</definition>
+  </stem>
+  <stem name="crown" sense="A">
+    <definition>a royal crown</definition>
+  </stem>
+  <stem name="cup" sense="A">
+    <definition>a container for drinking</definition>
+  </stem>
+  <stem name="curtain" sense="A">
+    <definition>cloths used for decoration on walls or over windows</definition>
+  </stem>
+  <stem name="Cush" sense="A">
+    <definition>a country mentioned in Daniel 11:43</definition>
+  </stem>
+  <stem name="Cush" sense="B">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="custom" sense="A">
+    <definition>a cultural practice</definition>
+  </stem>
+  <stem name="Cyrene" sense="A">
+    <definition>place where Simon, who carried Jesus</definition>
+  </stem>
+  <stem name="Cyrus" sense="A">
+    <definition>king of Persia</definition>
+  </stem>
+  <stem name="Dalphon" sense="A">
+    <definition>Esther 9:7-9</definition>
+  </stem>
+  <stem name="Damascus" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Dan" sense="A">
+    <definition>Jacob</definition>
+  </stem>
+  <stem name="Dan" sense="B">
+    <definition>the place in Gen 14</definition>
+  </stem>
+  <stem name="Daniel" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Darius" sense="A">
+    <definition>a king of Babylon during Daniel</definition>
+  </stem>
+  <stem name="darkness" sense="A">
+    <definition>the opposite of light</definition>
+  </stem>
+  <stem name="date" sense="A">
+    <definition>a date on the calendar, like June 2nd.</definition>
+  </stem>
+  <stem name="daughter" sense="A">
+    <definition>the female child of a parent</definition>
+  </stem>
+  <stem name="daughter-in-law" sense="A">
+    <definition>a daughter-in-law</definition>
+  </stem>
+  <stem name="David" sense="A">
+    <definition>King David</definition>
+  </stem>
+  <stem name="day" sense="A">
+    <definition>a 24 hour period (he traveled for a day)</definition>
+  </stem>
+  <stem name="death" sense="A">
+    <definition>death</definition>
+  </stem>
+  <stem name="Deborah" sense="A">
+    <definition>a woman in Gen. 35:8</definition>
+  </stem>
+  <stem name="Dedan" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="deer" sense="A">
+    <definition>the animal</definition>
+  </stem>
+  <stem name="Demas" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="demon" sense="A">
+    <definition>a demon</definition>
+  </stem>
+  <stem name="descendant" sense="A">
+    <definition>people related directly by birth</definition>
+  </stem>
+  <stem name="desert" sense="A">
+    <definition>arid land area</definition>
+  </stem>
+  <stem name="device" sense="A">
+    <definition>a machine or tool that does a certain job</definition>
+  </stem>
+  <stem name="devil" sense="A">
+    <definition>the devil, Satan</definition>
+  </stem>
+  <stem name="dew" sense="A">
+    <definition>dew on the ground in the morning</definition>
+  </stem>
+  <stem name="Diklah" sense="A">
+    <definition>man in Gen 11</definition>
+  </stem>
+  <stem name="Dinah" sense="A">
+    <definition>woman in Gen 30</definition>
+  </stem>
+  <stem name="Dinhabah" sense="A">
+    <definition>city in Gen. 36:32</definition>
+  </stem>
+  <stem name="dinner" sense="A">
+    <definition>the evening meal</definition>
+  </stem>
+  <stem name="dirt" sense="A">
+    <definition>dirt</definition>
+  </stem>
+  <stem name="disciple" sense="A">
+    <definition>a follower of a teacher</definition>
+  </stem>
+  <stem name="disease" sense="A">
+    <definition>generic word for disease</definition>
+  </stem>
+  <stem name="Dishan" sense="A">
+    <definition>man in Gen. 36:21</definition>
+  </stem>
+  <stem name="Dishon" sense="A">
+    <definition>man in Gen. 36:21</definition>
+  </stem>
+  <stem name="distance" sense="A">
+    <definition>the amount of space between two places or things (The distance between the door and window was 3 feet.)</definition>
+  </stem>
+  <stem name="doctor" sense="A">
+    <definition>a person who helps people that are sick</definition>
+  </stem>
+  <stem name="dog" sense="A">
+    <definition>the animal</definition>
+  </stem>
+  <stem name="donkey" sense="A">
+    <definition>the animal</definition>
+  </stem>
+  <stem name="door" sense="A">
+    <definition>a door</definition>
+  </stem>
+  <stem name="Dothan" sense="A">
+    <definition>place in Gen. 37:17</definition>
+  </stem>
+  <stem name="dove" sense="A">
+    <definition>a bird</definition>
+  </stem>
+  <stem name="dream" sense="A">
+    <definition>a dream</definition>
+  </stem>
+  <stem name="dress" sense="A">
+    <definition>a type of woman</definition>
+  </stem>
+  <stem name="drink" sense="A">
+    <definition>a drink</definition>
+  </stem>
+  <stem name="drop" sense="A">
+    <definition>a small amount of liquid (a drop of water)</definition>
+  </stem>
+  <stem name="drug" sense="A">
+    <definition>a chemical substance (narcotic) used to alter one</definition>
+  </stem>
+  <stem name="duck" sense="A">
+    <definition>type of bird that people eat</definition>
+  </stem>
+  <stem name="Dumah" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Dura" sense="A">
+    <definition>name of the plain where Nebuchadnezzar set up his gold statue</definition>
+  </stem>
+  <stem name="dust" sense="A">
+    <definition>dust on the ground</definition>
+  </stem>
+  <stem name="eagle" sense="A">
+    <definition>an eagle, a bird</definition>
+  </stem>
+  <stem name="ear" sense="A">
+    <definition>an ear</definition>
+  </stem>
+  <stem name="earring" sense="A">
+    <definition>jewelry worn in the ear</definition>
+  </stem>
+  <stem name="earth" sense="A">
+    <definition>the earth, the world</definition>
+  </stem>
+  <stem name="east" sense="A">
+    <definition>the compass direction</definition>
+  </stem>
+  <stem name="Ebal" sense="A">
+    <definition>man in Gen. 36:23</definition>
+  </stem>
+  <stem name="Eber" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Eden" sense="A">
+    <definition>garden in Genesis</definition>
+  </stem>
+  <stem name="edge" sense="A">
+    <definition>the edge of something</definition>
+  </stem>
+  <stem name="Edom" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Edomite" sense="A">
+    <definition>people in Gen. 36:9</definition>
+  </stem>
+  <stem name="egg" sense="A">
+    <definition>contains a baby bird</definition>
+  </stem>
+  <stem name="Egypt" sense="A">
+    <definition>the country</definition>
+  </stem>
+  <stem name="Egyptian" sense="A">
+    <definition>a person from Egypt</definition>
+  </stem>
+  <stem name="Ehi" sense="A">
+    <definition>man in Gen. 46:21</definition>
+  </stem>
+  <stem name="El-Paran" sense="A">
+    <definition>city in Gen 14</definition>
+  </stem>
+  <stem name="Elah" sense="A">
+    <definition>man in Gen. 36:41</definition>
+  </stem>
+  <stem name="Elam" sense="A">
+    <definition>name of a province Daniel 8:2</definition>
+  </stem>
+  <stem name="Elam" sense="B">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="Eldaah" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="eli-eli-lema-sabachthani" sense="A">
+    <definition>the Aramaic words Jesus spoke on the cross</definition>
+  </stem>
+  <stem name="Eliakim" sense="A">
+    <definition>son of Abiud, descendant of David</definition>
+  </stem>
+  <stem name="Eliezer" sense="A">
+    <definition>the son of Moses</definition>
+  </stem>
+  <stem name="Elijah" sense="A">
+    <definition>the prophet</definition>
+  </stem>
+  <stem name="Elimelech" sense="A">
+    <definition>father-in-law of Ruth</definition>
+  </stem>
+  <stem name="Eliphaz" sense="A">
+    <definition>boy in Gen. 36:4</definition>
+  </stem>
+  <stem name="Elisha" sense="A">
+    <definition>the prophet</definition>
+  </stem>
+  <stem name="Elishah" sense="A">
+    <definition>man in gen 10</definition>
+  </stem>
+  <stem name="Elizabeth" sense="A">
+    <definition>mother of John the Baptist</definition>
+  </stem>
+  <stem name="Elkosh" sense="A">
+    <definition>place where Nahum lived (Nahum 1:1)</definition>
+  </stem>
+  <stem name="Ellasar" sense="A">
+    <definition>place in Gen 14</definition>
+  </stem>
+  <stem name="Elmadam" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Elon" sense="A">
+    <definition>the man in Genesis 26</definition>
+  </stem>
+  <stem name="Emite" sense="A">
+    <definition>person of the Emites</definition>
+  </stem>
+  <stem name="Emmaus" sense="A">
+    <definition>a village in Luke 24:13</definition>
+  </stem>
+  <stem name="emperor" sense="A">
+    <definition>the ruler of an empire</definition>
+  </stem>
+  <stem name="En-Mishpat" sense="A">
+    <definition>place in Gen 14</definition>
+  </stem>
+  <stem name="Enaim" sense="A">
+    <definition>city in Gen. 38:14</definition>
+  </stem>
+  <stem name="enchanter" sense="A">
+    <definition>a person who casts magic spells</definition>
+  </stem>
+  <stem name="end" sense="A">
+    <definition>time at the end (end of the world)</definition>
+  </stem>
+  <stem name="enemy" sense="A">
+    <definition>foe</definition>
+  </stem>
+  <stem name="Enoch" sense="A">
+    <definition>the person (Luke 3, Genesis)</definition>
+  </stem>
+  <stem name="Enoch" sense="B">
+    <definition>name of city in Gen. 4:17</definition>
+  </stem>
+  <stem name="Enosh" sense="A">
+    <definition>grandson of Adam</definition>
+  </stem>
+  <stem name="entrance" sense="A">
+    <definition>an opening that you go through to enter into a place (e.g., the tomb</definition>
+  </stem>
+  <stem name="Epaphras" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Epaphroditus" sense="A">
+    <definition>coworker of Paul (Phil 2:25)</definition>
+  </stem>
+  <stem name="Ephah" sense="A">
+    <definition>the man in Gen 25</definition>
+  </stem>
+  <stem name="Epher" sense="A">
+    <definition>the man in Gen 25</definition>
+  </stem>
+  <stem name="Ephesus" sense="A">
+    <definition>the city in Ephesians</definition>
+  </stem>
+  <stem name="Ephraim" sense="A">
+    <definition>one of Joseph</definition>
+  </stem>
+  <stem name="Ephrathah" sense="A">
+    <definition>place in Bethlehem associated with the clan of Ephrathah</definition>
+  </stem>
+  <stem name="Ephratite" sense="A">
+    <definition>a person in the Ephratite clan</definition>
+  </stem>
+  <stem name="Ephron" sense="A">
+    <definition>the man in Gen 23</definition>
+  </stem>
+  <stem name="Er" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Erech" sense="A">
+    <definition>the city</definition>
+  </stem>
+  <stem name="Eri" sense="A">
+    <definition>man in Gen. 46:16</definition>
+  </stem>
+  <stem name="Esau" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Esek" sense="A">
+    <definition>name of a well in Gen 26</definition>
+  </stem>
+  <stem name="Eshban" sense="A">
+    <definition>man in Gen. 36:26</definition>
+  </stem>
+  <stem name="Eshcol" sense="A">
+    <definition>the person in Gen 14</definition>
+  </stem>
+  <stem name="Esli" sense="A">
+    <definition>the person (Luke 3:25)</definition>
+  </stem>
+  <stem name="Esther" sense="A">
+    <definition>cousin of Mordecai, in the book of Esther</definition>
+  </stem>
+  <stem name="eunuch" sense="A">
+    <definition>a man whose testicles have been removed, often he takes care of the king</definition>
+  </stem>
+  <stem name="Euodia" sense="A">
+    <definition>person (Phil 4:2)</definition>
+  </stem>
+  <stem name="Euphrates" sense="A">
+    <definition>name of river in Gen. 2:14</definition>
+  </stem>
+  <stem name="Eve" sense="A">
+    <definition>wife of Adam</definition>
+  </stem>
+  <stem name="evening" sense="A">
+    <definition>time of day before night</definition>
+  </stem>
+  <stem name="event" sense="A">
+    <definition>as in "that event"</definition>
+  </stem>
+  <stem name="expression" sense="A">
+    <definition>a look on someone</definition>
+  </stem>
+  <stem name="eye" sense="A">
+    <definition>an eye</definition>
+  </stem>
+  <stem name="Ezbon" sense="A">
+    <definition>man in Gen. 46:16</definition>
+  </stem>
+  <stem name="Ezer" sense="A">
+    <definition>man in Gen. 36:21</definition>
+  </stem>
+  <stem name="face" sense="A">
+    <definition>the front part of a person</definition>
+  </stem>
+  <stem name="faith" sense="A">
+    <definition>the faith of a person</definition>
+  </stem>
+  <stem name="Falala" sense="A">
+    <definition>name of young girl, Kande</definition>
+  </stem>
+  <stem name="family" sense="A">
+    <definition>the immediate family, parents and children</definition>
+  </stem>
+  <stem name="family" sense="B">
+    <definition>the extended blood-related family</definition>
+  </stem>
+  <stem name="famine" sense="A">
+    <definition>a famine, not enough food available for people to eat</definition>
+  </stem>
+  <stem name="farm" sense="A">
+    <definition>a place where animals or crops are raised/grown</definition>
+  </stem>
+  <stem name="farmer" sense="A">
+    <definition>complex - a person who grows crops</definition>
+  </stem>
+  <stem name="father" sense="A">
+    <definition>male parent</definition>
+  </stem>
+  <stem name="Father" sense="A">
+    <definition>a title reserved soley for God the Father</definition>
+  </stem>
+  <stem name="father-in-law" sense="A">
+    <definition>father of your spouse</definition>
+  </stem>
+  <stem name="feast" sense="A">
+    <definition>a feast or festival</definition>
+  </stem>
+  <stem name="feather" sense="A">
+    <definition>the things that cover birds</definition>
+  </stem>
+  <stem name="fence" sense="A">
+    <definition>a wall like structure around an area, it keeps animals in or out of the area</definition>
+  </stem>
+  <stem name="fever" sense="A">
+    <definition>a fever</definition>
+  </stem>
+  <stem name="field" sense="A">
+    <definition>place where crops are grown</definition>
+  </stem>
+  <stem name="field" sense="B">
+    <definition>place where animals graze</definition>
+  </stem>
+  <stem name="fig" sense="A">
+    <definition>a fig</definition>
+  </stem>
+  <stem name="finger" sense="A">
+    <definition>a finger</definition>
+  </stem>
+  <stem name="fire" sense="A">
+    <definition>fire</definition>
+  </stem>
+  <stem name="fish" sense="A">
+    <definition>a fish</definition>
+  </stem>
+  <stem name="flood" sense="A">
+    <definition>a flood</definition>
+  </stem>
+  <stem name="floor" sense="A">
+    <definition>the floor</definition>
+  </stem>
+  <stem name="flour" sense="A">
+    <definition>used to make bread</definition>
+  </stem>
+  <stem name="flower" sense="A">
+    <definition>a flower</definition>
+  </stem>
+  <stem name="flute" sense="A">
+    <definition>the musical instrument</definition>
+  </stem>
+  <stem name="fly" sense="A">
+    <definition>the insect</definition>
+  </stem>
+  <stem name="food" sense="A">
+    <definition>that which is eaten by people</definition>
+  </stem>
+  <stem name="food" sense="B">
+    <definition>that which is eaten by animals</definition>
+  </stem>
+  <stem name="foot" sense="A">
+    <definition>the body part</definition>
+  </stem>
+  <stem name="forehead" sense="A">
+    <definition>the forehead</definition>
+  </stem>
+  <stem name="foreigner" sense="A">
+    <definition>complex - a person that came from a foreign country</definition>
+  </stem>
+  <stem name="foreskin" sense="A">
+    <definition>part of the male organ</definition>
+  </stem>
+  <stem name="fox" sense="A">
+    <definition>a fox</definition>
+  </stem>
+  <stem name="friend" sense="A">
+    <definition>a friend</definition>
+  </stem>
+  <stem name="frog" sense="A">
+    <definition>a frog</definition>
+  </stem>
+  <stem name="front" sense="A">
+    <definition>the front portion of something (the front of the boat)</definition>
+  </stem>
+  <stem name="fruit" sense="A">
+    <definition>fruit of a plant</definition>
+  </stem>
+  <stem name="furnace" sense="A">
+    <definition>a furnace for heating or cooking</definition>
+  </stem>
+  <stem name="future" sense="A">
+    <definition>time in the future</definition>
+  </stem>
+  <stem name="Gabriel" sense="A">
+    <definition>the angel</definition>
+  </stem>
+  <stem name="Gad" sense="A">
+    <definition>Jacob</definition>
+  </stem>
+  <stem name="Gaham" sense="A">
+    <definition>man in Gen 22</definition>
+  </stem>
+  <stem name="Galilee" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="garbage" sense="A">
+    <definition>garbage</definition>
+  </stem>
+  <stem name="garden" sense="A">
+    <definition>a beautiful place where flowers are grown</definition>
+  </stem>
+  <stem name="Gatam" sense="A">
+    <definition>man in Gen. 36:11</definition>
+  </stem>
+  <stem name="gate" sense="A">
+    <definition>a gate</definition>
+  </stem>
+  <stem name="Gaza" sense="A">
+    <definition>the city</definition>
+  </stem>
+  <stem name="gem" sense="A">
+    <definition>a valuable and beautiful stone</definition>
+  </stem>
+  <stem name="generation" sense="A">
+    <definition>a generation of a family</definition>
+  </stem>
+  <stem name="Gennesaret" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Gentile" sense="A">
+    <definition>a non-Jewish person</definition>
+  </stem>
+  <stem name="Gera" sense="A">
+    <definition>man in Gen. 46:21</definition>
+  </stem>
+  <stem name="Gerar" sense="A">
+    <definition>the city</definition>
+  </stem>
+  <stem name="Gerasa" sense="A">
+    <definition>place where Jesus healed the demon-possessed man (Mark 5)</definition>
+  </stem>
+  <stem name="germ" sense="A">
+    <definition>a living germ, such as a bacteria or virus</definition>
+  </stem>
+  <stem name="Gershon" sense="A">
+    <definition>Levi</definition>
+  </stem>
+  <stem name="Gershon" sense="B">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Gether" sense="A">
+    <definition>man in Gen 11</definition>
+  </stem>
+  <stem name="Gethsemane" sense="A">
+    <definition>the place where Jesus was betrayed</definition>
+  </stem>
+  <stem name="giant" sense="A">
+    <definition>very tall human</definition>
+  </stem>
+  <stem name="gift" sense="A">
+    <definition>a present</definition>
+  </stem>
+  <stem name="gift" sense="B">
+    <definition>gift of the Holy Spirit</definition>
+  </stem>
+  <stem name="Gihon" sense="A">
+    <definition>name of river in Gen. 2:13</definition>
+  </stem>
+  <stem name="Gilead" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Girgashite" sense="A">
+    <definition>a Girgashite person</definition>
+  </stem>
+  <stem name="girl" sense="A">
+    <definition>young woman</definition>
+  </stem>
+  <stem name="glory" sense="A">
+    <definition>the glory of God</definition>
+  </stem>
+  <stem name="glove" sense="A">
+    <definition>what we wear on our hands to protect them from dirt, germs, etc.</definition>
+  </stem>
+  <stem name="goat" sense="A">
+    <definition>a goat</definition>
+  </stem>
+  <stem name="God" sense="A">
+    <definition>God</definition>
+  </stem>
+  <stem name="God-Almighty" sense="A">
+    <definition>shaddai, a name for God</definition>
+  </stem>
+  <stem name="god" sense="A">
+    <definition>a false god; not God</definition>
+  </stem>
+  <stem name="God-Eternal" sense="A">
+    <definition>a name for God (see Gen 21)</definition>
+  </stem>
+  <stem name="God-Most-High" sense="A">
+    <definition>a name for God (Gen 14)</definition>
+  </stem>
+  <stem name="Goiim" sense="A">
+    <definition>place in Gen 14</definition>
+  </stem>
+  <stem name="gold" sense="A">
+    <definition>the substance gold</definition>
+  </stem>
+  <stem name="Golgatha" sense="A">
+    <definition>place where Jesus was crucified</definition>
+  </stem>
+  <stem name="Goliath" sense="A">
+    <definition>the Philistine warrior</definition>
+  </stem>
+  <stem name="Gomer" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="Gomorrah" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="good" sense="A">
+    <definition>generic word for thing or artifact that might be sold or used by people</definition>
+  </stem>
+  <stem name="Good-News" sense="A">
+    <definition>the gospel message</definition>
+  </stem>
+  <stem name="Goshen" sense="A">
+    <definition>the place in Egypt where the Israelites lived</definition>
+  </stem>
+  <stem name="government" sense="A">
+    <definition>the rulers of a place</definition>
+  </stem>
+  <stem name="governor" sense="A">
+    <definition>a governor</definition>
+  </stem>
+  <stem name="grain" sense="A">
+    <definition>grain</definition>
+  </stem>
+  <stem name="gram" sense="A">
+    <definition>unit of weight</definition>
+  </stem>
+  <stem name="grandchild" sense="A">
+    <definition>the children of someone</definition>
+  </stem>
+  <stem name="granddaughter" sense="A">
+    <definition>the kinship term</definition>
+  </stem>
+  <stem name="grandfather" sense="A">
+    <definition>the father of someone</definition>
+  </stem>
+  <stem name="grandson" sense="A">
+    <definition>the son of someone</definition>
+  </stem>
+  <stem name="grape" sense="A">
+    <definition>a grape</definition>
+  </stem>
+  <stem name="grass" sense="A">
+    <definition>grass that animals eat (not grass in a lawn)</definition>
+  </stem>
+  <stem name="grave" sense="A">
+    <definition>place where a body is buried</definition>
+  </stem>
+  <stem name="Greece" sense="A">
+    <definition>the country</definition>
+  </stem>
+  <stem name="ground" sense="A">
+    <definition>the ground</definition>
+  </stem>
+  <stem name="group" sense="A">
+    <definition>a group or set of something</definition>
+  </stem>
+  <stem name="guard" sense="A">
+    <definition>a guard</definition>
+  </stem>
+  <stem name="guest" sense="A">
+    <definition>a guest at a house or a party</definition>
+  </stem>
+  <stem name="Guni" sense="A">
+    <definition>man in Gen. 46:24</definition>
+  </stem>
+  <stem name="Hadad" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Hadassah" sense="A">
+    <definition>other name of Esther</definition>
+  </stem>
+  <stem name="Hadoram" sense="A">
+    <definition>man in Gen 11</definition>
+  </stem>
+  <stem name="Hagar" sense="A">
+    <definition>Sarai</definition>
+  </stem>
+  <stem name="Haggi" sense="A">
+    <definition>man in Gen. 46:16</definition>
+  </stem>
+  <stem name="hair" sense="A">
+    <definition>all the hair that is on a person</definition>
+  </stem>
+  <stem name="hair" sense="B">
+    <definition>an individual strand of hair  (Mary pulled a hair from John</definition>
+  </stem>
+  <stem name="Ham" sense="A">
+    <definition>son of Noah</definition>
+  </stem>
+  <stem name="Ham" sense="B">
+    <definition>the place in Gen 14</definition>
+  </stem>
+  <stem name="Haman" sense="A">
+    <definition>the official in Esther</definition>
+  </stem>
+  <stem name="Hamathite" sense="A">
+    <definition>a Hamathite person</definition>
+  </stem>
+  <stem name="Hammedatha" sense="A">
+    <definition>father of Mordecai in Esther</definition>
+  </stem>
+  <stem name="Hamor" sense="A">
+    <definition>the man in Gen 33</definition>
+  </stem>
+  <stem name="Hamul" sense="A">
+    <definition>man in Gen. 46:12</definition>
+  </stem>
+  <stem name="Hananiah" sense="A">
+    <definition>a friend of Daniel</definition>
+  </stem>
+  <stem name="hand" sense="A">
+    <definition>hand</definition>
+  </stem>
+  <stem name="Hanoch" sense="A">
+    <definition>Reuben</definition>
+  </stem>
+  <stem name="Haran" sense="A">
+    <definition>man in Gen. 11</definition>
+  </stem>
+  <stem name="Haran" sense="B">
+    <definition>the place in Gen. 11:31</definition>
+  </stem>
+  <stem name="Harbona" sense="A">
+    <definition>in Esther</definition>
+  </stem>
+  <stem name="harbor" sense="A">
+    <definition>a place where ships stay because the water is calm</definition>
+  </stem>
+  <stem name="harp" sense="A">
+    <definition>musical instrument</definition>
+  </stem>
+  <stem name="hat" sense="A">
+    <definition>a piece of clothing that is worn on one</definition>
+  </stem>
+  <stem name="Hathach" sense="A">
+    <definition>eunuch who served Esther</definition>
+  </stem>
+  <stem name="Havilah" sense="A">
+    <definition>name of river in Gen. 2:11</definition>
+  </stem>
+  <stem name="Havilah" sense="B">
+    <definition>man in Gen 10/11</definition>
+  </stem>
+  <stem name="Hazarmaveth" sense="A">
+    <definition>man in Gen 11</definition>
+  </stem>
+  <stem name="Hazazon-Tamar" sense="A">
+    <definition>place in Gen 14</definition>
+  </stem>
+  <stem name="Hazo" sense="A">
+    <definition>man in Gen 22</definition>
+  </stem>
+  <stem name="head" sense="A">
+    <definition>the head</definition>
+  </stem>
+  <stem name="heart" sense="A">
+    <definition>the seat of emotions</definition>
+  </stem>
+  <stem name="heart" sense="B">
+    <definition>the bodily organ, heart</definition>
+  </stem>
+  <stem name="heaven" sense="A">
+    <definition>heaven</definition>
+  </stem>
+  <stem name="Heber" sense="A">
+    <definition>man in Gen. 46:17</definition>
+  </stem>
+  <stem name="Hebrew" sense="A">
+    <definition>a name for the descendants of Israel</definition>
+  </stem>
+  <stem name="Hebron" sense="A">
+    <definition>Levi</definition>
+  </stem>
+  <stem name="Hebron" sense="B">
+    <definition>the place</definition>
+  </stem>
+  <stem name="heel" sense="A">
+    <definition>the curved back part of a foot</definition>
+  </stem>
+  <stem name="Hegai" sense="A">
+    <definition>King Xerxe</definition>
+  </stem>
+  <stem name="Heli" sense="A">
+    <definition>father of Joseph (Luke 3:23)</definition>
+  </stem>
+  <stem name="hell" sense="A">
+    <definition>hell, the place</definition>
+  </stem>
+  <stem name="helmet" sense="A">
+    <definition>something worn on the head for protection</definition>
+  </stem>
+  <stem name="helmet" sense="B">
+    <definition>a hard hat that protects one</definition>
+  </stem>
+  <stem name="Hemdan" sense="A">
+    <definition>man in Gen. 36:26</definition>
+  </stem>
+  <stem name="Herod" sense="A">
+    <definition>This name is used by three Herods; the first being Herod</definition>
+  </stem>
+  <stem name="Herodias" sense="A">
+    <definition>Herod</definition>
+  </stem>
+  <stem name="Heth" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="Hezron" sense="A">
+    <definition>Reuben</definition>
+  </stem>
+  <stem name="Hezron" sense="B">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Hierapolis" sense="A">
+    <definition>a city name, mentioned in Colossians 4</definition>
+  </stem>
+  <stem name="hill" sense="A">
+    <definition>a hill</definition>
+  </stem>
+  <stem name="hip" sense="A">
+    <definition>part of the body</definition>
+  </stem>
+  <stem name="Hirah" sense="A">
+    <definition>man in Gen. 38:1</definition>
+  </stem>
+  <stem name="Hittite" sense="A">
+    <definition>a Hittite person</definition>
+  </stem>
+  <stem name="HIV" sense="A">
+    <definition>the virus that causes AIDS</definition>
+  </stem>
+  <stem name="Hivite" sense="A">
+    <definition>a Hivite person</definition>
+  </stem>
+  <stem name="Hobah" sense="A">
+    <definition>the place in Gen 14</definition>
+  </stem>
+  <stem name="hole" sense="A">
+    <definition>a hole in the ground, a pit (John stepped in a hole.)</definition>
+  </stem>
+  <stem name="hole" sense="B">
+    <definition>a hole in something like a shirt or a wall (John</definition>
+  </stem>
+  <stem name="holiday" sense="A">
+    <definition>a day where you do not work, celebrating some occasion</definition>
+  </stem>
+  <stem name="Holy-Spirit" sense="A">
+    <definition>the Holy Spirit</definition>
+  </stem>
+  <stem name="Homam" sense="A">
+    <definition>man in Gen. 36:22</definition>
+  </stem>
+  <stem name="honey" sense="A">
+    <definition>honey</definition>
+  </stem>
+  <stem name="honor" sense="A">
+    <definition>the abstract thing, honor</definition>
+  </stem>
+  <stem name="hope" sense="A">
+    <definition>the abstract, hope</definition>
+  </stem>
+  <stem name="Hori" sense="A">
+    <definition>man in Gen. 36:22</definition>
+  </stem>
+  <stem name="Horite" sense="A">
+    <definition>a person of the Horites</definition>
+  </stem>
+  <stem name="horn" sense="A">
+    <definition>the bony growth on the heads of some animals used for fighting</definition>
+  </stem>
+  <stem name="horse" sense="A">
+    <definition>a horse</definition>
+  </stem>
+  <stem name="hour" sense="A">
+    <definition>an hour</definition>
+  </stem>
+  <stem name="house" sense="A">
+    <definition>place where someone lives</definition>
+  </stem>
+  <stem name="Hul" sense="A">
+    <definition>man in Gen 11</definition>
+  </stem>
+  <stem name="human" sense="A">
+    <definition>human being</definition>
+  </stem>
+  <stem name="Huppim" sense="A">
+    <definition>man in Gen. 46:21</definition>
+  </stem>
+  <stem name="husband" sense="A">
+    <definition>a husband</definition>
+  </stem>
+  <stem name="Husham" sense="A">
+    <definition>man in Gen. 36:34</definition>
+  </stem>
+  <stem name="Hushim" sense="A">
+    <definition>man in Gen. 46:23</definition>
+  </stem>
+  <stem name="hypocrite" sense="A">
+    <definition>a hypocrite</definition>
+  </stem>
+  <stem name="idea" sense="A">
+    <definition>a new or original thought that someone thinks of suddenly</definition>
+  </stem>
+  <stem name="idol" sense="A">
+    <definition>an image of a god</definition>
+  </stem>
+  <stem name="Imnah" sense="A">
+    <definition>man in Gen. 46:17</definition>
+  </stem>
+  <stem name="incense" sense="A">
+    <definition>substance burned to create a nice smell</definition>
+  </stem>
+  <stem name="India" sense="A">
+    <definition>the country, India</definition>
+  </stem>
+  <stem name="Iniko" sense="A">
+    <definition>name of young girl, Kande</definition>
+  </stem>
+  <stem name="injury" sense="A">
+    <definition>an injury, received accidentally</definition>
+  </stem>
+  <stem name="inn" sense="A">
+    <definition>a kind of motel</definition>
+  </stem>
+  <stem name="insect" sense="A">
+    <definition>a small generic creature like a fly or an ant</definition>
+  </stem>
+  <stem name="inside" sense="A">
+    <definition>the inside of something like a cup</definition>
+  </stem>
+  <stem name="instrument" sense="A">
+    <definition>a musical instrument</definition>
+  </stem>
+  <stem name="intestine" sense="A">
+    <definition>the body part</definition>
+  </stem>
+  <stem name="Irad" sense="A">
+    <definition>Enoch</definition>
+  </stem>
+  <stem name="Iram" sense="A">
+    <definition>man in Gen. 36:43</definition>
+  </stem>
+  <stem name="iron" sense="A">
+    <definition>the substance</definition>
+  </stem>
+  <stem name="Isaac" sense="A">
+    <definition>Isaac, Abraham</definition>
+  </stem>
+  <stem name="Isaiah" sense="A">
+    <definition>the prophet</definition>
+  </stem>
+  <stem name="Isak" sense="A">
+    <definition>man</definition>
+  </stem>
+  <stem name="Iscah" sense="A">
+    <definition>woman in Gen. 11</definition>
+  </stem>
+  <stem name="Ishbak" sense="A">
+    <definition>man in Gen 25</definition>
+  </stem>
+  <stem name="Ishmael" sense="A">
+    <definition>son of Abraham and Hagar</definition>
+  </stem>
+  <stem name="Ishvah" sense="A">
+    <definition>man in Gen. 46:17</definition>
+  </stem>
+  <stem name="Ishvi" sense="A">
+    <definition>man in Gen. 46:17</definition>
+  </stem>
+  <stem name="Israel" sense="A">
+    <definition>the nation (not the land) (e.g., Israel</definition>
+  </stem>
+  <stem name="Israel" sense="B">
+    <definition>the person, also named Jacob</definition>
+  </stem>
+  <stem name="Israelite" sense="A">
+    <definition>a person from Israel</definition>
+  </stem>
+  <stem name="Issachar" sense="A">
+    <definition>Jacob</definition>
+  </stem>
+  <stem name="Ithran" sense="A">
+    <definition>man in Gen. 36:26</definition>
+  </stem>
+  <stem name="Iturea" sense="A">
+    <definition>the place (Luke 3:1)</definition>
+  </stem>
+  <stem name="Jabal" sense="A">
+    <definition>man in Gen. 4:20</definition>
+  </stem>
+  <stem name="Jabbok" sense="A">
+    <definition>the river in Gen 32</definition>
+  </stem>
+  <stem name="Jacob" sense="A">
+    <definition>the person Jacob</definition>
+  </stem>
+  <stem name="Jahleel" sense="A">
+    <definition>man in Gen. 46:14</definition>
+  </stem>
+  <stem name="Jahziel" sense="A">
+    <definition>man in Gen. 46:24</definition>
+  </stem>
+  <stem name="Jair" sense="A">
+    <definition>father of Mordecai in Esther</definition>
+  </stem>
+  <stem name="Jairus" sense="A">
+    <definition>father of child that Jesus healed (Mark 5)</definition>
+  </stem>
+  <stem name="Jakin" sense="A">
+    <definition>Simeon</definition>
+  </stem>
+  <stem name="Jalam" sense="A">
+    <definition>man in Gen. 36:5</definition>
+  </stem>
+  <stem name="James" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Jamin" sense="A">
+    <definition>Simeon</definition>
+  </stem>
+  <stem name="Janet" sense="A">
+    <definition>a name of a person</definition>
+  </stem>
+  <stem name="Jannai" sense="A">
+    <definition>the person (Luke 3:24)</definition>
+  </stem>
+  <stem name="Japheth" sense="A">
+    <definition>Noah</definition>
+  </stem>
+  <stem name="jar" sense="A">
+    <definition>a jar</definition>
+  </stem>
+  <stem name="Jared" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Jashub" sense="A">
+    <definition>man in Gen. 46:13</definition>
+  </stem>
+  <stem name="Javan" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="Jebusite" sense="A">
+    <definition>a Jebusite person</definition>
+  </stem>
+  <stem name="Jehoiachin" sense="A">
+    <definition>king of Judah</definition>
+  </stem>
+  <stem name="Jehoiakim" sense="A">
+    <definition>king of Judah</definition>
+  </stem>
+  <stem name="Jemuel" sense="A">
+    <definition>Simeon</definition>
+  </stem>
+  <stem name="Jerah" sense="A">
+    <definition>man in Gen 11</definition>
+  </stem>
+  <stem name="Jeremiah" sense="A">
+    <definition>the prophet</definition>
+  </stem>
+  <stem name="Jericho" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Jerusalem" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Jesse" sense="A">
+    <definition>father of David</definition>
+  </stem>
+  <stem name="Jesus" sense="A">
+    <definition>Jesus, God</definition>
+  </stem>
+  <stem name="Jetheth" sense="A">
+    <definition>man in Gen. 36:40</definition>
+  </stem>
+  <stem name="Jetur" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Jeush" sense="A">
+    <definition>man in Gen. 36:5</definition>
+  </stem>
+  <stem name="Jew" sense="A">
+    <definition>a Jewish person</definition>
+  </stem>
+  <stem name="jewelry" sense="A">
+    <definition>jewelry</definition>
+  </stem>
+  <stem name="Jezer" sense="A">
+    <definition>man in Gen. 46:24</definition>
+  </stem>
+  <stem name="Jidlaph" sense="A">
+    <definition>man in Gen 22</definition>
+  </stem>
+  <stem name="Joanan" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Joanna" sense="A">
+    <definition>the woman (Luke 8:3)</definition>
+  </stem>
+  <stem name="job" sense="A">
+    <definition>the regular paid work that one does for an employer (John has a job.)</definition>
+  </stem>
+  <stem name="Jobab" sense="A">
+    <definition>man in Gen 11</definition>
+  </stem>
+  <stem name="Joda" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="John" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="joke" sense="A">
+    <definition>a short story that is intended to be funny</definition>
+  </stem>
+  <stem name="Jokshan" sense="A">
+    <definition>man in Gen 25</definition>
+  </stem>
+  <stem name="Joktan" sense="A">
+    <definition>man in Gen 11</definition>
+  </stem>
+  <stem name="Jonah" sense="A">
+    <definition>Jonah</definition>
+  </stem>
+  <stem name="Jonam" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Jordan" sense="A">
+    <definition>the Jordan river</definition>
+  </stem>
+  <stem name="Jorim" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Josech" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Joseph" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Joshua" sense="A">
+    <definition>Israelite leader after Moses</definition>
+  </stem>
+  <stem name="Jubal" sense="A">
+    <definition>man in Gen. 4:21</definition>
+  </stem>
+  <stem name="Judah" sense="A">
+    <definition>Jacob</definition>
+  </stem>
+  <stem name="Judah" sense="B">
+    <definition>the land/country of Judah</definition>
+  </stem>
+  <stem name="Judas" sense="A">
+    <definition>the disciple</definition>
+  </stem>
+  <stem name="Judas-Iscariot" sense="A">
+    <definition>another name for Judas, the disciple</definition>
+  </stem>
+  <stem name="Judea" sense="A">
+    <definition>the country</definition>
+  </stem>
+  <stem name="judge" sense="A">
+    <definition>a person who judges guilt or innocence</definition>
+  </stem>
+  <stem name="judge" sense="B">
+    <definition>an OT judge, or leader</definition>
+  </stem>
+  <stem name="Judith" sense="A">
+    <definition>the woman in Gen 26</definition>
+  </stem>
+  <stem name="Jumoke" sense="A">
+    <definition>name of young boy, Kande</definition>
+  </stem>
+  <stem name="June" sense="A">
+    <definition>the month</definition>
+  </stem>
+  <stem name="Justus" sense="A">
+    <definition>man</definition>
+  </stem>
+  <stem name="Kadesh" sense="A">
+    <definition>place in gen 14</definition>
+  </stem>
+  <stem name="Kadmonite" sense="A">
+    <definition>a person of the Kadmonite</definition>
+  </stem>
+  <stem name="Kande" sense="A">
+    <definition>name of a young girl</definition>
+  </stem>
+  <stem name="Kedar" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Kedemah" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Kedorlaomer" sense="A">
+    <definition>man in Gen 14</definition>
+  </stem>
+  <stem name="Kemuel" sense="A">
+    <definition>man in Gen 22</definition>
+  </stem>
+  <stem name="Kenan" sense="A">
+    <definition>the person (Gen. 5:9)</definition>
+  </stem>
+  <stem name="Kenaz" sense="A">
+    <definition>man in Gen. 36:11</definition>
+  </stem>
+  <stem name="Kenite" sense="A">
+    <definition>a person of the Kenites</definition>
+  </stem>
+  <stem name="Kenizzite" sense="A">
+    <definition>a person of the Kenizzites</definition>
+  </stem>
+  <stem name="Keran" sense="A">
+    <definition>man in Gen. 36:26</definition>
+  </stem>
+  <stem name="Kesed" sense="A">
+    <definition>man in Gen 22</definition>
+  </stem>
+  <stem name="Keturah" sense="A">
+    <definition>woman in Gen 25</definition>
+  </stem>
+  <stem name="key" sense="A">
+    <definition>something that unlocks a door</definition>
+  </stem>
+  <stem name="Kezib" sense="A">
+    <definition>town in Gen. 38:5</definition>
+  </stem>
+  <stem name="Kilion" sense="A">
+    <definition>son of Naomi</definition>
+  </stem>
+  <stem name="kilogram" sense="A">
+    <definition>the unit of weight</definition>
+  </stem>
+  <stem name="kilometer" sense="A">
+    <definition>the unit of distance</definition>
+  </stem>
+  <stem name="kind-of" sense="A">
+    <definition>a type of something (What kind of animal is that?)</definition>
+  </stem>
+  <stem name="king" sense="A">
+    <definition>ruler of a people</definition>
+  </stem>
+  <stem name="kingdom" sense="A">
+    <definition>a kingdom</definition>
+  </stem>
+  <stem name="Kiriath-Arba" sense="A">
+    <definition>place in Gen 23</definition>
+  </stem>
+  <stem name="Kish" sense="A">
+    <definition>great grandfather of Mordecai in Esther</definition>
+  </stem>
+  <stem name="Kittim" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="knee" sense="A">
+    <definition>the knee of a person</definition>
+  </stem>
+  <stem name="knife" sense="A">
+    <definition>sharp instrument for cutting</definition>
+  </stem>
+  <stem name="knowledge" sense="A">
+    <definition>information, skills, and understanding</definition>
+  </stem>
+  <stem name="Kohath" sense="A">
+    <definition>Levi</definition>
+  </stem>
+  <stem name="Korah" sense="A">
+    <definition>Moses</definition>
+  </stem>
+  <stem name="Korazin" sense="A">
+    <definition>city (Matt 11:21)</definition>
+  </stem>
+  <stem name="Laban" sense="A">
+    <definition>the man in Gen 24</definition>
+  </stem>
+  <stem name="ladder" sense="A">
+    <definition>instrument used to climb to a higher position</definition>
+  </stem>
+  <stem name="lake" sense="A">
+    <definition>a lake</definition>
+  </stem>
+  <stem name="lake-Galilee" sense="A">
+    <definition>the lake</definition>
+  </stem>
+  <stem name="lamb" sense="A">
+    <definition>a baby sheep</definition>
+  </stem>
+  <stem name="Lamech" sense="A">
+    <definition>father of Noah</definition>
+  </stem>
+  <stem name="lamp" sense="A">
+    <definition>something that provides light</definition>
+  </stem>
+  <stem name="land" sense="A">
+    <definition>generic term for an area (land of Canaan)</definition>
+  </stem>
+  <stem name="land" sense="B">
+    <definition>the ground</definition>
+  </stem>
+  <stem name="language" sense="A">
+    <definition>the spoken or written means of communication of a people</definition>
+  </stem>
+  <stem name="Laodicea" sense="A">
+    <definition>a city name, mentioned in Colossians 2:1</definition>
+  </stem>
+  <stem name="Lasha" sense="A">
+    <definition>the city</definition>
+  </stem>
+  <stem name="law" sense="A">
+    <definition>a law</definition>
+  </stem>
+  <stem name="lawyer" sense="A">
+    <definition>people who are experts in the law</definition>
+  </stem>
+  <stem name="Lazarus" sense="A">
+    <definition>the man in Luke 16:20</definition>
+  </stem>
+  <stem name="leader" sense="A">
+    <definition>spiritual or political leader of a people</definition>
+  </stem>
+  <stem name="leaf" sense="A">
+    <definition>a leaf of a tree</definition>
+  </stem>
+  <stem name="Leah" sense="A">
+    <definition>Jacob</definition>
+  </stem>
+  <stem name="Lebanon" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="leg" sense="A">
+    <definition>the leg</definition>
+  </stem>
+  <stem name="Legion" sense="A">
+    <definition>the name of the evil spirit, meaning "many"</definition>
+  </stem>
+  <stem name="Lehabim" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="leopard" sense="A">
+    <definition>the animal</definition>
+  </stem>
+  <stem name="leprosy" sense="A">
+    <definition>the skin disease</definition>
+  </stem>
+  <stem name="lesson" sense="A">
+    <definition>something that provides information or experience that one can learn from and use (John</definition>
+  </stem>
+  <stem name="letter" sense="A">
+    <definition>a written message that is sent to someone</definition>
+  </stem>
+  <stem name="letter" sense="B">
+    <definition>a character in an alphabet</definition>
+  </stem>
+  <stem name="Letush" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Leum" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Levi" sense="A">
+    <definition>Jacob</definition>
+  </stem>
+  <stem name="Libya" sense="A">
+    <definition>the country</definition>
+  </stem>
+  <stem name="life" sense="A">
+    <definition>abstract term referring to the state of having life</definition>
+  </stem>
+  <stem name="life" sense="B">
+    <definition>a particular person</definition>
+  </stem>
+  <stem name="ligament" sense="A">
+    <definition>the strong tissue in our bodies that joins bones together</definition>
+  </stem>
+  <stem name="light" sense="A">
+    <definition>the opposite of darkness</definition>
+  </stem>
+  <stem name="light" sense="B">
+    <definition>a lamp that gives light</definition>
+  </stem>
+  <stem name="light" sense="C">
+    <definition>a light source, like the sun or moon.  Not a lamp.</definition>
+  </stem>
+  <stem name="lightning" sense="A">
+    <definition>flash of light during storm</definition>
+  </stem>
+  <stem name="lion" sense="A">
+    <definition>a lion</definition>
+  </stem>
+  <stem name="liter" sense="A">
+    <definition>a unit of measure, about a quart</definition>
+  </stem>
+  <stem name="livestock" sense="A">
+    <definition>farm animals</definition>
+  </stem>
+  <stem name="load" sense="A">
+    <definition>a load of something that has to be carried, a burden</definition>
+  </stem>
+  <stem name="loaf" sense="A">
+    <definition>a loaf of bread</definition>
+  </stem>
+  <stem name="locust" sense="A">
+    <definition>the insect</definition>
+  </stem>
+  <stem name="Lord" sense="A">
+    <definition>the LORD, God</definition>
+  </stem>
+  <stem name="Lord" sense="B">
+    <definition>alternate name for Jesus</definition>
+  </stem>
+  <stem name="lot" sense="A">
+    <definition>bones or sticks used like dice to decide things</definition>
+  </stem>
+  <stem name="Lot" sense="A">
+    <definition>man in Genesis</definition>
+  </stem>
+  <stem name="Lotan" sense="A">
+    <definition>man in Gen. 36:20</definition>
+  </stem>
+  <stem name="Lud" sense="A">
+    <definition>man in Gen 11</definition>
+  </stem>
+  <stem name="Ludim" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="Luke" sense="A">
+    <definition>the writer of the 3rd gospel</definition>
+  </stem>
+  <stem name="Luz" sense="A">
+    <definition>city in Gen 28</definition>
+  </stem>
+  <stem name="Lysanias" sense="A">
+    <definition>the person (Luke 3:1)</definition>
+  </stem>
+  <stem name="Maacah" sense="A">
+    <definition>man in Gen 22</definition>
+  </stem>
+  <stem name="Maath" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Macedonia" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="machine" sense="A">
+    <definition>a mechanical device that does work (e.g., sewing machine)</definition>
+  </stem>
+  <stem name="Machpelah" sense="A">
+    <definition>name of the field in Gen 23</definition>
+  </stem>
+  <stem name="Madai" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="Magdalene" sense="A">
+    <definition>Mary Magdalene</definition>
+  </stem>
+  <stem name="Magdiel" sense="A">
+    <definition>man in Gen. 36:43</definition>
+  </stem>
+  <stem name="magician" sense="A">
+    <definition>someone who does magic</definition>
+  </stem>
+  <stem name="Magog" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="Mahalalel" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Mahalath" sense="A">
+    <definition>the woman in Gen 28</definition>
+  </stem>
+  <stem name="Mahanaim" sense="A">
+    <definition>place in Gen 32</definition>
+  </stem>
+  <stem name="Mahlon" sense="A">
+    <definition>son of Naomi</definition>
+  </stem>
+  <stem name="Makir" sense="A">
+    <definition>Joseph</definition>
+  </stem>
+  <stem name="Malkiel" sense="A">
+    <definition>man in Gen. 46:17</definition>
+  </stem>
+  <stem name="Mamre" sense="A">
+    <definition>person in Gen 13</definition>
+  </stem>
+  <stem name="Mamre" sense="B">
+    <definition>place in Genesis 18</definition>
+  </stem>
+  <stem name="man" sense="A">
+    <definition>male human</definition>
+  </stem>
+  <stem name="man" sense="B">
+    <definition>emphasizes grown man, not a boy</definition>
+  </stem>
+  <stem name="Manahath" sense="A">
+    <definition>man in Gen. 36:23</definition>
+  </stem>
+  <stem name="Manasseh" sense="A">
+    <definition>son of Hezekiah, descendant of David</definition>
+  </stem>
+  <stem name="mandrake" sense="A">
+    <definition>a plant</definition>
+  </stem>
+  <stem name="manger" sense="A">
+    <definition>comlex - feeding trough for animals</definition>
+  </stem>
+  <stem name="manure" sense="A">
+    <definition>solid waste material from animals</definition>
+  </stem>
+  <stem name="Mara" sense="A">
+    <definition>Mara, the name Naomi wanted to be called in Ruth</definition>
+  </stem>
+  <stem name="marble" sense="A">
+    <definition>a type of expensive stone often used in building</definition>
+  </stem>
+  <stem name="March" sense="A">
+    <definition>the month</definition>
+  </stem>
+  <stem name="mark" sense="A">
+    <definition>a mark on something</definition>
+  </stem>
+  <stem name="Mark" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="market" sense="A">
+    <definition>the marketplace</definition>
+  </stem>
+  <stem name="marriage" sense="A">
+    <definition>the relationship between two people who are married</definition>
+  </stem>
+  <stem name="Marsena" sense="A">
+    <definition>in Esther</definition>
+  </stem>
+  <stem name="Martha" sense="A">
+    <definition>the person (Luke 10:38)</definition>
+  </stem>
+  <stem name="Mary" sense="A">
+    <definition>a woman</definition>
+  </stem>
+  <stem name="Masrekah" sense="A">
+    <definition>city in Gen. 36:36</definition>
+  </stem>
+  <stem name="Massa" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Massah" sense="A">
+    <definition>place (Ex 17:7)</definition>
+  </stem>
+  <stem name="master" sense="A">
+    <definition>the owner or boss of a slave</definition>
+  </stem>
+  <stem name="master" sense="B">
+    <definition>teacher, title used by disciples for Jesus</definition>
+  </stem>
+  <stem name="mat" sense="A">
+    <definition>a mat that a person sits on or sleeps on</definition>
+  </stem>
+  <stem name="Matred" sense="A">
+    <definition>woman in Gen. 36:39</definition>
+  </stem>
+  <stem name="Mattatha" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Mattathias" sense="A">
+    <definition>the person (Luke 3:25)</definition>
+  </stem>
+  <stem name="Matthat" sense="A">
+    <definition>the person (Luke 3:24)</definition>
+  </stem>
+  <stem name="Matthew" sense="A">
+    <definition>the disciple</definition>
+  </stem>
+  <stem name="Matthias" sense="A">
+    <definition>man</definition>
+  </stem>
+  <stem name="Me-Zahab" sense="A">
+    <definition>man in Gen. 36:39</definition>
+  </stem>
+  <stem name="meal" sense="A">
+    <definition>a meal</definition>
+  </stem>
+  <stem name="meaning" sense="A">
+    <definition>the meaning of a word, dream, message, etc.</definition>
+  </stem>
+  <stem name="meat" sense="A">
+    <definition>meat to eat</definition>
+  </stem>
+  <stem name="Medan" sense="A">
+    <definition>man in Gen 25</definition>
+  </stem>
+  <stem name="Media" sense="A">
+    <definition>Esther 10:2</definition>
+  </stem>
+  <stem name="medicine" sense="A">
+    <definition>substance meant to help cure an injury or disease</definition>
+  </stem>
+  <stem name="meeting" sense="A">
+    <definition>an assembly of people</definition>
+  </stem>
+  <stem name="Mehetabel" sense="A">
+    <definition>woman in Gen. 36:39</definition>
+  </stem>
+  <stem name="Mehujael" sense="A">
+    <definition>man in Gen. 4:18</definition>
+  </stem>
+  <stem name="Mehuman" sense="A">
+    <definition>in Esther</definition>
+  </stem>
+  <stem name="Melchi" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Melchizedek" sense="A">
+    <definition>the person in Gen 14</definition>
+  </stem>
+  <stem name="Melea" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Melissa" sense="A">
+    <definition>name</definition>
+  </stem>
+  <stem name="Memucan" sense="A">
+    <definition>in Esther</definition>
+  </stem>
+  <stem name="Mene" sense="A">
+    <definition>a transliteration of a word written on the wall for King Belshazzar in Daniel.  THIS SHOULD BE A VERB.</definition>
+  </stem>
+  <stem name="Menna" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Merari" sense="A">
+    <definition>Levi</definition>
+  </stem>
+  <stem name="merchant" sense="A">
+    <definition>complex - someone who sells something</definition>
+  </stem>
+  <stem name="Meres" sense="A">
+    <definition>in Esther</definition>
+  </stem>
+  <stem name="Mesha" sense="A">
+    <definition>the city</definition>
+  </stem>
+  <stem name="Meshach" sense="A">
+    <definition>Mishael</definition>
+  </stem>
+  <stem name="Meshech" sense="A">
+    <definition>man in Gen 11</definition>
+  </stem>
+  <stem name="Mesopotamia" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="message" sense="A">
+    <definition>complex - an indirect written or oral communication for someone</definition>
+  </stem>
+  <stem name="messenger" sense="A">
+    <definition>a person who carries and delivers written messages</definition>
+  </stem>
+  <stem name="Messiah" sense="A">
+    <definition>the Messiah</definition>
+  </stem>
+  <stem name="metal" sense="A">
+    <definition>the substance, metal</definition>
+  </stem>
+  <stem name="meter" sense="A">
+    <definition>unit of length, a little longer than 3 feet</definition>
+  </stem>
+  <stem name="Methuselah" sense="A">
+    <definition>oldest man that ever lived</definition>
+  </stem>
+  <stem name="Methushael" sense="A">
+    <definition>man in Gen. 4:18</definition>
+  </stem>
+  <stem name="Mibsam" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Mibzar" sense="A">
+    <definition>man in Gen. 36:42</definition>
+  </stem>
+  <stem name="Michael" sense="A">
+    <definition>one of the archangels</definition>
+  </stem>
+  <stem name="middle" sense="A">
+    <definition>the middle point of an area (the middle of the sea)</definition>
+  </stem>
+  <stem name="middle" sense="B">
+    <definition>the middle point between two places</definition>
+  </stem>
+  <stem name="Midian" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Midian" sense="B">
+    <definition>man in Gen 25</definition>
+  </stem>
+  <stem name="Midianite" sense="A">
+    <definition>people in Gen. 36:35</definition>
+  </stem>
+  <stem name="midnight" sense="A">
+    <definition>the time midnight</definition>
+  </stem>
+  <stem name="Migdal-Eder" sense="A">
+    <definition>place in Gen. 35:21</definition>
+  </stem>
+  <stem name="Milcah" sense="A">
+    <definition>woman in Gen 11</definition>
+  </stem>
+  <stem name="milk" sense="A">
+    <definition>the liquid that comes from a cow and people drink</definition>
+  </stem>
+  <stem name="mind" sense="A">
+    <definition>the mind</definition>
+  </stem>
+  <stem name="miracle" sense="A">
+    <definition>a miraculous act</definition>
+  </stem>
+  <stem name="Mishael" sense="A">
+    <definition>a friend of Daniel</definition>
+  </stem>
+  <stem name="Mishma" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Mizpah" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Mizraim" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="Mizzah" sense="A">
+    <definition>man in Gen. 36:13</definition>
+  </stem>
+  <stem name="Moab" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Moabite" sense="A">
+    <definition>a person of the moabites</definition>
+  </stem>
+  <stem name="money" sense="A">
+    <definition>money</definition>
+  </stem>
+  <stem name="month" sense="A">
+    <definition>a calendar month</definition>
+  </stem>
+  <stem name="moon" sense="A">
+    <definition>the moon</definition>
+  </stem>
+  <stem name="Mordecai" sense="A">
+    <definition>cousin of Esther</definition>
+  </stem>
+  <stem name="Moreh" sense="A">
+    <definition>Place in Gen 12</definition>
+  </stem>
+  <stem name="Moriah" sense="A">
+    <definition>the mountain in Gen 22</definition>
+  </stem>
+  <stem name="morning" sense="A">
+    <definition>the morning</definition>
+  </stem>
+  <stem name="mortar" sense="A">
+    <definition>cement for bricks</definition>
+  </stem>
+  <stem name="Moses" sense="A">
+    <definition>the person Moses</definition>
+  </stem>
+  <stem name="moth" sense="A">
+    <definition>the insect</definition>
+  </stem>
+  <stem name="mother" sense="A">
+    <definition>mother of a child</definition>
+  </stem>
+  <stem name="mother-in-law" sense="A">
+    <definition>a mother-in-law</definition>
+  </stem>
+  <stem name="mount-Olives" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="mount-Sinai" sense="A">
+    <definition>a mountain named Sinai</definition>
+  </stem>
+  <stem name="mount-Zion" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="mountain" sense="A">
+    <definition>a mountain</definition>
+  </stem>
+  <stem name="mouth" sense="A">
+    <definition>the mouth of a human or animal</definition>
+  </stem>
+  <stem name="Muppim" sense="A">
+    <definition>man in Gen. 46:21</definition>
+  </stem>
+  <stem name="muscle" sense="A">
+    <definition>muscle in an animal</definition>
+  </stem>
+  <stem name="music" sense="A">
+    <definition>music</definition>
+  </stem>
+  <stem name="myrrh" sense="A">
+    <definition>the substance myrrh</definition>
+  </stem>
+  <stem name="mystery" sense="A">
+    <definition>something unknown, something impossible to understand</definition>
+  </stem>
+  <stem name="Naamah" sense="A">
+    <definition>woman in Gen. 4:22</definition>
+  </stem>
+  <stem name="Naaman" sense="A">
+    <definition>the person (Luke 4:27)</definition>
+  </stem>
+  <stem name="Naggai" sense="A">
+    <definition>the person (Luke 3:25)</definition>
+  </stem>
+  <stem name="Nahath" sense="A">
+    <definition>man in Gen. 36:13</definition>
+  </stem>
+  <stem name="Nahor" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Nahshon" sense="A">
+    <definition>relative of Aaron</definition>
+  </stem>
+  <stem name="Nahum" sense="A">
+    <definition>the prophet in the book of Nahum</definition>
+  </stem>
+  <stem name="nail" sense="A">
+    <definition>the hard plate at the ends of fingers and toes</definition>
+  </stem>
+  <stem name="nail" sense="B">
+    <definition>used to attach 2 pieces of wood</definition>
+  </stem>
+  <stem name="Nain" sense="A">
+    <definition>the town where Jesus raised the widow</definition>
+  </stem>
+  <stem name="name" sense="A">
+    <definition>what a person is called</definition>
+  </stem>
+  <stem name="Nano" sense="A">
+    <definition>man</definition>
+  </stem>
+  <stem name="Naomi" sense="A">
+    <definition>mother of Ruth</definition>
+  </stem>
+  <stem name="Naphish" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Naphtali" sense="A">
+    <definition>Jacob</definition>
+  </stem>
+  <stem name="Naphtuhim" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="Nathan" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="nation" sense="A">
+    <definition>the political unit, a nation</definition>
+  </stem>
+  <stem name="Nazareth" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Nebaioth" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Nebuchadnezzar" sense="A">
+    <definition>king of Babylon</definition>
+  </stem>
+  <stem name="neck" sense="A">
+    <definition>the neck</definition>
+  </stem>
+  <stem name="necklace" sense="A">
+    <definition>jewelry worn around the neck</definition>
+  </stem>
+  <stem name="needle" sense="A">
+    <definition>a needle used for sewing</definition>
+  </stem>
+  <stem name="Negev" sense="A">
+    <definition>a desert area in southern Canaan</definition>
+  </stem>
+  <stem name="neighbor" sense="A">
+    <definition>complex - a person who lives near someone</definition>
+  </stem>
+  <stem name="nephew" sense="A">
+    <definition>son of your brother</definition>
+  </stem>
+  <stem name="Nephilim" sense="A">
+    <definition>giants, from Gen 6</definition>
+  </stem>
+  <stem name="Neri" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="nerve" sense="A">
+    <definition>the body part that carries messages between the brain and other body parts</definition>
+  </stem>
+  <stem name="nest" sense="A">
+    <definition>a bird</definition>
+  </stem>
+  <stem name="net" sense="A">
+    <definition>a net for catching fish</definition>
+  </stem>
+  <stem name="Netty" sense="A">
+    <definition>a name of a person</definition>
+  </stem>
+  <stem name="news" sense="A">
+    <definition>news about someone or something</definition>
+  </stem>
+  <stem name="night" sense="A">
+    <definition>the time after dark</definition>
+  </stem>
+  <stem name="Nile" sense="A">
+    <definition>the name of the river</definition>
+  </stem>
+  <stem name="Nimrod" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="Nina" sense="A">
+    <definition>name of a girl in Avian Influenza</definition>
+  </stem>
+  <stem name="Nineveh" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Noah" sense="A">
+    <definition>the person God saved from the flood</definition>
+  </stem>
+  <stem name="Nod" sense="A">
+    <definition>area where Cain lived in Gen. 4:16</definition>
+  </stem>
+  <stem name="noon" sense="A">
+    <definition>time at 12:00 noon</definition>
+  </stem>
+  <stem name="north" sense="A">
+    <definition>the compass direction</definition>
+  </stem>
+  <stem name="nose" sense="A">
+    <definition>part of the face, both for people and animals</definition>
+  </stem>
+  <stem name="November" sense="A">
+    <definition>the 11th month of the year</definition>
+  </stem>
+  <stem name="number" sense="A">
+    <definition>the number of something (the number of Israelites is high)</definition>
+  </stem>
+  <stem name="Nun" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="nurse" sense="A">
+    <definition>person who assists someone medically</definition>
+  </stem>
+  <stem name="Nympha" sense="A">
+    <definition>a woman</definition>
+  </stem>
+  <stem name="Obal" sense="A">
+    <definition>man in Gen 11</definition>
+  </stem>
+  <stem name="Obed" sense="A">
+    <definition>son of Boaz and Ruth</definition>
+  </stem>
+  <stem name="ocean" sense="A">
+    <definition>large masses of salt water that cover most of the earth</definition>
+  </stem>
+  <stem name="offering" sense="A">
+    <definition>an offering or sacrifice to God</definition>
+  </stem>
+  <stem name="offering-drink" sense="A">
+    <definition>a drink offering (Gen. 35:14)</definition>
+  </stem>
+  <stem name="office" sense="A">
+    <definition>place of business</definition>
+  </stem>
+  <stem name="officer" sense="A">
+    <definition>military leader</definition>
+  </stem>
+  <stem name="official" sense="A">
+    <definition>a governement official</definition>
+  </stem>
+  <stem name="Ohad" sense="A">
+    <definition>Simeon</definition>
+  </stem>
+  <stem name="Oholibamah" sense="A">
+    <definition>woman in Gen. 36:2</definition>
+  </stem>
+  <stem name="oil" sense="A">
+    <definition>oil, used on the skin</definition>
+  </stem>
+  <stem name="oil" sense="B">
+    <definition>oil, used in cooking</definition>
+  </stem>
+  <stem name="oil-olive" sense="A">
+    <definition>oil that comes from olives (John poured the olive oil on the stone.)</definition>
+  </stem>
+  <stem name="olive" sense="A">
+    <definition>the fruit</definition>
+  </stem>
+  <stem name="olive" sense="B">
+    <definition>DELETE</definition>
+  </stem>
+  <stem name="Omar" sense="A">
+    <definition>man in Gen. 36:11</definition>
+  </stem>
+  <stem name="On" sense="A">
+    <definition>an Egyptian god in Gen. 41:45</definition>
+  </stem>
+  <stem name="Onam" sense="A">
+    <definition>man in Gen. 36:23</definition>
+  </stem>
+  <stem name="Onan" sense="A">
+    <definition>boy in Gen. 38:4</definition>
+  </stem>
+  <stem name="Onesimus" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Ophir" sense="A">
+    <definition>man in Gen 11</definition>
+  </stem>
+  <stem name="opinion" sense="A">
+    <definition>one</definition>
+  </stem>
+  <stem name="opponent" sense="A">
+    <definition>someone who you try to defeat in a competition, game, fight, or argument</definition>
+  </stem>
+  <stem name="organization" sense="A">
+    <definition>an officially recognized work group</definition>
+  </stem>
+  <stem name="Orpah" sense="A">
+    <definition>the wife of Naomi</definition>
+  </stem>
+  <stem name="outside" sense="A">
+    <definition>the outside of something like a cup</definition>
+  </stem>
+  <stem name="oven" sense="A">
+    <definition>place where you bake</definition>
+  </stem>
+  <stem name="ox" sense="A">
+    <definition>an animal like a cow</definition>
+  </stem>
+  <stem name="pain" sense="A">
+    <definition>the abstract thing, pain</definition>
+  </stem>
+  <stem name="palace" sense="A">
+    <definition>the place where the king lives</definition>
+  </stem>
+  <stem name="Pallu" sense="A">
+    <definition>Reuben</definition>
+  </stem>
+  <stem name="parable" sense="A">
+    <definition>a story that teaches</definition>
+  </stem>
+  <stem name="Paran" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="parent" sense="A">
+    <definition>a parent of a child</definition>
+  </stem>
+  <stem name="Parmashta" sense="A">
+    <definition>Esther 9:7-9</definition>
+  </stem>
+  <stem name="Parshandatha" sense="A">
+    <definition>Esther 9:7-9</definition>
+  </stem>
+  <stem name="part" sense="A">
+    <definition>a part of something</definition>
+  </stem>
+  <stem name="party" sense="A">
+    <definition>a fun event usually celebrating something like a birthday</definition>
+  </stem>
+  <stem name="Passover" sense="A">
+    <definition>the Passover</definition>
+  </stem>
+  <stem name="pastor" sense="A">
+    <definition>leader of a church</definition>
+  </stem>
+  <stem name="path" sense="A">
+    <definition>a path to walk or drive on</definition>
+  </stem>
+  <stem name="Pathrusim" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="Pau" sense="A">
+    <definition>city in Gen. 36:39</definition>
+  </stem>
+  <stem name="Paul" sense="A">
+    <definition>the apostle</definition>
+  </stem>
+  <stem name="Paulus" sense="A">
+    <definition>name of a man in Avian Influenza</definition>
+  </stem>
+  <stem name="peace" sense="A">
+    <definition>the abstract quality of peace</definition>
+  </stem>
+  <stem name="Peleg" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="pen" sense="A">
+    <definition>the writing tool</definition>
+  </stem>
+  <stem name="pen" sense="B">
+    <definition>an enclosure for animals</definition>
+  </stem>
+  <stem name="Peniel" sense="A">
+    <definition>the place in Gen 32</definition>
+  </stem>
+  <stem name="penny" sense="A">
+    <definition>a penny, smallest unit of money</definition>
+  </stem>
+  <stem name="Peres" sense="A">
+    <definition>a transliteration of a word written on the wall for king Belshazzar in Daniel.  THIS SHOULD BE A VERB.</definition>
+  </stem>
+  <stem name="Perez" sense="A">
+    <definition>son of Judah</definition>
+  </stem>
+  <stem name="perfume" sense="A">
+    <definition>complex - oil that smells good</definition>
+  </stem>
+  <stem name="Perizzite" sense="A">
+    <definition>a Perizzite person</definition>
+  </stem>
+  <stem name="Persia" sense="A">
+    <definition>Esther 10:2</definition>
+  </stem>
+  <stem name="person" sense="A">
+    <definition>a human being</definition>
+  </stem>
+  <stem name="Peter" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Phanuel" sense="A">
+    <definition>father of Anna, the prophetess (Luke 2:36)</definition>
+  </stem>
+  <stem name="Pharisee" sense="A">
+    <definition>a Pharisee</definition>
+  </stem>
+  <stem name="Phicol" sense="A">
+    <definition>the man in Gen 21</definition>
+  </stem>
+  <stem name="Philip" sense="A">
+    <definition>the disciple</definition>
+  </stem>
+  <stem name="Philippi" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Philistia" sense="A">
+    <definition>the country of the Philistine people</definition>
+  </stem>
+  <stem name="Philistine" sense="A">
+    <definition>a person from the Philistine people</definition>
+  </stem>
+  <stem name="picture" sense="A">
+    <definition>a drawing or image of something</definition>
+  </stem>
+  <stem name="pidgeon" sense="A">
+    <definition>a type of bird</definition>
+  </stem>
+  <stem name="piece" sense="A">
+    <definition>a small bit of something</definition>
+  </stem>
+  <stem name="pig" sense="A">
+    <definition>a pig</definition>
+  </stem>
+  <stem name="Pilate" sense="A">
+    <definition>the Roman governor</definition>
+  </stem>
+  <stem name="Pildash" sense="A">
+    <definition>man in Gen 22</definition>
+  </stem>
+  <stem name="pile" sense="A">
+    <definition>a large heap</definition>
+  </stem>
+  <stem name="pillar" sense="A">
+    <definition>a pillar</definition>
+  </stem>
+  <stem name="Pinon" sense="A">
+    <definition>man in Gen. 36:41</definition>
+  </stem>
+  <stem name="Pishon" sense="A">
+    <definition>river in Gen. 2:11</definition>
+  </stem>
+  <stem name="pistachio" sense="A">
+    <definition>a type of nut</definition>
+  </stem>
+  <stem name="pit" sense="A">
+    <definition>a hole</definition>
+  </stem>
+  <stem name="pitcher" sense="A">
+    <definition>a container to hold a drink</definition>
+  </stem>
+  <stem name="place" sense="A">
+    <definition>generic word for a location</definition>
+  </stem>
+  <stem name="plain" sense="A">
+    <definition>a large area of dry, flat land</definition>
+  </stem>
+  <stem name="plan" sense="A">
+    <definition>a plan</definition>
+  </stem>
+  <stem name="plant" sense="A">
+    <definition>a plant</definition>
+  </stem>
+  <stem name="plastic" sense="A">
+    <definition>the material (e.g., plastic bag)</definition>
+  </stem>
+  <stem name="plate" sense="A">
+    <definition>something used to put food on</definition>
+  </stem>
+  <stem name="pond" sense="A">
+    <definition>a pond of water</definition>
+  </stem>
+  <stem name="Poratha" sense="A">
+    <definition>Esther 9:7-9</definition>
+  </stem>
+  <stem name="pot" sense="A">
+    <definition>something used to cook with</definition>
+  </stem>
+  <stem name="Potiphar" sense="A">
+    <definition>man in Gen. 37:36</definition>
+  </stem>
+  <stem name="Potiphera" sense="A">
+    <definition>man in Gen. 41:45</definition>
+  </stem>
+  <stem name="power" sense="A">
+    <definition>military strength</definition>
+  </stem>
+  <stem name="power" sense="B">
+    <definition>power, ability to defeat enemies</definition>
+  </stem>
+  <stem name="prayer" sense="A">
+    <definition>the thing that is prayed</definition>
+  </stem>
+  <stem name="price" sense="A">
+    <definition>the amount that needs to be paid to buy an item</definition>
+  </stem>
+  <stem name="priest" sense="A">
+    <definition>priest of God</definition>
+  </stem>
+  <stem name="prince" sense="A">
+    <definition>son of a king</definition>
+  </stem>
+  <stem name="Prince-of-princes" sense="A">
+    <definition>title for Jesus Christ in Daniel 8:25</definition>
+  </stem>
+  <stem name="princess" sense="A">
+    <definition>daughter of king</definition>
+  </stem>
+  <stem name="prison" sense="A">
+    <definition>a prison</definition>
+  </stem>
+  <stem name="prisoner" sense="A">
+    <definition>someone in jail or held captive</definition>
+  </stem>
+  <stem name="prize" sense="A">
+    <definition>a prize</definition>
+  </stem>
+  <stem name="problem" sense="A">
+    <definition>difficult circumstance</definition>
+  </stem>
+  <stem name="promise" sense="A">
+    <definition>a promise or an oath</definition>
+  </stem>
+  <stem name="prophet" sense="A">
+    <definition>a prophet</definition>
+  </stem>
+  <stem name="prostitute" sense="A">
+    <definition>complex - a women who sells sex for money</definition>
+  </stem>
+  <stem name="province" sense="A">
+    <definition>a political entity, like a state</definition>
+  </stem>
+  <stem name="Psalms" sense="A">
+    <definition>the name of the book in the Bible</definition>
+  </stem>
+  <stem name="Puah" sense="A">
+    <definition>the Israelite nurse in Ex 1:15</definition>
+  </stem>
+  <stem name="pur" sense="A">
+    <definition>Hebrew word for lots</definition>
+  </stem>
+  <stem name="Purim" sense="A">
+    <definition>the feast celebrated by the Jews to commemorate the events in Esther</definition>
+  </stem>
+  <stem name="purse" sense="A">
+    <definition>a bag in which you keep money and/or other small things</definition>
+  </stem>
+  <stem name="pus" sense="A">
+    <definition>dirty secretion from a wound</definition>
+  </stem>
+  <stem name="Put" sense="A">
+    <definition>A city (Nahum 3:9)</definition>
+  </stem>
+  <stem name="Put" sense="B">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="queen" sense="A">
+    <definition>a queen</definition>
+  </stem>
+  <stem name="question" sense="A">
+    <definition>a question</definition>
+  </stem>
+  <stem name="Quirinius" sense="A">
+    <definition>the governor of Syria when Jesus was born (Luke 2:2)</definition>
+  </stem>
+  <stem name="Raamah" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="Rachel" sense="A">
+    <definition>Jacob</definition>
+  </stem>
+  <stem name="rain" sense="A">
+    <definition>the liquid that falls from the sky</definition>
+  </stem>
+  <stem name="rainbow" sense="A">
+    <definition>rainbow</definition>
+  </stem>
+  <stem name="Ram" sense="A">
+    <definition>son of Hezron</definition>
+  </stem>
+  <stem name="ram" sense="A">
+    <definition>complex - a male sheep</definition>
+  </stem>
+  <stem name="Rameses" sense="A">
+    <definition>the Egyptian city</definition>
+  </stem>
+  <stem name="raven" sense="A">
+    <definition>the type of bird, no particular trait such as clever, dirty, etc.</definition>
+  </stem>
+  <stem name="reason" sense="A">
+    <definition>the reason something happened</definition>
+  </stem>
+  <stem name="Rebekah" sense="A">
+    <definition>wife of Isaac</definition>
+  </stem>
+  <stem name="reed" sense="A">
+    <definition>a plant like grass that grows very tall</definition>
+  </stem>
+  <stem name="region" sense="A">
+    <definition>an area, place</definition>
+  </stem>
+  <stem name="Rehoboth" sense="A">
+    <definition>the well in Gen 26</definition>
+  </stem>
+  <stem name="Rehoboth-ir" sense="A">
+    <definition>the city</definition>
+  </stem>
+  <stem name="relationship" sense="A">
+    <definition>the way in which two people feel about each other (e.g., a good/bad/close relationship)</definition>
+  </stem>
+  <stem name="relative" sense="A">
+    <definition>a person who is related by blood or marriage</definition>
+  </stem>
+  <stem name="religion" sense="A">
+    <definition>a belief in God or gods</definition>
+  </stem>
+  <stem name="Rephaite" sense="A">
+    <definition>person of the Rephaites</definition>
+  </stem>
+  <stem name="report" sense="A">
+    <definition>a written or oral informative description of a situation or event (John prepared a report.)</definition>
+  </stem>
+  <stem name="representative" sense="A">
+    <definition>a person who has been chosen to speak for a group of people</definition>
+  </stem>
+  <stem name="Resen" sense="A">
+    <definition>the city</definition>
+  </stem>
+  <stem name="Reu" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Reuben" sense="A">
+    <definition>Jacob</definition>
+  </stem>
+  <stem name="Reuel" sense="A">
+    <definition>person in Ex 2:18,also called Jethro.  Moses father-in-law</definition>
+  </stem>
+  <stem name="Reumah" sense="A">
+    <definition>woman in Gen 22</definition>
+  </stem>
+  <stem name="reward" sense="A">
+    <definition>a reward</definition>
+  </stem>
+  <stem name="Rhesa" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="rib" sense="A">
+    <definition>the curved bones that attach to the spine and protect the chest</definition>
+  </stem>
+  <stem name="right" sense="A">
+    <definition>something that you are morally, legally, or officially allowed to do or have (Every person has certain rights.)</definition>
+  </stem>
+  <stem name="ring" sense="A">
+    <definition>a metal ring used to fasten one thing to another thing - not a ring that is worn on a finger</definition>
+  </stem>
+  <stem name="ring" sense="B">
+    <definition>a metal band worn around a finger</definition>
+  </stem>
+  <stem name="Riphath" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="river" sense="A">
+    <definition>a river, body of water</definition>
+  </stem>
+  <stem name="road" sense="A">
+    <definition>a road</definition>
+  </stem>
+  <stem name="robe" sense="A">
+    <definition>a type of clothing</definition>
+  </stem>
+  <stem name="Rodanim" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="roof" sense="A">
+    <definition>the top of a building</definition>
+  </stem>
+  <stem name="room" sense="A">
+    <definition>a room</definition>
+  </stem>
+  <stem name="rooster" sense="A">
+    <definition>adult male chicken, birds that crow and fight each other</definition>
+  </stem>
+  <stem name="root" sense="A">
+    <definition>root of a plant</definition>
+  </stem>
+  <stem name="rope" sense="A">
+    <definition>thick string, used to tie things</definition>
+  </stem>
+  <stem name="Rosh" sense="A">
+    <definition>man in Gen. 46:21</definition>
+  </stem>
+  <stem name="ruler" sense="A">
+    <definition>someone who has a lot of political power such as a king or queen</definition>
+  </stem>
+  <stem name="Ruth" sense="A">
+    <definition>from the book of Ruth</definition>
+  </stem>
+  <stem name="Sabbath" sense="A">
+    <definition>the Sabbath day</definition>
+  </stem>
+  <stem name="Sabtah" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="Sabteca" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="sackcloth" sense="A">
+    <definition>rough clothing worn during mourning</definition>
+  </stem>
+  <stem name="sacrifice" sense="A">
+    <definition>something that is sacrificed</definition>
+  </stem>
+  <stem name="saddle" sense="A">
+    <definition>something you put on an animal to sit on</definition>
+  </stem>
+  <stem name="Sadducee" sense="A">
+    <definition>a person who does not believe in spiritual life after physical death</definition>
+  </stem>
+  <stem name="Salem" sense="A">
+    <definition>the place in Gen 14</definition>
+  </stem>
+  <stem name="saliva" sense="A">
+    <definition>the liquid in a person</definition>
+  </stem>
+  <stem name="Salmon" sense="A">
+    <definition>son of Nahshon, in genealogy if Jesus</definition>
+  </stem>
+  <stem name="salt" sense="A">
+    <definition>the substance salt</definition>
+  </stem>
+  <stem name="Samaria" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Samaritan" sense="A">
+    <definition>a person from Samaria</definition>
+  </stem>
+  <stem name="Samlah" sense="A">
+    <definition>man in Gen. 36:36</definition>
+  </stem>
+  <stem name="sand" sense="A">
+    <definition>sand, such as found at the beach</definition>
+  </stem>
+  <stem name="sandal" sense="A">
+    <definition>a sandal</definition>
+  </stem>
+  <stem name="Sanhedrin" sense="A">
+    <definition>the high court of the Jews</definition>
+  </stem>
+  <stem name="Sarah" sense="A">
+    <definition>the person</definition>
+  </stem>
+  <stem name="Sarai" sense="A">
+    <definition>woman in Genesis, Abraham</definition>
+  </stem>
+  <stem name="Satan" sense="A">
+    <definition>Satan</definition>
+  </stem>
+  <stem name="Saul" sense="A">
+    <definition>King Saul</definition>
+  </stem>
+  <stem name="savior" sense="A">
+    <definition>complex - a person that will save many people</definition>
+  </stem>
+  <stem name="scepter" sense="A">
+    <definition>the stick held by a king</definition>
+  </stem>
+  <stem name="school" sense="A">
+    <definition>place where people are educated</definition>
+  </stem>
+  <stem name="scorpion" sense="A">
+    <definition>a dangerous bug that can give a painful sting</definition>
+  </stem>
+  <stem name="scribe" sense="A">
+    <definition>complex - someone who teaches other people about the Old Testament laws</definition>
+  </stem>
+  <stem name="scripture" sense="A">
+    <definition>the scriptures</definition>
+  </stem>
+  <stem name="sea" sense="A">
+    <definition>the sea, ocean</definition>
+  </stem>
+  <stem name="sea-Dead" sense="A">
+    <definition>the Dead Sea</definition>
+  </stem>
+  <stem name="season" sense="A">
+    <definition>an anual period of time such as the harvest season</definition>
+  </stem>
+  <stem name="seat" sense="A">
+    <definition>a place to sit down</definition>
+  </stem>
+  <stem name="Seba" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="secret" sense="A">
+    <definition>a secret</definition>
+  </stem>
+  <stem name="secretary" sense="A">
+    <definition>a person who records meetings or writes letters for someone</definition>
+  </stem>
+  <stem name="seed" sense="A">
+    <definition>a seed</definition>
+  </stem>
+  <stem name="seed-mustard" sense="A">
+    <definition>a seed from a mustard tree</definition>
+  </stem>
+  <stem name="Seir" sense="A">
+    <definition>place in Gen 32</definition>
+  </stem>
+  <stem name="Semein" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Sephar" sense="A">
+    <definition>the city</definition>
+  </stem>
+  <stem name="Serah" sense="A">
+    <definition>woman in Gen. 46:17</definition>
+  </stem>
+  <stem name="Sered" sense="A">
+    <definition>man in Gen. 46:14</definition>
+  </stem>
+  <stem name="Serug" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="servant" sense="A">
+    <definition>laborer not owned by master (see slave) but strongly attached</definition>
+  </stem>
+  <stem name="set" sense="A">
+    <definition>a set of things</definition>
+  </stem>
+  <stem name="Seth" sense="A">
+    <definition>son of Adam</definition>
+  </stem>
+  <stem name="Shaashgaz" sense="A">
+    <definition>eunuch of King Xerxes in Esther</definition>
+  </stem>
+  <stem name="shadow" sense="A">
+    <definition>the dark shape that something makes when it is between a light and a surface (e.g., John</definition>
+  </stem>
+  <stem name="Shadrach" sense="A">
+    <definition>Hananiah</definition>
+  </stem>
+  <stem name="Shammah" sense="A">
+    <definition>man in Gen. 36:13</definition>
+  </stem>
+  <stem name="Shaul" sense="A">
+    <definition>Simeon</definition>
+  </stem>
+  <stem name="Shaveh" sense="A">
+    <definition>the place in Gen 14</definition>
+  </stem>
+  <stem name="Shaveh-Kiriathaim" sense="A">
+    <definition>place in Gen 14</definition>
+  </stem>
+  <stem name="shawl" sense="A">
+    <definition>a cloth to keep warm</definition>
+  </stem>
+  <stem name="Shealtiel" sense="A">
+    <definition>son of Jeconiah, descendant of David</definition>
+  </stem>
+  <stem name="Sheba" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Sheba" sense="B">
+    <definition>man in Gen 10/11</definition>
+  </stem>
+  <stem name="Shechem" sense="A">
+    <definition>place in Gen 12</definition>
+  </stem>
+  <stem name="Shechem" sense="B">
+    <definition>the man</definition>
+  </stem>
+  <stem name="sheep" sense="A">
+    <definition>sheep</definition>
+  </stem>
+  <stem name="sheet" sense="A">
+    <definition>covering for a bed</definition>
+  </stem>
+  <stem name="Shelah" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Sheleph" sense="A">
+    <definition>man in Gen 11</definition>
+  </stem>
+  <stem name="shell" sense="A">
+    <definition>the covering of a small sea creature</definition>
+  </stem>
+  <stem name="Shell-Publishing" sense="A">
+    <definition>name of the company that owns Kande</definition>
+  </stem>
+  <stem name="shelter" sense="A">
+    <definition>a place where you can rest out of the elements</definition>
+  </stem>
+  <stem name="Shem" sense="A">
+    <definition>son of Noah</definition>
+  </stem>
+  <stem name="Shemeber" sense="A">
+    <definition>man in Gen 14</definition>
+  </stem>
+  <stem name="shepherd" sense="A">
+    <definition>complex - a man that takes care of sheep</definition>
+  </stem>
+  <stem name="Shepho" sense="A">
+    <definition>man in Gen. 36:23</definition>
+  </stem>
+  <stem name="Shethar" sense="A">
+    <definition>in Esther</definition>
+  </stem>
+  <stem name="Shibah" sense="A">
+    <definition>the well in Gen 26</definition>
+  </stem>
+  <stem name="shield" sense="A">
+    <definition>a shield used for protection in a fight</definition>
+  </stem>
+  <stem name="Shillem" sense="A">
+    <definition>man in Gen. 46:24</definition>
+  </stem>
+  <stem name="Shiloh" sense="A">
+    <definition>Gen. 49:10, a possible reference to the Messiah</definition>
+  </stem>
+  <stem name="Shimei" sense="A">
+    <definition>Levi</definition>
+  </stem>
+  <stem name="Shimron" sense="A">
+    <definition>man in Gen. 46:13</definition>
+  </stem>
+  <stem name="Shinab" sense="A">
+    <definition>man in Gen 14</definition>
+  </stem>
+  <stem name="ship" sense="A">
+    <definition>a large boat</definition>
+  </stem>
+  <stem name="shirt" sense="A">
+    <definition>a shirt</definition>
+  </stem>
+  <stem name="Shobal" sense="A">
+    <definition>man in Gen. 36:20</definition>
+  </stem>
+  <stem name="shoe" sense="A">
+    <definition>that which is worn on the feet</definition>
+  </stem>
+  <stem name="shore" sense="A">
+    <definition>the shore of a body of water</definition>
+  </stem>
+  <stem name="shoulder" sense="A">
+    <definition>the shoulder</definition>
+  </stem>
+  <stem name="Shua" sense="A">
+    <definition>man in Gen. 38:2</definition>
+  </stem>
+  <stem name="Shuah" sense="A">
+    <definition>man in Gen 25</definition>
+  </stem>
+  <stem name="Shuni" sense="A">
+    <definition>man in Gen. 46:16</definition>
+  </stem>
+  <stem name="Shur" sense="A">
+    <definition>a desert near the Red Sea</definition>
+  </stem>
+  <stem name="Siddim" sense="A">
+    <definition>name of a Valley in Gen 14</definition>
+  </stem>
+  <stem name="side" sense="A">
+    <definition>the side of something</definition>
+  </stem>
+  <stem name="Sidon" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Sidon" sense="B">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="sign" sense="A">
+    <definition>a sign, marking</definition>
+  </stem>
+  <stem name="Siloam" sense="A">
+    <definition>the place in Luke 13:4</definition>
+  </stem>
+  <stem name="silver" sense="A">
+    <definition>the substance silver</definition>
+  </stem>
+  <stem name="Simeon" sense="A">
+    <definition>Jacob</definition>
+  </stem>
+  <stem name="Simon" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Simon-Peter" sense="A">
+    <definition>another name for Simon, the disciple</definition>
+  </stem>
+  <stem name="sin" sense="A">
+    <definition>a sin, transgression</definition>
+  </stem>
+  <stem name="Sin" sense="A">
+    <definition>a place (Ex 16:1)</definition>
+  </stem>
+  <stem name="Sinite" sense="A">
+    <definition>a Sinite person</definition>
+  </stem>
+  <stem name="sinner" sense="A">
+    <definition>complex - a person who sins</definition>
+  </stem>
+  <stem name="sister" sense="A">
+    <definition>older female sibling</definition>
+  </stem>
+  <stem name="sister" sense="B">
+    <definition>younger female sibling</definition>
+  </stem>
+  <stem name="sister" sense="C">
+    <definition>generic term that includes both older and younger sisters</definition>
+  </stem>
+  <stem name="sister" sense="D">
+    <definition>title used by Christians for women (Sister Mary, ...)</definition>
+  </stem>
+  <stem name="Sitnah" sense="A">
+    <definition>the name of a well in Gen 26</definition>
+  </stem>
+  <stem name="skill" sense="A">
+    <definition>ability</definition>
+  </stem>
+  <stem name="skin" sense="A">
+    <definition>the skin of a person or animal</definition>
+  </stem>
+  <stem name="skull" sense="A">
+    <definition>the bones of a person</definition>
+  </stem>
+  <stem name="sky" sense="A">
+    <definition>the sky</definition>
+  </stem>
+  <stem name="sky" sense="B">
+    <definition>heavenly bodies, "the heavens" as seen from earth</definition>
+  </stem>
+  <stem name="slave" sense="A">
+    <definition>laborer owned by master (see</definition>
+  </stem>
+  <stem name="sling" sense="A">
+    <definition>an ancient weapon for hurling stones</definition>
+  </stem>
+  <stem name="smoke" sense="A">
+    <definition>smoke</definition>
+  </stem>
+  <stem name="snake" sense="A">
+    <definition>the reptile</definition>
+  </stem>
+  <stem name="snow" sense="A">
+    <definition>snow that falls from the sky - used in similes to indicate</definition>
+  </stem>
+  <stem name="soap" sense="A">
+    <definition>used for cleaning things</definition>
+  </stem>
+  <stem name="Sodom" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="soil" sense="A">
+    <definition>dirt that plants grow in</definition>
+  </stem>
+  <stem name="soldier" sense="A">
+    <definition>a military soldier</definition>
+  </stem>
+  <stem name="Solomon" sense="A">
+    <definition>son of David</definition>
+  </stem>
+  <stem name="son" sense="A">
+    <definition>male child of a parent</definition>
+  </stem>
+  <stem name="Son" sense="A">
+    <definition>a title reserved soley for Jesus, emphasizes that Jesus is God</definition>
+  </stem>
+  <stem name="son-in-law" sense="A">
+    <definition>son in law</definition>
+  </stem>
+  <stem name="Son-of-god" sense="A">
+    <definition>a title of Christ</definition>
+  </stem>
+  <stem name="Son-of-man" sense="A">
+    <definition>a title of Christ, also used in the OT, emphasizes his humanity</definition>
+  </stem>
+  <stem name="song" sense="A">
+    <definition>a song</definition>
+  </stem>
+  <stem name="sore" sense="A">
+    <definition>a skin problem</definition>
+  </stem>
+  <stem name="soul" sense="A">
+    <definition>the complete, living being of a person, opposed to the body</definition>
+  </stem>
+  <stem name="sound" sense="A">
+    <definition>a sound</definition>
+  </stem>
+  <stem name="south" sense="A">
+    <definition>the compass direction</definition>
+  </stem>
+  <stem name="spear" sense="A">
+    <definition>a spear used by a soldier</definition>
+  </stem>
+  <stem name="spice" sense="A">
+    <definition>used in cooking or for annointing body for burial</definition>
+  </stem>
+  <stem name="spirit" sense="A">
+    <definition>the spirit of a person (see also Holy-Spirit)</definition>
+  </stem>
+  <stem name="sponge" sense="A">
+    <definition>a porous material that absorbs liquid</definition>
+  </stem>
+  <stem name="spouse" sense="A">
+    <definition>husband or wife</definition>
+  </stem>
+  <stem name="spring" sense="A">
+    <definition>a spring of water</definition>
+  </stem>
+  <stem name="spy" sense="A">
+    <definition>a person who secretly gathers information about someone</definition>
+  </stem>
+  <stem name="staff" sense="A">
+    <definition>a walking stick, or shepherd</definition>
+  </stem>
+  <stem name="star" sense="A">
+    <definition>a star (in the sky)</definition>
+  </stem>
+  <stem name="statue" sense="A">
+    <definition>an object shaped like a person or animal, usually made of stone, wood, or metal</definition>
+  </stem>
+  <stem name="stick" sense="A">
+    <definition>a wooden stick</definition>
+  </stem>
+  <stem name="stomach" sense="A">
+    <definition>a stomach</definition>
+  </stem>
+  <stem name="stone" sense="A">
+    <definition>a stone or rock</definition>
+  </stem>
+  <stem name="store" sense="A">
+    <definition>place where goods are sold</definition>
+  </stem>
+  <stem name="storm" sense="A">
+    <definition>a storm</definition>
+  </stem>
+  <stem name="story" sense="A">
+    <definition>a true story</definition>
+  </stem>
+  <stem name="story" sense="B">
+    <definition>a story that did not actually happen</definition>
+  </stem>
+  <stem name="straw" sense="A">
+    <definition>straw</definition>
+  </stem>
+  <stem name="stream" sense="A">
+    <definition>flowing water, a small river</definition>
+  </stem>
+  <stem name="street" sense="A">
+    <definition>a street in a city</definition>
+  </stem>
+  <stem name="string" sense="A">
+    <definition>several threads twisted together, used to tie one thing to another thing</definition>
+  </stem>
+  <stem name="stripe" sense="A">
+    <definition>a long, thin marking</definition>
+  </stem>
+  <stem name="structure" sense="A">
+    <definition>any man-made structure</definition>
+  </stem>
+  <stem name="student" sense="A">
+    <definition>a student</definition>
+  </stem>
+  <stem name="substance" sense="A">
+    <definition>material of any type</definition>
+  </stem>
+  <stem name="Succoth" sense="A">
+    <definition>a place in Egypt</definition>
+  </stem>
+  <stem name="summer" sense="A">
+    <definition>the season of the year</definition>
+  </stem>
+  <stem name="Summer-Institute-of-Linguistics" sense="A">
+    <definition>the organization</definition>
+  </stem>
+  <stem name="sun" sense="A">
+    <definition>the sun</definition>
+  </stem>
+  <stem name="sunrise" sense="A">
+    <definition>time at sunrise, dawn</definition>
+  </stem>
+  <stem name="sunset" sense="A">
+    <definition>time at sunset, dusk</definition>
+  </stem>
+  <stem name="Susa" sense="A">
+    <definition>captital city of King Xerxes, book of Esther</definition>
+  </stem>
+  <stem name="Susanna" sense="A">
+    <definition>the person (Luke 8:3)</definition>
+  </stem>
+  <stem name="sword" sense="A">
+    <definition>a sword</definition>
+  </stem>
+  <stem name="synagogue" sense="A">
+    <definition>a synagogue</definition>
+  </stem>
+  <stem name="Syntyche" sense="A">
+    <definition>the person (Phil 4:2)</definition>
+  </stem>
+  <stem name="Syria" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="table" sense="A">
+    <definition>a table</definition>
+  </stem>
+  <stem name="tablet" sense="A">
+    <definition>a stone tablet for writing</definition>
+  </stem>
+  <stem name="Tahash" sense="A">
+    <definition>man in Gen 22</definition>
+  </stem>
+  <stem name="tail" sense="A">
+    <definition>the tail of an animal</definition>
+  </stem>
+  <stem name="Tamar" sense="A">
+    <definition>wife of Judah</definition>
+  </stem>
+  <stem name="tamarisk" sense="A">
+    <definition>the tree</definition>
+  </stem>
+  <stem name="tambourine" sense="A">
+    <definition>a tambourine, musical instrument</definition>
+  </stem>
+  <stem name="tar" sense="A">
+    <definition>black, sticky substance</definition>
+  </stem>
+  <stem name="Tarshish" sense="A">
+    <definition>in Esther</definition>
+  </stem>
+  <stem name="tax" sense="A">
+    <definition>tax</definition>
+  </stem>
+  <stem name="teacher" sense="A">
+    <definition>a person who teaches</definition>
+  </stem>
+  <stem name="tear" sense="A">
+    <definition>a tear, from crying</definition>
+  </stem>
+  <stem name="teaspoon" sense="A">
+    <definition>a small spoon</definition>
+  </stem>
+  <stem name="Tebah" sense="A">
+    <definition>man in Gen 22</definition>
+  </stem>
+  <stem name="Tekel" sense="A">
+    <definition>a transliteration of a word written on the wall for king Belshazzar in Daniel.  THIS SHOULD BE A VERB.</definition>
+  </stem>
+  <stem name="Tema" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Teman" sense="A">
+    <definition>man in Gen. 36:11</definition>
+  </stem>
+  <stem name="Temanite" sense="A">
+    <definition>people in Gen. 36:34</definition>
+  </stem>
+  <stem name="temple" sense="A">
+    <definition>a temple for worship</definition>
+  </stem>
+  <stem name="tent" sense="A">
+    <definition>a tent</definition>
+  </stem>
+  <stem name="Terah" sense="A">
+    <definition>the person (Luke 3)</definition>
+  </stem>
+  <stem name="Teresh" sense="A">
+    <definition>guard in Esther 2:21</definition>
+  </stem>
+  <stem name="Terpen" sense="A">
+    <definition>name of a village in Avian Influenza</definition>
+  </stem>
+  <stem name="Teshi" sense="A">
+    <definition>name of a young girl, Kande</definition>
+  </stem>
+  <stem name="test" sense="A">
+    <definition>a test or temptation as in Luke 11:4</definition>
+  </stem>
+  <stem name="testicle" sense="A">
+    <definition>a male organ</definition>
+  </stem>
+  <stem name="Thebes" sense="A">
+    <definition>city near the Nile</definition>
+  </stem>
+  <stem name="Theophilus" sense="A">
+    <definition>the person Luke writes to in Luke and Acts</definition>
+  </stem>
+  <stem name="Thessalonica" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="thief" sense="A">
+    <definition>complex - a person who steals other people</definition>
+  </stem>
+  <stem name="thing" sense="A">
+    <definition>a generic tangible object</definition>
+  </stem>
+  <stem name="thing" sense="B">
+    <definition>a generic act or deed</definition>
+  </stem>
+  <stem name="thing" sense="C">
+    <definition>a generic term for speech (John said/heard many things about the problem.)</definition>
+  </stem>
+  <stem name="thing" sense="D">
+    <definition>a generic intangible object (e.g., faith, power, authority, etc.)</definition>
+  </stem>
+  <stem name="Thomas" sense="A">
+    <definition>the disciple</definition>
+  </stem>
+  <stem name="thorn" sense="A">
+    <definition>the sharp part of a thornbush</definition>
+  </stem>
+  <stem name="thought" sense="A">
+    <definition>a thought</definition>
+  </stem>
+  <stem name="thread" sense="A">
+    <definition>a thin string used in sewing</definition>
+  </stem>
+  <stem name="throat" sense="A">
+    <definition>passageway inside neck that connects the mouth to the tube that goes to the stomach and lungs</definition>
+  </stem>
+  <stem name="throne" sense="A">
+    <definition>place where a king sits</definition>
+  </stem>
+  <stem name="thunder" sense="A">
+    <definition>loud sound during a storm</definition>
+  </stem>
+  <stem name="Tiberius" sense="A">
+    <definition>the emperor of Rome (Luke 3:1)</definition>
+  </stem>
+  <stem name="Tidal" sense="A">
+    <definition>man in Gen 14</definition>
+  </stem>
+  <stem name="Tigris" sense="A">
+    <definition>name of a river</definition>
+  </stem>
+  <stem name="time" sense="A">
+    <definition>generic word for time</definition>
+  </stem>
+  <stem name="times" sense="A">
+    <definition>used with iteration to specify the number of iterations</definition>
+  </stem>
+  <stem name="Timna" sense="A">
+    <definition>woman in Gen. 36:12</definition>
+  </stem>
+  <stem name="Timnah" sense="A">
+    <definition>city in Gen. 38:12</definition>
+  </stem>
+  <stem name="Timothy" sense="A">
+    <definition>the coworker of Paul</definition>
+  </stem>
+  <stem name="tip" sense="A">
+    <definition>the pointed end of something such as a spear</definition>
+  </stem>
+  <stem name="Tiras" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="today" sense="A">
+    <definition>the current day</definition>
+  </stem>
+  <stem name="toe" sense="A">
+    <definition>a digit on the foot</definition>
+  </stem>
+  <stem name="Togarmah" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="Tola" sense="A">
+    <definition>man in Gen. 46:13</definition>
+  </stem>
+  <stem name="tomb" sense="A">
+    <definition>a type of grave where the corpse is put inside a room of some sort</definition>
+  </stem>
+  <stem name="tomorrow" sense="A">
+    <definition>the day after today</definition>
+  </stem>
+  <stem name="tongue" sense="A">
+    <definition>the tongue of a person or animal</definition>
+  </stem>
+  <stem name="tool" sense="A">
+    <definition>a tool</definition>
+  </stem>
+  <stem name="tooth" sense="A">
+    <definition>a tooth</definition>
+  </stem>
+  <stem name="top" sense="A">
+    <definition>the top of something</definition>
+  </stem>
+  <stem name="towel" sense="A">
+    <definition>a piece of cloth for drying</definition>
+  </stem>
+  <stem name="tower" sense="A">
+    <definition>a tall structure</definition>
+  </stem>
+  <stem name="town" sense="A">
+    <definition>a small city</definition>
+  </stem>
+  <stem name="Traconitis" sense="A">
+    <definition>the place (Luke 3:1)</definition>
+  </stem>
+  <stem name="treasure" sense="A">
+    <definition>something valuable</definition>
+  </stem>
+  <stem name="treasury" sense="A">
+    <definition>like a bank, place where money is kept for a country</definition>
+  </stem>
+  <stem name="treaty" sense="A">
+    <definition>an agreement between two nations</definition>
+  </stem>
+  <stem name="tree" sense="A">
+    <definition>a tree</definition>
+  </stem>
+  <stem name="tree-almond" sense="A">
+    <definition>an almond tree</definition>
+  </stem>
+  <stem name="tree-cypress" sense="A">
+    <definition>a cypress tree</definition>
+  </stem>
+  <stem name="tree-fig" sense="A">
+    <definition>a fig tree</definition>
+  </stem>
+  <stem name="tree-mustard" sense="A">
+    <definition>a type of tree</definition>
+  </stem>
+  <stem name="tree-oak" sense="A">
+    <definition>a type of tree</definition>
+  </stem>
+  <stem name="tree-olive" sense="A">
+    <definition>an olive tree</definition>
+  </stem>
+  <stem name="tree-poplar" sense="A">
+    <definition>a poplar tree</definition>
+  </stem>
+  <stem name="tree-sycamore" sense="A">
+    <definition>a type of tree</definition>
+  </stem>
+  <stem name="tribe" sense="A">
+    <definition>a tribe or clan</definition>
+  </stem>
+  <stem name="trouble" sense="A">
+    <definition>trouble, hard times</definition>
+  </stem>
+  <stem name="trough" sense="A">
+    <definition>place from which animals drink and eat</definition>
+  </stem>
+  <stem name="trumpet" sense="A">
+    <definition>the musical instrument</definition>
+  </stem>
+  <stem name="truth" sense="A">
+    <definition>the abstract thing, truth</definition>
+  </stem>
+  <stem name="Tubal" sense="A">
+    <definition>man in Gen 10</definition>
+  </stem>
+  <stem name="Tubal-Cain" sense="A">
+    <definition>man in Gen. 4:22</definition>
+  </stem>
+  <stem name="twin" sense="A">
+    <definition>a person who has one sibling who was born at the same time.</definition>
+  </stem>
+  <stem name="Tychicus" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Tyre" sense="A">
+    <definition>the place</definition>
+  </stem>
+  <stem name="Ulai" sense="A">
+    <definition>name of a river or canal in Daniel 8:2</definition>
+  </stem>
+  <stem name="uncle" sense="A">
+    <definition>one</definition>
+  </stem>
+  <stem name="universe" sense="A">
+    <definition>all space, including the stars and planets</definition>
+  </stem>
+  <stem name="Ur" sense="A">
+    <definition>place in Gen. 11</definition>
+  </stem>
+  <stem name="Uz" sense="A">
+    <definition>man in Gen 11</definition>
+  </stem>
+  <stem name="Uzal" sense="A">
+    <definition>man in Gen 11</definition>
+  </stem>
+  <stem name="vaccine" sense="A">
+    <definition>something that kills germs and stops a disease</definition>
+  </stem>
+  <stem name="Vaizatha" sense="A">
+    <definition>Esther 9:7-9</definition>
+  </stem>
+  <stem name="valley" sense="A">
+    <definition>the lower ground place between 2 mountains or hills</definition>
+  </stem>
+  <stem name="Vashti" sense="A">
+    <definition>Queen Vashti, in Esther</definition>
+  </stem>
+  <stem name="vegetable" sense="A">
+    <definition>things that we eat</definition>
+  </stem>
+  <stem name="veil" sense="A">
+    <definition>a cloth worn over a woman</definition>
+  </stem>
+  <stem name="veterinarian" sense="A">
+    <definition>complex - an animal doctor</definition>
+  </stem>
+  <stem name="village" sense="A">
+    <definition>a very small town</definition>
+  </stem>
+  <stem name="vine" sense="A">
+    <definition>the plant that, for example, grapes grow on</definition>
+  </stem>
+  <stem name="vinegar" sense="A">
+    <definition>the liquid</definition>
+  </stem>
+  <stem name="vineyard" sense="A">
+    <definition>a place where grapes are grown</definition>
+  </stem>
+  <stem name="virgin" sense="A">
+    <definition>complex - a woman who has not slept with a man</definition>
+  </stem>
+  <stem name="vision" sense="A">
+    <definition>a prophetic vision</definition>
+  </stem>
+  <stem name="voice" sense="A">
+    <definition>a voice</definition>
+  </stem>
+  <stem name="vulture" sense="A">
+    <definition>a type of bird that eats dead animals</definition>
+  </stem>
+  <stem name="wagon" sense="A">
+    <definition>a vehicle that carries people and heavy loads, usually pulled by horses</definition>
+  </stem>
+  <stem name="waist" sense="A">
+    <definition>section above the hips of a person</definition>
+  </stem>
+  <stem name="wall" sense="A">
+    <definition>a wall of a house or building</definition>
+  </stem>
+  <stem name="wall" sense="B">
+    <definition>a wall around a city</definition>
+  </stem>
+  <stem name="war" sense="A">
+    <definition>a military conflict</definition>
+  </stem>
+  <stem name="water" sense="A">
+    <definition>water</definition>
+  </stem>
+  <stem name="wave" sense="A">
+    <definition>a wave on a lake or ocean</definition>
+  </stem>
+  <stem name="wealth" sense="A">
+    <definition>a great quantity of money or property</definition>
+  </stem>
+  <stem name="weapon" sense="A">
+    <definition>a weapon used in war or a fight</definition>
+  </stem>
+  <stem name="weather" sense="A">
+    <definition>weather, ambience</definition>
+  </stem>
+  <stem name="wedding" sense="A">
+    <definition>a wedding ceremony</definition>
+  </stem>
+  <stem name="weed" sense="A">
+    <definition>any unwanted plant</definition>
+  </stem>
+  <stem name="week" sense="A">
+    <definition>a period of seven days</definition>
+  </stem>
+  <stem name="well" sense="A">
+    <definition>a hole to get water out of</definition>
+  </stem>
+  <stem name="west" sense="A">
+    <definition>the compass direction</definition>
+  </stem>
+  <stem name="wheat" sense="A">
+    <definition>a wheat plant</definition>
+  </stem>
+  <stem name="wheat" sense="B">
+    <definition>the food</definition>
+  </stem>
+  <stem name="wheel" sense="A">
+    <definition>the wheel of a vehicle</definition>
+  </stem>
+  <stem name="whip" sense="A">
+    <definition>the thing used to whip people</definition>
+  </stem>
+  <stem name="whirlwind" sense="A">
+    <definition>a great wind, like a tornado</definition>
+  </stem>
+  <stem name="widow" sense="A">
+    <definition>complex - a woman whose husband is dead</definition>
+  </stem>
+  <stem name="wife" sense="A">
+    <definition>female spouse</definition>
+  </stem>
+  <stem name="wind" sense="A">
+    <definition>the wind</definition>
+  </stem>
+  <stem name="window" sense="A">
+    <definition>an opening in a wall so that people can see outside</definition>
+  </stem>
+  <stem name="wine" sense="A">
+    <definition>wine</definition>
+  </stem>
+  <stem name="wineskin" sense="A">
+    <definition>a container that holds wine, made of leather</definition>
+  </stem>
+  <stem name="wing" sense="A">
+    <definition>the wing of a bird</definition>
+  </stem>
+  <stem name="winter" sense="A">
+    <definition>the season</definition>
+  </stem>
+  <stem name="wisdom" sense="A">
+    <definition>wisdom</definition>
+  </stem>
+  <stem name="witchcraft" sense="A">
+    <definition>the evil practice of magic</definition>
+  </stem>
+  <stem name="wolf" sense="A">
+    <definition>a wolf, wild dog</definition>
+  </stem>
+  <stem name="woman" sense="A">
+    <definition>female human</definition>
+  </stem>
+  <stem name="womb" sense="A">
+    <definition>place inside the woman where a baby lives</definition>
+  </stem>
+  <stem name="wood" sense="A">
+    <definition>a piece of wood</definition>
+  </stem>
+  <stem name="wool" sense="A">
+    <definition>the white hair covering sheep</definition>
+  </stem>
+  <stem name="word" sense="A">
+    <definition>a unit of speech</definition>
+  </stem>
+  <stem name="work" sense="A">
+    <definition>generic term for that which one does for a living</definition>
+  </stem>
+  <stem name="worker" sense="A">
+    <definition>a person who works, laborer</definition>
+  </stem>
+  <stem name="World-Vision" sense="A">
+    <definition>a Chrisitan organization</definition>
+  </stem>
+  <stem name="wound" sense="A">
+    <definition>a wound received in battle</definition>
+  </stem>
+  <stem name="Xerxes" sense="A">
+    <definition>the king in the book of Esther, some English translations use the name Ahasuerus</definition>
+  </stem>
+  <stem name="Yahweh" sense="A">
+    <definition>the name of God, and also used occasionally for the pre-incarnate Christ in the theophanies (e.g., Gen. 18)</definition>
+  </stem>
+  <stem name="Yatima" sense="A">
+    <definition>name of a baby girl in Kande</definition>
+  </stem>
+  <stem name="year" sense="A">
+    <definition>365 days</definition>
+  </stem>
+  <stem name="yeast" sense="A">
+    <definition>yeast</definition>
+  </stem>
+  <stem name="yoke" sense="A">
+    <definition>a thing that farmers put on oxen so that the oxen can pull a plow</definition>
+  </stem>
+  <stem name="Zaavan" sense="A">
+    <definition>man in Gen. 36:27</definition>
+  </stem>
+  <stem name="Zacchaeus" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Zaphenath-Paneah" sense="A">
+    <definition>Joseph</definition>
+  </stem>
+  <stem name="Zarephath" sense="A">
+    <definition>the place (Luke 4:26)</definition>
+  </stem>
+  <stem name="Zealot" sense="A">
+    <definition>Simon the Zealot</definition>
+  </stem>
+  <stem name="Zebedee" sense="A">
+    <definition>a man</definition>
+  </stem>
+  <stem name="Zeboiim" sense="A">
+    <definition>the city</definition>
+  </stem>
+  <stem name="Zebulun" sense="A">
+    <definition>Jacob</definition>
+  </stem>
+  <stem name="Zechariah" sense="A">
+    <definition>the prophet</definition>
+  </stem>
+  <stem name="Zemarite" sense="A">
+    <definition>a Zemarite person</definition>
+  </stem>
+  <stem name="Zepho" sense="A">
+    <definition>man in Gen. 36:11</definition>
+  </stem>
+  <stem name="Zephon" sense="A">
+    <definition>man in Gen. 46:16</definition>
+  </stem>
+  <stem name="Zerah" sense="A">
+    <definition>son of Judah</definition>
+  </stem>
+  <stem name="Zeresh" sense="A">
+    <definition>wife of Haman in Esther</definition>
+  </stem>
+  <stem name="Zerubbabel" sense="A">
+    <definition>son of Shealtiel, descendant of David</definition>
+  </stem>
+  <stem name="Zethar" sense="A">
+    <definition>in Esther</definition>
+  </stem>
+  <stem name="Zibeon" sense="A">
+    <definition>man in Gen. 36:2</definition>
+  </stem>
+  <stem name="Zillah" sense="A">
+    <definition>woman in Gen. 4:19</definition>
+  </stem>
+  <stem name="Zilpah" sense="A">
+    <definition>the woman in Gen 29</definition>
+  </stem>
+  <stem name="Zimran" sense="A">
+    <definition>man in Gen 25</definition>
+  </stem>
+  <stem name="Zoar" sense="A">
+    <definition>place in Gen 14</definition>
+  </stem>
+  <stem name="Zohar" sense="A">
+    <definition>Simeon</definition>
+  </stem>
+  <stem name="Zuzite" sense="A">
+    <definition>person of the Zuzites</definition>
+  </stem>
+</pos>

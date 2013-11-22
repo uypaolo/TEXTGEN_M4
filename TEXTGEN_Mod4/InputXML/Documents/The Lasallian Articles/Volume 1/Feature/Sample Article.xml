@@ -1,0 +1,31 @@
+<document name="Sample Article">
+  <comments>This is a sample XML for an article</comments>
+  <component name="Cl">
+    <component name="NP">
+      <component name="Adj" concept="powerful" sense="A" />
+      <component name="N" concept="earthquake" sense="B" />
+    </component>
+    <component name="VP">
+      <component name="V" concept="killed" sense="A" />
+      <component name="N" concept="people" sense="A" />
+      <component name="Adj" concept="many" sense="B" />
+    </component>
+  </component>
+  <component name="Cl">
+    <component name="NP">
+      <component name="N" concept="authority" sense="A" />
+    </component>
+    <component name="VP">
+      <component name="V" concept="investigate" sense="B" />
+      <component name="N" concept="Cebu" sense="C" />
+    </component>
+  </component>
+  <component name="Cl">
+    <component name="N" concept="people" sense="A" />
+    <component name="VP">
+      <component name="V" concept="worry" sense="A" />
+      <component name="N" concept="death" sense="A" />
+      <component name="N" concept="children" sense="B" />
+    </component>
+  </component>
+</document>

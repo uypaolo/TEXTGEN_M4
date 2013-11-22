@@ -1,0 +1,14 @@
+<pos name="TestPos2">
+  <features />
+  <forms />
+  <stems>
+    <stem name="wfewfewf" gloss="twetfweftwe">
+      <comments>sdfsdfdsfdsg</comments>
+      <sentence />
+      <forms />
+      <mappings>
+        <mapping concept="Kinship" sense="A" pos="adp" />
+      </mappings>
+    </stem>
+  </stems>
+</pos>

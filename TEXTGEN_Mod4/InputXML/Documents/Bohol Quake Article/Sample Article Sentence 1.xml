@@ -1,0 +1,14 @@
+<document name="Sample Article Sentence 1">
+  <comments>This is the first sentence in the Sample Article</comments>
+  <component name="Cl">
+    <component name="NP">
+      <component name="Adj" concept="powerful" sense="A" />
+      <component name="N" concept="earthquake" sense="B" />
+    </component>
+    <component name="VP">
+      <component name="V" concept="killed" sense="A" />
+      <component name="N" concept="people" sense="A" />
+      <component name="Adj" concept="many" sense="B" />
+    </component>
+  </component>
+</document>

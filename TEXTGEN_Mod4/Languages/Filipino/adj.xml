@@ -1,0 +1,58 @@
+<pos name="adj">
+  <features>
+    <feature name="Sample Filipino Adjective Feature">
+      <value>unang value</value>
+      <value>pangalawang value</value>
+    </feature>
+    <feature name="Sample 2">
+      <value>Value 1</value>
+      <value>Value 220</value>
+    </feature>
+    <feature name="Sample 3">
+      <value>Test 1</value>
+      <value>Test 2</value>
+    </feature>
+  </features>
+  <forms>
+    <form>Superlative</form>
+  </forms>
+  <stems>
+    <stem name="malaki" gloss="big">
+      <comments>Value 1</comments>
+      <sentence />
+      <features>
+        <feature name="Sample Filipino Adjective Feature" value="pangalawang value" />
+      </features>
+      <forms>
+        <form name="Superlative" value="pinakamalaki" />
+      </forms>
+      <mappings>
+        <mapping concept="big" sense="A" pos="adj" />
+      </mappings>
+    </stem>
+    <stem name="mapula" gloss="sore">
+      <comments>Value 2</comments>
+      <sentence />
+      <features>
+        <feature name="Sample Filipino Adjective Feature" value="pangalawang value" />
+        <feature name="Sample 2" value="Value 220" />
+      </features>
+      <forms>
+        <form name="Superlative" value="pinakamapula" />
+      </forms>
+      <mappings>
+        <mapping concept="sore" sense="A" pos="adj" />
+      </mappings>
+    </stem>
+    <stem name="masaya" gloss="happy">
+      <comments>Value 1</comments>
+      <sentence />
+      <forms>
+        <form name="Superlative" value="pinakamasaya" />
+      </forms>
+      <mappings>
+        <mapping concept="happy" sense="A" pos="adj" />
+      </mappings>
+    </stem>
+  </stems>
+</pos>

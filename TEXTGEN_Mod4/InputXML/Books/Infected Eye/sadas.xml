@@ -1,0 +1,11 @@
+<document name="sdasd">
+  <component name="Cl" />
+  <component name="AdjP" />
+  <component name="AdjP" />
+  <component name="Conj" concept="" sense="" />
+  <component name="Cl">
+    <component name="AdjP">
+      <component name="AdjP" />
+    </component>
+  </component>
+</document>

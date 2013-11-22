@@ -1,0 +1,473 @@
+<db>
+<component name = "Cl">
+	<featuregroup type = "standard">
+		<feature name = "Type">
+			<value>Independent</value>
+			<value>Coordinate Independent</value>
+			<value>Restrictive Thing Modifier</value>
+			<value>Descriptive Thing Modifier</value>
+			<value>Event Modifier</value>
+			<value>Agent</value>
+			<value>Patient</value>
+			<value>Attributive Patient</value>
+			<value>Closing Quotation Frame</value>
+		</feature>
+		<feature name = "Illocutionary Force">
+			<value>Declarative</value>
+			<value>Imperative</value>
+			<value>Content Interrogative</value>
+			<value>Yes-No Interrogative</value>
+			<value>May Imperative</value>
+			<value>Let Imperative</value>
+		</feature>
+		<feature name = "Topic NP">
+			<value>Most Agent-like</value>
+			<value>Most Patient-like</value>
+		</feature>
+		<feature name = "Speaker">
+			<value>N/A</value>
+			<value>Adult Daughter</value>
+			<value>Adult Son</value>
+			<value>Angel</value>
+			<value>Animal</value>
+			<value>Boy</value>
+			<value>Brother</value>
+			<value>Crowd</value>
+			<value>Daughter</value>
+			<value>Demon</value>
+			<value>Disciple</value>
+			<value>Employee</value>
+			<value>Employer</value>
+			<value>Father</value>
+			<value>Girl</value>
+			<value>God</value>
+			<value>Government Leader</value>
+			<value>Government Official</value>
+			<value>Group of Friends</value>
+			<value>Holy Spirit</value>
+			<value>Husband</value>
+			<value>Jesus</value>
+			<value>King</value>
+			<value>Man</value>
+			<value>Military Leader</value>
+			<value>Mother</value>
+			<value>Prophet</value>
+			<value>Queen</value>
+			<value>Religious Leader</value>
+			<value>Satan</value>
+			<value>Servant</value>
+			<value>Sister</value>
+			<value>Slave</value>
+			<value>Slave Owner</value>
+			<value>Soldier</value>
+			<value>Son</value>
+			<value>Wife</value>
+			<value>Woman</value>
+			<value>General Audience</value>
+		</feature>
+		<feature name = "Listener">
+			<value>N/A</value>
+			<value>Adult Daughter</value>
+			<value>Adult Son</value>
+			<value>Angel</value>
+			<value>Animal</value>
+			<value>Boy</value>
+			<value>Brother</value>
+			<value>Crowd</value>
+			<value>Daughter</value>
+			<value>Demon</value>
+			<value>Disciple</value>
+			<value>Employee</value>
+			<value>Employer</value>
+			<value>Father</value>
+			<value>Girl</value>
+			<value>God</value>
+			<value>Government Leader</value>
+			<value>Government Official</value>
+			<value>Group of Friends</value>
+			<value>Holy Spirit</value>
+			<value>Husband</value>
+			<value>Jesus</value>
+			<value>King</value>
+			<value>Man</value>
+			<value>Military Leader</value>
+			<value>Mother</value>
+			<value>Prophet</value>
+			<value>Queen</value>
+			<value>Religious Leader</value>
+			<value>Satan</value>
+			<value>Servant</value>
+			<value>Sister</value>
+			<value>Slave</value>
+			<value>Slave Owner</value>
+			<value>Soldier</value>
+			<value>Son</value>
+			<value>Wife</value>
+			<value>Woman</value>
+			<value>General Audience</value>
+		</feature>
+		<feature name = "Speaker Attitude">
+			<value>N/A</value>
+			<value>Neutral</value>
+			<value>Familiar</value>
+			<value>Endearing</value>
+			<value>Honorable</value>
+			<value>Derogatory</value>
+			<value>Friendly</value>
+			<value>Antagonistic</value>
+			<value>Complimentary</value>
+			<value>Anger</value>
+			<value>Rebuke</value>
+		</feature>
+		<feature name = "Speaker Age">
+			<value>N/A</value>
+			<value>Child</value>
+			<value>Young Adult</value>
+			<value>Adult</value>
+			<value>Elder</value>
+		</feature>
+		<feature name = "Speaker-Listener Age">
+			<value>Older Different Generation</value>
+			<value>Older Same Generation</value>
+			<value>Same</value>
+			<value>Younger Different Generation</value>
+			<value>Younger Same Generation</value>
+		</feature>
+		<feature name = "Speech Style">
+			<value>N/A</value>
+		</feature>
+		<feature name = "Discourse Genre">
+			<value>Climactic Narrative Story</value>
+			<value>Episodic Narrative Story</value>
+			<value>Narrative Prophecy</value>
+			<value>Expository</value>
+			<value>Behavioral Hortatory</value>
+			<value>Behavioral Eulogy</value>
+			<value>Procedural</value>
+			<value>Persuasive</value>
+			<value>Expressive</value>
+			<value>Descriptive</value>
+			<value>Epistolary</value>
+			<value>Dramatic Narrative</value>
+			<value>Dialog</value>
+		</feature>
+		<feature name = "Notional Structure Schema">
+			<value>N/A</value>
+		</feature>
+		<feature name = "Salience Band">
+			<value>N/A</value>
+		</feature>
+		<feature name = "Sequence">
+			<value>N/A</value>
+			<value>First Coordinate</value>
+			<value>Last Coordinate</value>
+			<value>Coordinate</value>
+		</feature>
+		<feature name = "Location in Paragraph">
+			<value>N/A</value>
+			<value>First</value>
+			<value>Last</value>
+			<value>Discourse Title</value>
+			<value>Aperature</value>
+			<value>Finis</value>
+			<value>Footnote</value>
+			<value>Questionable Text</value>
+		</feature>
+		<feature name = "Implicit Info">
+			<value>N/A</value>
+			<value>Implicit Cultural Info</value>
+			<value>Implicit Situational Info</value>
+			<value>Implicit Historical Info</value>
+			<value>Implicit Background Info</value>
+			<value>Implicit Subaction</value>
+		</feature>
+		<feature name = "Alternative Analysis">
+			<value>N/A</value>
+			<value>Primary Analysis</value>
+			<value>First Alternative Analysis</value>
+			<value>Second Alternative Analysis</value>
+			<value>Third Alternative Analysis</value>
+			<value>Fourth Alternative Analysis</value>
+			<value>Fifth Alternative Analysis</value>
+		</feature>
+	</featuregroup>
+	<featuregroup type = "user">
+	</featuregroup>
+</component>
+<component name = "NP">
+	<featuregroup type = "standard">
+		<feature name = "Sequence">
+			<value>N/A</value>
+			<value>First Coordinate</value>
+			<value>Last Coordinate</value>
+			<value>Coordinate</value>
+			<value>Coordinate Head</value>
+		</feature>
+		<feature name = "Semantic Role">
+			<value>Agent</value>
+			<value>Patient</value>
+			<value>State</value>
+			<value>Source</value>
+			<value>Destination</value>
+			<value>Instrument</value>
+			<value>Addressee</value>
+			<value>Beneficiary</value>
+			<value>N/A</value>
+		</feature>
+		<feature name = "Implicit Information">
+			<value>N/A</value>
+			<value>Description of Geographic Name</value>
+			<value>Optional Agent of Passive</value>
+			<value>Implicit Argument</value>
+		</feature>
+		<feature name = "Thing-Thing Relationship">
+			<value>N/A</value>
+		</feature>
+		<feature name = "Relativized">
+			<value>No</value>
+			<value>Yes</value>
+		</feature>
+		
+	</featuregroup>
+	<featuregroup type = "user">
+	</featuregroup>
+</component>
+<component name = "VP">
+	<featuregroup type = "standard">
+		<feature name = "Sequence">
+			<value>N/A</value>
+			<value>First Coordinate</value>
+			<value>Last Coordinate</value>
+			<value>Coordinate</value>
+			<value>CP</value>
+		</feature>
+	</featuregroup>
+	<featuregroup type = "user">
+	</featuregroup>
+</component>
+<component name = "AdjP">
+	<featuregroup type = "standard">
+		<feature name = "Sequence">
+			<value>N/A</value>
+			<value>First Coordinate</value>
+			<value>Last Coordinate</value>
+			<value>Coordinate</value>
+		</feature>
+		<feature name = "Usage">
+			<value>Attributive</value>
+			<value>Predicative</value>
+		</feature>
+	</featuregroup>
+	<featuregroup type = "user">
+	</featuregroup>
+</component>
+<component name = "AdvP">
+	<featuregroup type = "standard">
+		<feature name = "Sequence">
+			<value>N/A</value>
+			<value>First Coordinate</value>
+			<value>Last Coordinate</value>
+			<value>Coordinate</value>
+		</feature>
+	</featuregroup>
+	<featuregroup type = "user">
+	</featuregroup>
+</component>
+<component name = "N">
+	<featuregroup type = "standard">
+		<feature name = "Number">
+			<value>Singular</value>
+			<value>Dual</value>
+			<value>Trial</value>
+			<value>Quadrial</value>
+			<value>Paucal</value>
+			<value>Plural</value>
+		</feature>
+		<feature name = "Participant Tracking">	
+			<value>First Mention</value>
+			<value>Routine</value>
+			<value>Integration</value>
+			<value>Exiting</value>
+			<value>Restaging</value>
+			<value>Offstage</value>
+			<value>Generic</value>
+			<value>Interrogative</value>
+			<value>Frame Inferable</value>
+		</feature>
+		<feature name = "Polarity">
+			<value>Affirmative</value>
+			<value>Negative</value>
+		</feature>
+		<feature name = "Proximity">
+			<value>N/A</value>
+			<value>Near Speaker and Listener</value>
+			<value>Near Speaker</value>
+			<value>Near Listener</value>
+			<value>Remote within Sight</value>
+			<value>Remote out of Sight</value>
+			<value>Temporarily Near</value>
+			<value>Temporally Remote</value>
+			<value>Contextually Near with Focus</value>
+			<value>Contextually Near</value>
+		</feature>
+		<feature name = "Expansion">
+			<value>Unspecified</value>
+		</feature>
+		<feature name = "Person">
+			<value>First</value>
+			<value>Second</value>
+			<value>Third</value>
+			<value>First and Second</value>
+			<value>First and Third</value>
+			<value>Second and Third</value>
+			<value>First Second and Third</value>
+		</feature>
+		<feature name = "Surface Realization">
+			<value>N/A</value>
+			<value>Always Noun</value>
+			<value>Unambiguous Pronoun</value>
+		</feature>
+		<feature name = "Participant Status">
+			<value>N/A</value>
+			<value>Protagonist</value>
+			<value>Antagonist</value>
+			<value>Major Participant</value>
+			<value>Minor Participant</value>
+			<value>Major Prop</value>
+			<value>Minor Prop</value>
+			<value>Significant Location</value>
+			<value>Insignificant Location</value>
+			<value>Significant Time</value>
+		</feature>		
+	</featuregroup>
+	<featuregroup type = "user">
+	</featuregroup>
+</component>
+<component name = "V">
+	<featuregroup type = "standard">
+		<feature name = "Time">
+			<value>Present</value>
+			<value>Immediate Past</value>
+			<value>Earlier Today</value>
+			<value>Yesterday</value>
+			<value>2 Days ago</value>
+			<value>3 Days ago</value>
+			<value>Week ago</value>
+			<value>Month ago</value>
+			<value>Year ago</value>
+			<value>Speaker Lifetime</value>
+			<value>Historic Past</value>
+			<value>Eternity Past</value>
+			<value>Unknown Past</value>
+			<value>Discourse</value>
+			<value>Immediate Future</value>
+			<value>Later Today</value>
+			<value>Tomorrow</value>
+			<value>2 Days from Now</value>
+			<value>3 Days from Now</value>
+			<value>Week from Now</value>
+			<value>Month from Now</value>
+			<value>Year from Now</value>
+			<value>Unkown Future</value>
+			<value>Timeless</value>
+		</feature>
+		<feature name = "Aspect">
+			<value>Unmarked</value>
+			<value>Habitual</value>
+			<value>Completive</value>
+			<value>Inceptive</value>
+			<value>Cessative</value>
+			<value>Continuative</value>
+			<value>Gnomic</value>
+			<value>Imperfect</value>
+		</feature>
+		<feature name = "Mood">
+			<value>Indicative</value>
+			<value>Definite Potenital</value>
+			<value>Probable Potential</value>
+			<value>Might Potential</value>
+			<value>Unlikely Potential</value>
+			<value>Impossible Potential</value>
+			<value>Must Obligation</value>
+			<value>Should Obligation</value>
+			<value>Should Not Obligation</value>
+			<value>Forbidden Obligation</value>
+			<value>May Permissive</value>
+		</feature>
+		<feature name = "Reflexivity">
+			<value>N/A</value>
+			<value>Reciprocal</value>
+			<value>Reflexive</value>
+		</feature>
+		<feature name = "Polarity">
+			<value>Affirmative</value>
+			<value>Negative</value>
+			<value>Emphatic Affirmative</value>
+			<value>Emphatic Negative</value>
+		</feature>
+		<feature name = "Direction of Motion">
+			<value>N/A</value>
+			<value>Toward Action</value>
+			<value>Away from Action</value>
+		</feature>
+	</featuregroup>
+	<featuregroup type = "user">
+	</featuregroup>
+</component>
+<component name = "Adj">
+	<featuregroup type = "standard">
+		<feature name = "Degree">
+			<value>N/A</value>
+			<value>Comparative</value>
+			<value>Superlative</value>
+			<value>Intensified</value>
+			<value>Extremely Intensified</value>
+			<value>Too</value>
+			<value>Less</value>
+			<value>Least</value>
+			
+		</feature>
+	</featuregroup>
+	<featuregroup type = "user">
+	</featuregroup>
+</component>
+<component name = "Adv">
+	<featuregroup type = "standard">
+		<feature name = "Degree">
+			<value>N/A</value>
+			<value>Comparative</value>
+			<value>Superlative</value>
+			<value>Intensified</value>
+			<value>Extremely Intensified</value>
+			<value>Too</value>
+			<value>Less</value>
+			<value>Least</value>
+			
+		</feature>
+	</featuregroup>
+	<featuregroup type = "user">
+	</featuregroup>
+</component>
+<component name = "Adp">
+	<featuregroup type = "standard">
+	</featuregroup>
+	<featuregroup type = "user">
+	</featuregroup>
+</component>
+<component name = "Conj">
+	<featuregroup type = "standard">
+	</featuregroup>
+	<featuregroup type = "user">
+	</featuregroup>
+</component>
+<component name = "Particle">
+	<featuregroup type = "standard">
+	</featuregroup>
+	<featuregroup type = "user">
+	</featuregroup>
+</component>
+</db>
+
+
+   
+	

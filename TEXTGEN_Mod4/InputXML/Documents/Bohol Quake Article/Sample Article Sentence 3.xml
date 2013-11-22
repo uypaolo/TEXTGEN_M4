@@ -1,0 +1,11 @@
+<document name="Sample Article Sentence 3">
+  <comments>This is the third sentence in the Sample Article</comments>
+  <component name="Cl">
+    <component name="N" concept="people" sense="A" />
+    <component name="VP">
+      <component name="V" concept="worry" sense="A" />
+      <component name="N" concept="death" sense="A" />
+      <component name="N" concept="children" sense="B" />
+    </component>
+  </component>
+</document>
