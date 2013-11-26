@@ -6,6 +6,7 @@ import java.awt.event.MouseEvent;
 import view.grammardevelopment.ComponentPanel;
 import view.grammardevelopment.ViewSemanticsPanel;
 import view.rules.FeaturePaletteScrollPanelForRules;
+import view.rules.RuleApplyWindow;
 
 public class SelectComponentActionListener extends MouseAdapter {
 
@@ -13,7 +14,9 @@ public class SelectComponentActionListener extends MouseAdapter {
 	private ViewSemanticsPanel loadPanel;
 	final int RULE_CREATION = 1;
 	final int RULE_VIEWSTEM = 2;
+	final int RULE_APPLY = 3;
 	private FeaturePaletteScrollPanelForRules featPalette;
+	private RuleApplyWindow applyWindow;
 	int flag;
 	public SelectComponentActionListener(ViewSemanticsPanel loadPanel){
 		flag = RULE_VIEWSTEM;
@@ -23,6 +26,11 @@ public class SelectComponentActionListener extends MouseAdapter {
 	public SelectComponentActionListener(FeaturePaletteScrollPanelForRules featPalette){
 		flag = RULE_CREATION;
 		this.featPalette = featPalette;
+	}
+	
+	public SelectComponentActionListener(RuleApplyWindow applyWindow){
+		flag = RULE_APPLY;
+		this.applyWindow = applyWindow;
 	}
 	
 	public ComponentPanel getSelectedPanel(){
@@ -44,6 +52,8 @@ public class SelectComponentActionListener extends MouseAdapter {
 			loadPanel.setComponent(selectedPanel.getComponent());
 		if(flag == RULE_CREATION)
 			featPalette.initCmbValues(selectedPanel.getComponent());
+		if(flag == RULE_APPLY)
+			applyWindow.setInfo(selectedPanel.getComponent());
 			
 	}
 }

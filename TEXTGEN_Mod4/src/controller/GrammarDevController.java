@@ -80,7 +80,7 @@ public class GrammarDevController {
 		grammarDevPanel.setDoneEditingButtonListener(new LoadPanelToolbarBtnListener(grammarDevPanel, ViewSemanticsPanel.MODE_VIEW));
 		grammarDevPanel.setInitializeButtonListener(new LoadPanelToolbarBtnListener(grammarDevPanel, ViewSemanticsPanel.MODE_VIEW));
 		grammarDevPanel.setEditDocInfoButtonListener(new EditDocInfoButtonListener(this));
-		grammarDevPanel.setPindutanButtonListener(new PindutanListener(grammarDevPanel.getDocumentPanelList()));
+		grammarDevPanel.setPindutanButtonListener(new PindutanListener(grammarDevPanel));
 		
 		grammarDevPanel.setNextButtonListener(new NextPrevListener(NextPrevListener.MODE_NEXT, this));
 		grammarDevPanel.setPrevButtonListener(new NextPrevListener(NextPrevListener.MODE_PREV, this));

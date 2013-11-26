@@ -44,6 +44,8 @@ public class ViewSemanticsPanel extends JPanel{
 	private JTreeWithScrollPane jTreePane;
 	private TextAreaWithScrollPane infoArea;
 	private ArrayList<InputXMLDocumentPanel> xmlDocPanels;
+	
+	private int currIndex;
 		
 	private GrammarDevController grammarDevController;
 	
@@ -56,6 +58,7 @@ public class ViewSemanticsPanel extends JPanel{
 			xmlDocPanels.add(new InputXMLDocumentPanel(doc));
 
 		this.initialDocPanel = xmlDocPanels.get(0);
+		this.setCurrIndex(0);
 		
 		//Create GUI elements
 		initializePanelSettings();
@@ -213,6 +216,8 @@ public class ViewSemanticsPanel extends JPanel{
 	
 	public void setDocumentPanelIndex(int index) {
 		if(index >=0 && index <xmlDocPanels.size()){
+			currIndex = index;
+			setCurrIndex(index);
 			InputXMLDocumentPanel desiredPanel = xmlDocPanels.get(index);
 			toolBar.setCurrFileSelectedText("Current File Selected: "+desiredPanel.getXMLDocument().getName()+"  File: "+(index+1)+"/"+xmlDocPanels.size());
 			display.setToolTipText(desiredPanel.getComments());
@@ -285,6 +290,14 @@ public class ViewSemanticsPanel extends JPanel{
 	
 	public void setPrevButtonListener(NextPrevListener listener){
 		toolBar.setBtnPrevListener(listener);
+	}
+
+	public int getCurrIndex() {
+		return currIndex;
+	}
+
+	public void setCurrIndex(int currIndex) {
+		this.currIndex = currIndex;
 	}
 	
 }
