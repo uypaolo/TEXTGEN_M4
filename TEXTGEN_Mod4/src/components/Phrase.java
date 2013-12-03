@@ -65,7 +65,7 @@ public class Phrase extends Component{
 	}
 
 	public String toString() {
-		return name;
+		return name+" "+affected;
 	}
 
 	@Override

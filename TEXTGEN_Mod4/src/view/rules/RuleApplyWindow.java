@@ -9,6 +9,7 @@ import java.util.ArrayList;
 import javax.swing.BorderFactory;
 import javax.swing.BoxLayout;
 import javax.swing.JFrame;
+import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JSplitPane;
@@ -23,21 +24,28 @@ import view.grammardevelopment.JTreeWithScrollPane;
 import view.grammardevelopment.TextAreaWithScrollPane;
 import view.grammardevelopment.TreeNode;
 
+import components.Children;
 import components.Component;
 import components.InputXMLDocument;
+import components.Leaf;
+import components.Phrase;
 
 import controller.listener.grammardev.SelectComponentActionListener;
+import features.Feature;
 
 public class RuleApplyWindow extends JFrame{
 	
 	TextAreaWithScrollPane infoArea;
 	Rules selectedRule;
 	InputXMLDocument input;
+	ArrayList<Component> affectedComp;
 	JSplitPane splitPane;
 	RuleCreationPanel toMatchStruct;
 	InputXMLDocumentPanel matchedStruct;
 	JPanel LeftSide;
 	JPanel RightSide;
+	JLabel isApplicable;
+	boolean applicable = false;
 	
 	SelectComponentActionListener selectListener;
 	
@@ -149,8 +157,11 @@ public class RuleApplyWindow extends JFrame{
 		this.matchedStruct.setBorder(BorderFactory.createTitledBorder("Matched"));
 		this.matchedStruct.setSelectComponentPanelListener(selectListener);
 		
+		this.isApplicable = new JLabel("No Rule Selected");
+		
 		this.LeftSide.add(new JScrollPane(this.toMatchStruct));
 		this.LeftSide.add(new JScrollPane(this.matchedStruct));
+		this.LeftSide.add(this.isApplicable);
 		
 		this.RightSide.add(ruleTree);
 		this.RightSide.add(this.infoArea);
@@ -163,19 +174,144 @@ public class RuleApplyWindow extends JFrame{
 	}
 	
 	public void selectedRuleChanged(Rules selected){
+		this.affectedComp = new ArrayList<Component>();
+		this.applicable = false;
 		this.toMatchStruct.setInputXMLDoc(new InputXMLDocument(null, "", "", "", selected.getCopyOfInputToMatch()));
 		this.toMatchStruct.setSelectComponentPanelListener(selectListener);
 		//this.matchedStruct.setInputXMLDoc(new InputXMLDocument(null, "", "", "", selected.getCopyOfInputToMatch()));
-		this.matchedStruct.setInputXMLDoc(match(selected.getCopyOfInputToMatch()));
+		
+		
+		removeAffected(input.getClauses());
+		
+		getMatch(input.getClauses(),selected.getCopyOfInputToMatch());
+		
+		this.matchedStruct.setInputXMLDoc(new InputXMLDocument(null, "", "", "", input.getClauses()));
 		this.matchedStruct.setSelectComponentPanelListener(selectListener);
+		if(applicable){
+			System.out.println("jahsdkarnb!!");
+			this.isApplicable.setText("Applicable");
+		}
+		else{
+			this.isApplicable.setText("Not Applicable");
+		}
 	}
 	
-	public InputXMLDocument match(ArrayList<Component> toMatch){
-		//InputXMLDocument match = new InputXMLDocument(null, "", "", "", toMatch);
+	public boolean getMatch(ArrayList<Component> struct, ArrayList<Component> toMatch){
 		
-		ArrayList<Component> in = input.getClauses();
+			
+			if(!applicable){
+				this.applicable = phase1(struct, toMatch);
+			}
+			else{
+				System.out.println("MATCHED!!");
+				phase1(struct, toMatch);
+			}
+			
+			for(int j=0; j<struct.size(); j++){			
+				if(!struct.get(j).isLeaf()){
+					getMatch(struct.get(j).getChildren().getChildren(), toMatch);
+				}
+			}
 		
-		return new InputXMLDocument(null, "", "", "", in);
+		
+		return true;
+		
+	}
+	
+	public void removeAffected(ArrayList<Component> struct){
+		for(Component c: struct){
+			c.setAffected("");
+			if(!c.isLeaf()){
+				removeAffected(c.getChildren().getChildren());
+			}
+		}
+		
+	}
+	
+	public boolean phase1(ArrayList<Component> struct, ArrayList<Component> toMatch){
+		int j=0;
+		int i=0;
+		Phrase temp;
+		Children tempch;
+		boolean matched = false;
+		System.out.println(struct.size());
+		for(i=0; i<toMatch.size() && j<struct.size();i++){	
+			for(; j<struct.size(); j++){
+				System.out.println("BeforeCheck "+struct.get(j).getName()+"  "+toMatch.get(i).getName());
+				if(toMatch.get(i).getName().equalsIgnoreCase(struct.get(j).getName()) && featureMatch(struct.get(j).getFeatures(), toMatch.get(i).getFeatures())){
+					System.out.println(toMatch.get(i).getName()+"    "+struct.get(j).getName());
+					if(!toMatch.get(i).isLeaf()){
+						if(phase1(struct.get(j).getChildren().getChildren(), toMatch.get(i).getChildren().getChildren())){
+							matched = true;
+							struct.get(j).setAffected("*MATCHED*");
+							//i++;
+							//j++;
+							//break;
+						}
+					}
+					else{
+						if(((Leaf)toMatch.get(i)).getConcept().equalsIgnoreCase("")){
+							System.out.println("EMPTY CONCEPT");
+							matched = true;
+							struct.get(j).setAffected("*MATCHED*");
+						}
+						else if(((Leaf)toMatch.get(i)).getConcept().equalsIgnoreCase(((Leaf)struct.get(j)).getConcept())){
+							matched = true;
+							struct.get(j).setAffected("*MATCHED*");
+						}
+						//i++;
+						//j++;
+						//break;
+					}
+				}
+			}
+			
+		}
+		//System.out.println(i+"      "+toMatch.size());
+		if(toMatch.size()==0){
+			return true;
+		}
+		if(i>=toMatch.size() && matched){
+			//System.out.println(i+"      "+toMatch.size());
+			return true;
+		}
+		
+		return false;
+	}
+	
+	public boolean featureMatch(ArrayList<Feature> struct, ArrayList<Feature> toMatch){
+		
+		Feature currFeature;
+		ArrayList<Feature> checked = new ArrayList<Feature>();
+		
+		for(Feature f: toMatch){
+			if(!inChecked(checked, f)){
+				for(Feature fs: struct){
+					if(f.getName().equalsIgnoreCase(fs.getName()) && f.getValue().equalsIgnoreCase(fs.getValue())){
+						checked.add(f);
+					}
+				}
+			}
+			else{
+				checked.add(f);
+			}
+		}
+		
+		if(checked.size() == toMatch.size()){
+			return true;
+		}
+		
+		return false;
+	}
+	
+	public boolean inChecked(ArrayList<Feature> checked, Feature f){
+		for(Feature fs: checked){
+			if(f.getName().equalsIgnoreCase(fs.getName())){
+				return true;
+			}
+		}
+		
+		return false;
 	}
 	
 	public void setInfo(Component component){

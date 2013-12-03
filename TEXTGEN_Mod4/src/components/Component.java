@@ -26,6 +26,8 @@ public abstract class Component {
 	protected String name;
 	protected FeatureList featureList;
 
+	public String affected = "";
+	
 	protected boolean autoAddDefaultFeaturesInCreation;
 	
 	//Constructor
@@ -244,5 +246,13 @@ public abstract class Component {
 		
 	public ArrayList<Feature> getFeatures(){
 		return featureList.getFeatureList();
+	}
+
+	public String getAffected() {
+		return affected;
+	}
+
+	public void setAffected(String affected) {
+		this.affected = affected;
 	}
 }

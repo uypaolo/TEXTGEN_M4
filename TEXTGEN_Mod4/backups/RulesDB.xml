@@ -68,7 +68,11 @@
       <group name="verbs">
         <rule name="morpho1" type="morphophonemic" status="false">
           <lhs>
-            <component name="morpho1" />
+            <component name="CL">
+              <component name="np">
+                <component name="N" concept="" sense="" />
+              </component>
+            </component>
           </lhs>
           <rhs morphemeType="prefix" changeType="end" oldValue="s" newValue="es" />
           <stem stemType="doesn't change" beginOrEnd="y" />
@@ -76,7 +80,11 @@
         </rule>
         <rule name="morpho2" type="morphophonemic" status="false">
           <lhs>
-            <component name="morpho2" />
+            <component name="CL">
+              <component name="np">
+                <component name="N" concept="" sense="" />
+              </component>
+            </component>
           </lhs>
           <rhs morphemeType="suffix" changeType="beginning" oldValue="s" newValue="es" />
           <stem stemType="changes" beginOrEnd="y" newBeginOrEnd="i" />
@@ -84,7 +92,11 @@
         </rule>
         <rule name="morpho3" type="morphophonemic" status="false">
           <lhs>
-            <component name="morpho3" />
+            <component name="CL">
+              <component name="np">
+                <component name="N" concept="" sense="" />
+              </component>
+            </component>
           </lhs>
           <rhs morphemeType="prefix" changeType="doesn't change" oldValue="s" />
           <stem stemType="changes" beginOrEnd="y" newBeginOrEnd="i" />
@@ -101,6 +113,18 @@
           <rhs morphemeType="suffix" changeType="part changes" oldValue="in" newValue="ingan" />
           <stem stemType="doesn't change" beginOrEnd="kain" />
           <description>Hello</description>
+        </rule>
+        <rule name="morpho5" type="morphophonemic" status="false">
+          <lhs>
+            <component name="CL">
+              <component name="np">
+                <component name="N" concept="" sense="" />
+              </component>
+            </component>
+          </lhs>
+          <rhs morphemeType="prefix" changeType="doesn't change" oldValue="pp" />
+          <stem stemType="doesn't change" beginOrEnd="p" />
+          <description>gjt</description>
         </rule>
       </group>
       <rule name="Hahahaha" type="form selection" status="false">
@@ -143,6 +167,42 @@
       </lhs>
       <rhs type="newtranslation" subWord="Hello" form="base" />
       <description>lskdj</description>
+    </rule>
+    <rule name="test1" type="structural" status="false">
+      <lhs>
+        <component name="Cl" tag="1">
+          <component name="NP" tag="2">
+            <component name="Cl" tag="3" />
+          </component>
+        </component>
+      </lhs>
+      <output>
+        <component name="Cl" tag="1">
+          <component name="NP" tag="2">
+            <component name="Cl" tag="3" />
+          </component>
+        </component>
+      </output>
+      <rhs />
+      <description />
+    </rule>
+    <rule name="test2" type="structural" status="false">
+      <lhs>
+        <component name="Cl" tag="1">
+          <component name="NP" tag="2">
+            <component name="AdjP" tag="3" />
+          </component>
+        </component>
+      </lhs>
+      <output>
+        <component name="Cl" tag="1">
+          <component name="NP" tag="2">
+            <component name="AdjP" tag="3" />
+          </component>
+        </component>
+      </output>
+      <rhs />
+      <description />
     </rule>
   </group>
   <rule name="Morphophonemic1" type="morphophonemic" status="false">
@@ -204,12 +264,53 @@
             <features>
               <feature name="Number" value="Dual" />
               <feature name="Number" value="Trial" />
+              <feature name="Participant Tracking" value="Routine" />
+              <feature name="Participant Tracking" value="Frame Inferable" />
             </features>
           </component>
         </component>
       </component>
     </lhs>
     <rhs type="suffix" subWord="Ha" form="base" />
+    <description />
+  </rule>
+  <rule name="npv" type="structural" status="false">
+    <lhs>
+      <component name="NP" tag="1">
+        <component name="V" tag="2" concept="" sense="" />
+      </component>
+    </lhs>
+    <output>
+      <component name="NP" tag="1">
+        <component name="V" tag="2" concept="" sense="" />
+      </component>
+    </output>
+    <rhs />
+    <description />
+  </rule>
+  <rule name="adjpn" type="structural" status="false">
+    <lhs>
+      <component name="AdjP" tag="1">
+        <component name="N" tag="2" concept="" sense="" />
+      </component>
+    </lhs>
+    <output>
+      <component name="AdjP" tag="1">
+        <component name="N" tag="2" concept="" sense="" />
+      </component>
+    </output>
+    <rhs />
+    <description />
+  </rule>
+  <rule name="liahdkajh" type="simple spellout" status="true">
+    <lhs>
+      <component name="CL">
+        <component name="np">
+          <component name="N" concept="" sense="" lexicon="Melissa" />
+        </component>
+      </component>
+    </lhs>
+    <rhs type="newtranslation" subWord="Dane" form="base" />
     <description />
   </rule>
 </group>

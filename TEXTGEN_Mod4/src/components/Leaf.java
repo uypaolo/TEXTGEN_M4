@@ -72,7 +72,7 @@ public class Leaf extends Component{
 		string.append(concept);
 		string.append("-");
 		string.append(lexicalSense);
-		return string.toString();
+		return string.toString() + " " + affected;
 	}
 	
 	@Override

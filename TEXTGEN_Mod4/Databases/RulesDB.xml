@@ -16,7 +16,11 @@
           <output>
             <component name="cl">
               <component name="np">
-                <component name="n" concept="Melissa" sense="A" lexicon="Melissa" />
+                <component name="n" concept="Melissa" sense="A" lexicon="Melissa">
+                  <features>
+                    <feature name="Number" value="Dual" />
+                  </features>
+                </component>
               </component>
               <component name="vp">
                 <features>
@@ -42,9 +46,9 @@
                 <feature name="Person" value="First" />
               </editFeature>
             </action>
-            <action type="edit feature" description="Set n: Melissa-A feature: Number to Singular.">
+            <action type="edit feature" description="Set n: Melissa-A  feature: Number to Dual.">
               <editFeature target="-1">
-                <feature name="Number" value="Singular" />
+                <feature name="Number" value="Dual" />
               </editFeature>
             </action>
           </rhs>
@@ -168,6 +172,42 @@
       <rhs type="newtranslation" subWord="Hello" form="base" />
       <description>lskdj</description>
     </rule>
+    <rule name="test1" type="structural" status="false">
+      <lhs>
+        <component name="Cl" tag="1">
+          <component name="NP" tag="2">
+            <component name="Cl" tag="3" />
+          </component>
+        </component>
+      </lhs>
+      <output>
+        <component name="Cl" tag="1">
+          <component name="NP" tag="2">
+            <component name="Cl" tag="3" />
+          </component>
+        </component>
+      </output>
+      <rhs />
+      <description />
+    </rule>
+    <rule name="test2" type="structural" status="false">
+      <lhs>
+        <component name="Cl" tag="1">
+          <component name="NP" tag="2">
+            <component name="AdjP" tag="3" />
+          </component>
+        </component>
+      </lhs>
+      <output>
+        <component name="Cl" tag="1">
+          <component name="NP" tag="2">
+            <component name="AdjP" tag="3" />
+          </component>
+        </component>
+      </output>
+      <rhs />
+      <description />
+    </rule>
   </group>
   <rule name="Morphophonemic1" type="morphophonemic" status="false">
     <lhs>
@@ -228,12 +268,53 @@
             <features>
               <feature name="Number" value="Dual" />
               <feature name="Number" value="Trial" />
+              <feature name="Participant Tracking" value="Routine" />
+              <feature name="Participant Tracking" value="Frame Inferable" />
             </features>
           </component>
         </component>
       </component>
     </lhs>
     <rhs type="suffix" subWord="Ha" form="base" />
+    <description />
+  </rule>
+  <rule name="npv" type="structural" status="false">
+    <lhs>
+      <component name="NP" tag="1">
+        <component name="V" tag="2" concept="" sense="" />
+      </component>
+    </lhs>
+    <output>
+      <component name="NP" tag="1">
+        <component name="V" tag="2" concept="" sense="" />
+      </component>
+    </output>
+    <rhs />
+    <description />
+  </rule>
+  <rule name="adjpn" type="structural" status="false">
+    <lhs>
+      <component name="AdjP" tag="1">
+        <component name="N" tag="2" concept="" sense="" />
+      </component>
+    </lhs>
+    <output>
+      <component name="AdjP" tag="1">
+        <component name="N" tag="2" concept="" sense="" />
+      </component>
+    </output>
+    <rhs />
+    <description />
+  </rule>
+  <rule name="liahdkajh" type="simple spellout" status="true">
+    <lhs>
+      <component name="CL">
+        <component name="np">
+          <component name="N" concept="" sense="" lexicon="Melissa" />
+        </component>
+      </component>
+    </lhs>
+    <rhs type="newtranslation" subWord="Dane" form="base" />
     <description />
   </rule>
 </group>

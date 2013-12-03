@@ -20,6 +20,7 @@ public abstract class Action {
 		this.actionType = actionType;
 		actionDescription = "";
 	}
+	
 	public abstract void performAction(Component component);
 	
 	public Element generateXMLElement(){
@@ -33,7 +34,6 @@ public abstract class Action {
 	public String getActionType() {
 		return actionType;
 	}
-
 	
 	public abstract Element generateAdditionalXMLElement();
 	
